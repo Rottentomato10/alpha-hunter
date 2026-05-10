@@ -1,0 +1,1698 @@
+symbol,name,exchange,sector
+MMM,3M,NYSE/NASDAQ,Industrials
+AOS,A. O. Smith,NYSE/NASDAQ,Industrials
+ABT,Abbott Laboratories,NYSE/NASDAQ,Health Care
+ABBV,AbbVie,NYSE/NASDAQ,Health Care
+ACN,Accenture,NYSE/NASDAQ,Information Technology
+ADBE,Adobe Inc.,NYSE/NASDAQ,Information Technology
+AMD,Advanced Micro Devices,NYSE/NASDAQ,Information Technology
+AES,AES Corporation,NYSE/NASDAQ,Utilities
+AFL,Aflac,NYSE/NASDAQ,Financials
+A,Agilent Technologies,NYSE/NASDAQ,Health Care
+APD,Air Products,NYSE/NASDAQ,Materials
+ABNB,Airbnb,NYSE/NASDAQ,Consumer Discretionary
+AKAM,Akamai Technologies,NYSE/NASDAQ,Information Technology
+ALB,Albemarle Corporation,NYSE/NASDAQ,Materials
+ARE,Alexandria Real Estate Equities,NYSE/NASDAQ,Real Estate
+ALGN,Align Technology,NYSE/NASDAQ,Health Care
+ALLE,Allegion,NYSE/NASDAQ,Industrials
+LNT,Alliant Energy,NYSE/NASDAQ,Utilities
+ALL,Allstate,NYSE/NASDAQ,Financials
+GOOGL,Alphabet Inc. (Class A),NYSE/NASDAQ,Communication Services
+GOOG,Alphabet Inc. (Class C),NYSE/NASDAQ,Communication Services
+MO,Altria,NYSE/NASDAQ,Consumer Staples
+AMZN,Amazon,NYSE/NASDAQ,Consumer Discretionary
+AMCR,Amcor,NYSE/NASDAQ,Materials
+AEE,Ameren,NYSE/NASDAQ,Utilities
+AEP,American Electric Power,NYSE/NASDAQ,Utilities
+AXP,American Express,NYSE/NASDAQ,Financials
+AIG,American International Group,NYSE/NASDAQ,Financials
+AMT,American Tower,NYSE/NASDAQ,Real Estate
+AWK,American Water Works,NYSE/NASDAQ,Utilities
+AMP,Ameriprise Financial,NYSE/NASDAQ,Financials
+AME,Ametek,NYSE/NASDAQ,Industrials
+AMGN,Amgen,NYSE/NASDAQ,Health Care
+APH,Amphenol,NYSE/NASDAQ,Information Technology
+ADI,Analog Devices,NYSE/NASDAQ,Information Technology
+AON,Aon plc,NYSE/NASDAQ,Financials
+APA,APA Corporation,NYSE/NASDAQ,Energy
+APO,Apollo Global Management,NYSE/NASDAQ,Financials
+AAPL,Apple Inc.,NYSE/NASDAQ,Information Technology
+AMAT,Applied Materials,NYSE/NASDAQ,Information Technology
+APP,AppLovin,NYSE/NASDAQ,Information Technology
+APTV,Aptiv,NYSE/NASDAQ,Consumer Discretionary
+ACGL,Arch Capital Group,NYSE/NASDAQ,Financials
+ADM,Archer Daniels Midland,NYSE/NASDAQ,Consumer Staples
+ARES,Ares Management,NYSE/NASDAQ,Financials
+ANET,Arista Networks,NYSE/NASDAQ,Information Technology
+AJG,Arthur J. Gallagher & Co.,NYSE/NASDAQ,Financials
+AIZ,Assurant,NYSE/NASDAQ,Financials
+T,AT&T,NYSE/NASDAQ,Communication Services
+ATO,Atmos Energy,NYSE/NASDAQ,Utilities
+ADSK,Autodesk,NYSE/NASDAQ,Information Technology
+ADP,Automatic Data Processing,NYSE/NASDAQ,Industrials
+AZO,AutoZone,NYSE/NASDAQ,Consumer Discretionary
+AVB,AvalonBay Communities,NYSE/NASDAQ,Real Estate
+AVY,Avery Dennison,NYSE/NASDAQ,Materials
+AXON,Axon Enterprise,NYSE/NASDAQ,Industrials
+BKR,Baker Hughes,NYSE/NASDAQ,Energy
+BALL,Ball Corporation,NYSE/NASDAQ,Materials
+BAC,Bank of America,NYSE/NASDAQ,Financials
+BAX,Baxter International,NYSE/NASDAQ,Health Care
+BDX,Becton Dickinson,NYSE/NASDAQ,Health Care
+BBY,Best Buy,NYSE/NASDAQ,Consumer Discretionary
+TECH,Bio-Techne,NYSE/NASDAQ,Health Care
+BIIB,Biogen,NYSE/NASDAQ,Health Care
+BLK,BlackRock,NYSE/NASDAQ,Financials
+BX,Blackstone Inc.,NYSE/NASDAQ,Financials
+XYZ,"Block, Inc.",NYSE/NASDAQ,Financials
+BK,BNY Mellon,NYSE/NASDAQ,Financials
+BA,Boeing,NYSE/NASDAQ,Industrials
+BKNG,Booking Holdings,NYSE/NASDAQ,Consumer Discretionary
+BSX,Boston Scientific,NYSE/NASDAQ,Health Care
+BMY,Bristol Myers Squibb,NYSE/NASDAQ,Health Care
+AVGO,Broadcom,NYSE/NASDAQ,Information Technology
+BR,Broadridge Financial Solutions,NYSE/NASDAQ,Industrials
+BRO,Brown & Brown,NYSE/NASDAQ,Financials
+BLDR,Builders FirstSource,NYSE/NASDAQ,Industrials
+BG,Bunge Global,NYSE/NASDAQ,Consumer Staples
+BXP,"BXP, Inc.",NYSE/NASDAQ,Real Estate
+CHRW,C.H. Robinson,NYSE/NASDAQ,Industrials
+CDNS,Cadence Design Systems,NYSE/NASDAQ,Information Technology
+CPT,Camden Property Trust,NYSE/NASDAQ,Real Estate
+CPB,Campbell's Company (The),NYSE/NASDAQ,Consumer Staples
+COF,Capital One,NYSE/NASDAQ,Financials
+CAH,Cardinal Health,NYSE/NASDAQ,Health Care
+CCL,Carnival Corporation,NYSE/NASDAQ,Consumer Discretionary
+CARR,Carrier Global,NYSE/NASDAQ,Industrials
+CVNA,Carvana,NYSE/NASDAQ,Consumer Discretionary
+CASY,Casey's,NYSE/NASDAQ,Consumer Staples
+CAT,Caterpillar Inc.,NYSE/NASDAQ,Industrials
+CBOE,Cboe Global Markets,NYSE/NASDAQ,Financials
+CBRE,CBRE Group,NYSE/NASDAQ,Real Estate
+CDW,CDW Corporation,NYSE/NASDAQ,Information Technology
+COR,Cencora,NYSE/NASDAQ,Health Care
+CNC,Centene Corporation,NYSE/NASDAQ,Health Care
+CNP,CenterPoint Energy,NYSE/NASDAQ,Utilities
+CF,CF Industries,NYSE/NASDAQ,Materials
+CRL,Charles River Laboratories,NYSE/NASDAQ,Health Care
+SCHW,Charles Schwab Corporation,NYSE/NASDAQ,Financials
+CHTR,Charter Communications,NYSE/NASDAQ,Communication Services
+CVX,Chevron Corporation,NYSE/NASDAQ,Energy
+CMG,Chipotle Mexican Grill,NYSE/NASDAQ,Consumer Discretionary
+CB,Chubb Limited,NYSE/NASDAQ,Financials
+CHD,Church & Dwight,NYSE/NASDAQ,Consumer Staples
+CIEN,Ciena,NYSE/NASDAQ,Information Technology
+CI,Cigna,NYSE/NASDAQ,Health Care
+CINF,Cincinnati Financial,NYSE/NASDAQ,Financials
+CTAS,Cintas,NYSE/NASDAQ,Industrials
+CSCO,Cisco,NYSE/NASDAQ,Information Technology
+C,Citigroup,NYSE/NASDAQ,Financials
+CFG,Citizens Financial Group,NYSE/NASDAQ,Financials
+CLX,Clorox,NYSE/NASDAQ,Consumer Staples
+CME,CME Group,NYSE/NASDAQ,Financials
+CMS,CMS Energy,NYSE/NASDAQ,Utilities
+KO,Coca-Cola Company (The),NYSE/NASDAQ,Consumer Staples
+CTSH,Cognizant,NYSE/NASDAQ,Information Technology
+COHR,Coherent Corp.,NYSE/NASDAQ,Information Technology
+COIN,Coinbase,NYSE/NASDAQ,Financials
+CL,Colgate-Palmolive,NYSE/NASDAQ,Consumer Staples
+CMCSA,Comcast,NYSE/NASDAQ,Communication Services
+FIX,Comfort Systems USA,NYSE/NASDAQ,Industrials
+CAG,Conagra Brands,NYSE/NASDAQ,Consumer Staples
+COP,ConocoPhillips,NYSE/NASDAQ,Energy
+ED,Consolidated Edison,NYSE/NASDAQ,Utilities
+STZ,Constellation Brands,NYSE/NASDAQ,Consumer Staples
+CEG,Constellation Energy,NYSE/NASDAQ,Utilities
+COO,Cooper Companies (The),NYSE/NASDAQ,Health Care
+CPRT,Copart,NYSE/NASDAQ,Industrials
+GLW,Corning Inc.,NYSE/NASDAQ,Information Technology
+CPAY,Corpay,NYSE/NASDAQ,Financials
+CTVA,Corteva,NYSE/NASDAQ,Materials
+CSGP,CoStar Group,NYSE/NASDAQ,Real Estate
+COST,Costco,NYSE/NASDAQ,Consumer Staples
+CRH,CRH plc,NYSE/NASDAQ,Materials
+CRWD,CrowdStrike,NYSE/NASDAQ,Information Technology
+CCI,Crown Castle,NYSE/NASDAQ,Real Estate
+CSX,CSX Corporation,NYSE/NASDAQ,Industrials
+CMI,Cummins,NYSE/NASDAQ,Industrials
+CVS,CVS Health,NYSE/NASDAQ,Health Care
+DHR,Danaher Corporation,NYSE/NASDAQ,Health Care
+DRI,Darden Restaurants,NYSE/NASDAQ,Consumer Discretionary
+DDOG,Datadog,NYSE/NASDAQ,Information Technology
+DVA,DaVita,NYSE/NASDAQ,Health Care
+DECK,Deckers Brands,NYSE/NASDAQ,Consumer Discretionary
+DE,Deere & Company,NYSE/NASDAQ,Industrials
+DELL,Dell Technologies,NYSE/NASDAQ,Information Technology
+DAL,Delta Air Lines,NYSE/NASDAQ,Industrials
+DVN,Devon Energy,NYSE/NASDAQ,Energy
+DXCM,Dexcom,NYSE/NASDAQ,Health Care
+FANG,Diamondback Energy,NYSE/NASDAQ,Energy
+DLR,Digital Realty,NYSE/NASDAQ,Real Estate
+DG,Dollar General,NYSE/NASDAQ,Consumer Staples
+DLTR,Dollar Tree,NYSE/NASDAQ,Consumer Staples
+D,Dominion Energy,NYSE/NASDAQ,Utilities
+DPZ,Domino's,NYSE/NASDAQ,Consumer Discretionary
+DASH,DoorDash,NYSE/NASDAQ,Consumer Discretionary
+DOV,Dover Corporation,NYSE/NASDAQ,Industrials
+DOW,Dow Inc.,NYSE/NASDAQ,Materials
+DHI,D. R. Horton,NYSE/NASDAQ,Consumer Discretionary
+DTE,DTE Energy,NYSE/NASDAQ,Utilities
+DUK,Duke Energy,NYSE/NASDAQ,Utilities
+DD,DuPont,NYSE/NASDAQ,Materials
+ETN,Eaton Corporation,NYSE/NASDAQ,Industrials
+EBAY,eBay Inc.,NYSE/NASDAQ,Consumer Discretionary
+SATS,EchoStar,NYSE/NASDAQ,Communication Services
+ECL,Ecolab,NYSE/NASDAQ,Materials
+EIX,Edison International,NYSE/NASDAQ,Utilities
+EW,Edwards Lifesciences,NYSE/NASDAQ,Health Care
+EA,Electronic Arts,NYSE/NASDAQ,Communication Services
+ELV,Elevance Health,NYSE/NASDAQ,Health Care
+EME,Emcor,NYSE/NASDAQ,Industrials
+EMR,Emerson Electric,NYSE/NASDAQ,Industrials
+ETR,Entergy,NYSE/NASDAQ,Utilities
+EOG,EOG Resources,NYSE/NASDAQ,Energy
+EPAM,EPAM Systems,NYSE/NASDAQ,Information Technology
+EQT,EQT Corporation,NYSE/NASDAQ,Energy
+EFX,Equifax,NYSE/NASDAQ,Industrials
+EQIX,Equinix,NYSE/NASDAQ,Real Estate
+EQR,Equity Residential,NYSE/NASDAQ,Real Estate
+ERIE,Erie Indemnity,NYSE/NASDAQ,Financials
+ESS,Essex Property Trust,NYSE/NASDAQ,Real Estate
+EL,Estée Lauder Companies (The),NYSE/NASDAQ,Consumer Staples
+EG,Everest Group,NYSE/NASDAQ,Financials
+EVRG,Evergy,NYSE/NASDAQ,Utilities
+ES,Eversource Energy,NYSE/NASDAQ,Utilities
+EXC,Exelon,NYSE/NASDAQ,Utilities
+EXE,Expand Energy,NYSE/NASDAQ,Energy
+EXPE,Expedia Group,NYSE/NASDAQ,Consumer Discretionary
+EXPD,Expeditors International,NYSE/NASDAQ,Industrials
+EXR,Extra Space Storage,NYSE/NASDAQ,Real Estate
+XOM,ExxonMobil,NYSE/NASDAQ,Energy
+FFIV,"F5, Inc.",NYSE/NASDAQ,Information Technology
+FDS,FactSet,NYSE/NASDAQ,Financials
+FICO,Fair Isaac,NYSE/NASDAQ,Information Technology
+FAST,Fastenal,NYSE/NASDAQ,Industrials
+FRT,Federal Realty Investment Trust,NYSE/NASDAQ,Real Estate
+FDX,FedEx,NYSE/NASDAQ,Industrials
+FIS,Fidelity National Information Services,NYSE/NASDAQ,Financials
+FITB,Fifth Third Bancorp,NYSE/NASDAQ,Financials
+FSLR,First Solar,NYSE/NASDAQ,Information Technology
+FE,FirstEnergy,NYSE/NASDAQ,Utilities
+FISV,Fiserv,NYSE/NASDAQ,Financials
+F,Ford Motor Company,NYSE/NASDAQ,Consumer Discretionary
+FTNT,Fortinet,NYSE/NASDAQ,Information Technology
+FTV,Fortive,NYSE/NASDAQ,Industrials
+FOXA,Fox Corporation (Class A),NYSE/NASDAQ,Communication Services
+FOX,Fox Corporation (Class B),NYSE/NASDAQ,Communication Services
+BEN,Franklin Resources,NYSE/NASDAQ,Financials
+FCX,Freeport-McMoRan,NYSE/NASDAQ,Materials
+GRMN,Garmin,NYSE/NASDAQ,Consumer Discretionary
+IT,Gartner,NYSE/NASDAQ,Information Technology
+GE,GE Aerospace,NYSE/NASDAQ,Industrials
+GEHC,GE HealthCare,NYSE/NASDAQ,Health Care
+GEV,GE Vernova,NYSE/NASDAQ,Industrials
+GEN,Gen Digital,NYSE/NASDAQ,Information Technology
+GNRC,Generac,NYSE/NASDAQ,Industrials
+GD,General Dynamics,NYSE/NASDAQ,Industrials
+GIS,General Mills,NYSE/NASDAQ,Consumer Staples
+GM,General Motors,NYSE/NASDAQ,Consumer Discretionary
+GPC,Genuine Parts Company,NYSE/NASDAQ,Consumer Discretionary
+GILD,Gilead Sciences,NYSE/NASDAQ,Health Care
+GPN,Global Payments,NYSE/NASDAQ,Financials
+GL,Globe Life,NYSE/NASDAQ,Financials
+GDDY,GoDaddy,NYSE/NASDAQ,Information Technology
+GS,Goldman Sachs,NYSE/NASDAQ,Financials
+HAL,Halliburton,NYSE/NASDAQ,Energy
+HIG,Hartford (The),NYSE/NASDAQ,Financials
+HAS,Hasbro,NYSE/NASDAQ,Consumer Discretionary
+HCA,HCA Healthcare,NYSE/NASDAQ,Health Care
+DOC,Healthpeak Properties,NYSE/NASDAQ,Real Estate
+HSIC,Henry Schein,NYSE/NASDAQ,Health Care
+HSY,Hershey Company (The),NYSE/NASDAQ,Consumer Staples
+HPE,Hewlett Packard Enterprise,NYSE/NASDAQ,Information Technology
+HLT,Hilton Worldwide,NYSE/NASDAQ,Consumer Discretionary
+HD,Home Depot (The),NYSE/NASDAQ,Consumer Discretionary
+HON,Honeywell,NYSE/NASDAQ,Industrials
+HRL,Hormel Foods,NYSE/NASDAQ,Consumer Staples
+HST,Host Hotels & Resorts,NYSE/NASDAQ,Real Estate
+HWM,Howmet Aerospace,NYSE/NASDAQ,Industrials
+HPQ,HP Inc.,NYSE/NASDAQ,Information Technology
+HUBB,Hubbell Incorporated,NYSE/NASDAQ,Industrials
+HUM,Humana,NYSE/NASDAQ,Health Care
+HBAN,Huntington Bancshares,NYSE/NASDAQ,Financials
+HII,Huntington Ingalls Industries,NYSE/NASDAQ,Industrials
+IBM,IBM,NYSE/NASDAQ,Information Technology
+IEX,IDEX Corporation,NYSE/NASDAQ,Industrials
+IDXX,Idexx Laboratories,NYSE/NASDAQ,Health Care
+ITW,Illinois Tool Works,NYSE/NASDAQ,Industrials
+INCY,Incyte,NYSE/NASDAQ,Health Care
+IR,Ingersoll Rand,NYSE/NASDAQ,Industrials
+PODD,Insulet Corporation,NYSE/NASDAQ,Health Care
+INTC,Intel,NYSE/NASDAQ,Information Technology
+IBKR,Interactive Brokers,NYSE/NASDAQ,Financials
+ICE,Intercontinental Exchange,NYSE/NASDAQ,Financials
+IFF,International Flavors & Fragrances,NYSE/NASDAQ,Materials
+IP,International Paper,NYSE/NASDAQ,Materials
+INTU,Intuit,NYSE/NASDAQ,Information Technology
+ISRG,Intuitive Surgical,NYSE/NASDAQ,Health Care
+IVZ,Invesco,NYSE/NASDAQ,Financials
+INVH,Invitation Homes,NYSE/NASDAQ,Real Estate
+IQV,IQVIA,NYSE/NASDAQ,Health Care
+IRM,Iron Mountain,NYSE/NASDAQ,Real Estate
+JBHT,J.B. Hunt,NYSE/NASDAQ,Industrials
+JBL,Jabil,NYSE/NASDAQ,Information Technology
+JKHY,Jack Henry & Associates,NYSE/NASDAQ,Financials
+J,Jacobs Solutions,NYSE/NASDAQ,Industrials
+JNJ,Johnson & Johnson,NYSE/NASDAQ,Health Care
+JCI,Johnson Controls,NYSE/NASDAQ,Industrials
+JPM,JPMorgan Chase,NYSE/NASDAQ,Financials
+KVUE,Kenvue,NYSE/NASDAQ,Consumer Staples
+KDP,Keurig Dr Pepper,NYSE/NASDAQ,Consumer Staples
+KEY,KeyCorp,NYSE/NASDAQ,Financials
+KEYS,Keysight Technologies,NYSE/NASDAQ,Information Technology
+KMB,Kimberly-Clark,NYSE/NASDAQ,Consumer Staples
+KIM,Kimco Realty,NYSE/NASDAQ,Real Estate
+KMI,Kinder Morgan,NYSE/NASDAQ,Energy
+KKR,KKR & Co.,NYSE/NASDAQ,Financials
+KLAC,KLA Corporation,NYSE/NASDAQ,Information Technology
+KHC,Kraft Heinz,NYSE/NASDAQ,Consumer Staples
+KR,Kroger,NYSE/NASDAQ,Consumer Staples
+LHX,L3Harris,NYSE/NASDAQ,Industrials
+LH,Labcorp,NYSE/NASDAQ,Health Care
+LRCX,Lam Research,NYSE/NASDAQ,Information Technology
+LVS,Las Vegas Sands,NYSE/NASDAQ,Consumer Discretionary
+LDOS,Leidos,NYSE/NASDAQ,Industrials
+LEN,Lennar,NYSE/NASDAQ,Consumer Discretionary
+LII,Lennox International,NYSE/NASDAQ,Industrials
+LLY,Lilly (Eli),NYSE/NASDAQ,Health Care
+LIN,Linde plc,NYSE/NASDAQ,Materials
+LYV,Live Nation Entertainment,NYSE/NASDAQ,Communication Services
+LMT,Lockheed Martin,NYSE/NASDAQ,Industrials
+L,Loews Corporation,NYSE/NASDAQ,Financials
+LOW,Lowe's,NYSE/NASDAQ,Consumer Discretionary
+LULU,Lululemon Athletica,NYSE/NASDAQ,Consumer Discretionary
+LITE,Lumentum,NYSE/NASDAQ,Information Technology
+LYB,LyondellBasell,NYSE/NASDAQ,Materials
+MTB,M&T Bank,NYSE/NASDAQ,Financials
+MPC,Marathon Petroleum,NYSE/NASDAQ,Energy
+MAR,Marriott International,NYSE/NASDAQ,Consumer Discretionary
+MRSH,Marsh McLennan,NYSE/NASDAQ,Financials
+MLM,Martin Marietta Materials,NYSE/NASDAQ,Materials
+MAS,Masco,NYSE/NASDAQ,Industrials
+MA,Mastercard,NYSE/NASDAQ,Financials
+MKC,McCormick & Company,NYSE/NASDAQ,Consumer Staples
+MCD,McDonald's,NYSE/NASDAQ,Consumer Discretionary
+MCK,McKesson Corporation,NYSE/NASDAQ,Health Care
+MDT,Medtronic,NYSE/NASDAQ,Health Care
+MRK,Merck & Co.,NYSE/NASDAQ,Health Care
+META,Meta Platforms,NYSE/NASDAQ,Communication Services
+MET,MetLife,NYSE/NASDAQ,Financials
+MTD,Mettler Toledo,NYSE/NASDAQ,Health Care
+MGM,MGM Resorts,NYSE/NASDAQ,Consumer Discretionary
+MCHP,Microchip Technology,NYSE/NASDAQ,Information Technology
+MU,Micron Technology,NYSE/NASDAQ,Information Technology
+MSFT,Microsoft,NYSE/NASDAQ,Information Technology
+MAA,Mid-America Apartment Communities,NYSE/NASDAQ,Real Estate
+MRNA,Moderna,NYSE/NASDAQ,Health Care
+TAP,Molson Coors Beverage Company,NYSE/NASDAQ,Consumer Staples
+MDLZ,Mondelez International,NYSE/NASDAQ,Consumer Staples
+MPWR,Monolithic Power Systems,NYSE/NASDAQ,Information Technology
+MNST,Monster Beverage,NYSE/NASDAQ,Consumer Staples
+MCO,Moody's Corporation,NYSE/NASDAQ,Financials
+MS,Morgan Stanley,NYSE/NASDAQ,Financials
+MOS,Mosaic Company (The),NYSE/NASDAQ,Materials
+MSI,Motorola Solutions,NYSE/NASDAQ,Information Technology
+MSCI,MSCI Inc.,NYSE/NASDAQ,Financials
+NDAQ,"Nasdaq, Inc.",NYSE/NASDAQ,Financials
+NTAP,NetApp,NYSE/NASDAQ,Information Technology
+NFLX,Netflix,NYSE/NASDAQ,Communication Services
+NEM,Newmont,NYSE/NASDAQ,Materials
+NWSA,News Corp (Class A),NYSE/NASDAQ,Communication Services
+NWS,News Corp (Class B),NYSE/NASDAQ,Communication Services
+NEE,NextEra Energy,NYSE/NASDAQ,Utilities
+NKE,"Nike, Inc.",NYSE/NASDAQ,Consumer Discretionary
+NI,NiSource,NYSE/NASDAQ,Utilities
+NDSN,Nordson Corporation,NYSE/NASDAQ,Industrials
+NSC,Norfolk Southern,NYSE/NASDAQ,Industrials
+NTRS,Northern Trust,NYSE/NASDAQ,Financials
+NOC,Northrop Grumman,NYSE/NASDAQ,Industrials
+NCLH,Norwegian Cruise Line Holdings,NYSE/NASDAQ,Consumer Discretionary
+NRG,NRG Energy,NYSE/NASDAQ,Utilities
+NUE,Nucor,NYSE/NASDAQ,Materials
+NVDA,Nvidia,NYSE/NASDAQ,Information Technology
+NVR,"NVR, Inc.",NYSE/NASDAQ,Consumer Discretionary
+NXPI,NXP Semiconductors,NYSE/NASDAQ,Information Technology
+ORLY,O’Reilly Automotive,NYSE/NASDAQ,Consumer Discretionary
+OXY,Occidental Petroleum,NYSE/NASDAQ,Energy
+ODFL,Old Dominion,NYSE/NASDAQ,Industrials
+OMC,Omnicom Group,NYSE/NASDAQ,Communication Services
+ON,ON Semiconductor,NYSE/NASDAQ,Information Technology
+OKE,Oneok,NYSE/NASDAQ,Energy
+ORCL,Oracle Corporation,NYSE/NASDAQ,Information Technology
+OTIS,Otis Worldwide,NYSE/NASDAQ,Industrials
+PCAR,Paccar,NYSE/NASDAQ,Industrials
+PKG,Packaging Corporation of America,NYSE/NASDAQ,Materials
+PLTR,Palantir Technologies,NYSE/NASDAQ,Information Technology
+PANW,Palo Alto Networks,NYSE/NASDAQ,Information Technology
+PSKY,Paramount Skydance Corporation,NYSE/NASDAQ,Communication Services
+PH,Parker Hannifin,NYSE/NASDAQ,Industrials
+PAYX,Paychex,NYSE/NASDAQ,Industrials
+PYPL,PayPal,NYSE/NASDAQ,Financials
+PNR,Pentair,NYSE/NASDAQ,Industrials
+PEP,PepsiCo,NYSE/NASDAQ,Consumer Staples
+PFE,Pfizer,NYSE/NASDAQ,Health Care
+PCG,PG&E Corporation,NYSE/NASDAQ,Utilities
+PM,Philip Morris International,NYSE/NASDAQ,Consumer Staples
+PSX,Phillips 66,NYSE/NASDAQ,Energy
+PNW,Pinnacle West Capital,NYSE/NASDAQ,Utilities
+PNC,PNC Financial Services,NYSE/NASDAQ,Financials
+POOL,Pool Corporation,NYSE/NASDAQ,Consumer Discretionary
+PPG,PPG Industries,NYSE/NASDAQ,Materials
+PPL,PPL Corporation,NYSE/NASDAQ,Utilities
+PFG,Principal Financial Group,NYSE/NASDAQ,Financials
+PG,Procter & Gamble,NYSE/NASDAQ,Consumer Staples
+PGR,Progressive Corporation,NYSE/NASDAQ,Financials
+PLD,Prologis,NYSE/NASDAQ,Real Estate
+PRU,Prudential Financial,NYSE/NASDAQ,Financials
+PEG,Public Service Enterprise Group,NYSE/NASDAQ,Utilities
+PTC,PTC Inc.,NYSE/NASDAQ,Information Technology
+PSA,Public Storage,NYSE/NASDAQ,Real Estate
+PHM,PulteGroup,NYSE/NASDAQ,Consumer Discretionary
+PWR,Quanta Services,NYSE/NASDAQ,Industrials
+QCOM,Qualcomm,NYSE/NASDAQ,Information Technology
+DGX,Quest Diagnostics,NYSE/NASDAQ,Health Care
+Q,Qnity Electronics,NYSE/NASDAQ,Information Technology
+RL,Ralph Lauren Corporation,NYSE/NASDAQ,Consumer Discretionary
+RJF,Raymond James Financial,NYSE/NASDAQ,Financials
+RTX,RTX Corporation,NYSE/NASDAQ,Industrials
+O,Realty Income,NYSE/NASDAQ,Real Estate
+REG,Regency Centers,NYSE/NASDAQ,Real Estate
+REGN,Regeneron Pharmaceuticals,NYSE/NASDAQ,Health Care
+RF,Regions Financial Corporation,NYSE/NASDAQ,Financials
+RSG,Republic Services,NYSE/NASDAQ,Industrials
+RMD,ResMed,NYSE/NASDAQ,Health Care
+RVTY,Revvity,NYSE/NASDAQ,Health Care
+HOOD,Robinhood Markets,NYSE/NASDAQ,Financials
+ROK,Rockwell Automation,NYSE/NASDAQ,Industrials
+ROL,"Rollins, Inc.",NYSE/NASDAQ,Industrials
+ROP,Roper Technologies,NYSE/NASDAQ,Information Technology
+ROST,Ross Stores,NYSE/NASDAQ,Consumer Discretionary
+RCL,Royal Caribbean Group,NYSE/NASDAQ,Consumer Discretionary
+SPGI,S&P Global,NYSE/NASDAQ,Financials
+CRM,Salesforce,NYSE/NASDAQ,Information Technology
+SNDK,Sandisk,NYSE/NASDAQ,Information Technology
+SBAC,SBA Communications,NYSE/NASDAQ,Real Estate
+SLB,Schlumberger,NYSE/NASDAQ,Energy
+STX,Seagate Technology,NYSE/NASDAQ,Information Technology
+SRE,Sempra,NYSE/NASDAQ,Utilities
+NOW,ServiceNow,NYSE/NASDAQ,Information Technology
+SHW,Sherwin-Williams,NYSE/NASDAQ,Materials
+SPG,Simon Property Group,NYSE/NASDAQ,Real Estate
+SWKS,Skyworks Solutions,NYSE/NASDAQ,Information Technology
+SJM,J.M. Smucker Company (The),NYSE/NASDAQ,Consumer Staples
+SW,Smurfit Westrock,NYSE/NASDAQ,Materials
+SNA,Snap-on,NYSE/NASDAQ,Industrials
+SOLV,Solventum,NYSE/NASDAQ,Health Care
+SO,Southern Company,NYSE/NASDAQ,Utilities
+LUV,Southwest Airlines,NYSE/NASDAQ,Industrials
+SWK,Stanley Black & Decker,NYSE/NASDAQ,Industrials
+SBUX,Starbucks,NYSE/NASDAQ,Consumer Discretionary
+STT,State Street Corporation,NYSE/NASDAQ,Financials
+STLD,Steel Dynamics,NYSE/NASDAQ,Materials
+STE,Steris,NYSE/NASDAQ,Health Care
+SYK,Stryker Corporation,NYSE/NASDAQ,Health Care
+SMCI,Supermicro,NYSE/NASDAQ,Information Technology
+SYF,Synchrony Financial,NYSE/NASDAQ,Financials
+SNPS,Synopsys,NYSE/NASDAQ,Information Technology
+SYY,Sysco,NYSE/NASDAQ,Consumer Staples
+TMUS,T-Mobile US,NYSE/NASDAQ,Communication Services
+TROW,T. Rowe Price,NYSE/NASDAQ,Financials
+TTWO,Take-Two Interactive,NYSE/NASDAQ,Communication Services
+TPR,"Tapestry, Inc.",NYSE/NASDAQ,Consumer Discretionary
+TRGP,Targa Resources,NYSE/NASDAQ,Energy
+TGT,Target Corporation,NYSE/NASDAQ,Consumer Staples
+TEL,TE Connectivity,NYSE/NASDAQ,Information Technology
+TDY,Teledyne Technologies,NYSE/NASDAQ,Information Technology
+TER,Teradyne,NYSE/NASDAQ,Information Technology
+TSLA,"Tesla, Inc.",NYSE/NASDAQ,Consumer Discretionary
+TXN,Texas Instruments,NYSE/NASDAQ,Information Technology
+TPL,Texas Pacific Land Corporation,NYSE/NASDAQ,Energy
+TXT,Textron,NYSE/NASDAQ,Industrials
+TMO,Thermo Fisher Scientific,NYSE/NASDAQ,Health Care
+TJX,TJX Companies,NYSE/NASDAQ,Consumer Discretionary
+TKO,TKO Group Holdings,NYSE/NASDAQ,Communication Services
+TTD,Trade Desk (The),NYSE/NASDAQ,Communication Services
+TSCO,Tractor Supply,NYSE/NASDAQ,Consumer Discretionary
+TT,Trane Technologies,NYSE/NASDAQ,Industrials
+TDG,TransDigm Group,NYSE/NASDAQ,Industrials
+TRV,Travelers Companies (The),NYSE/NASDAQ,Financials
+TRMB,Trimble Inc.,NYSE/NASDAQ,Information Technology
+TFC,Truist Financial,NYSE/NASDAQ,Financials
+TYL,Tyler Technologies,NYSE/NASDAQ,Information Technology
+TSN,Tyson Foods,NYSE/NASDAQ,Consumer Staples
+USB,U.S. Bancorp,NYSE/NASDAQ,Financials
+UBER,Uber,NYSE/NASDAQ,Industrials
+UDR,"UDR, Inc.",NYSE/NASDAQ,Real Estate
+ULTA,Ulta Beauty,NYSE/NASDAQ,Consumer Discretionary
+UNP,Union Pacific Corporation,NYSE/NASDAQ,Industrials
+UAL,United Airlines Holdings,NYSE/NASDAQ,Industrials
+UPS,United Parcel Service,NYSE/NASDAQ,Industrials
+URI,United Rentals,NYSE/NASDAQ,Industrials
+UNH,UnitedHealth Group,NYSE/NASDAQ,Health Care
+UHS,Universal Health Services,NYSE/NASDAQ,Health Care
+VLO,Valero Energy,NYSE/NASDAQ,Energy
+VEEV,Veeva Systems,NYSE/NASDAQ,Health Care
+VTR,Ventas,NYSE/NASDAQ,Real Estate
+VLTO,Veralto,NYSE/NASDAQ,Industrials
+VRSN,Verisign,NYSE/NASDAQ,Information Technology
+VRSK,Verisk Analytics,NYSE/NASDAQ,Industrials
+VZ,Verizon,NYSE/NASDAQ,Communication Services
+VRTX,Vertex Pharmaceuticals,NYSE/NASDAQ,Health Care
+VRT,Vertiv,NYSE/NASDAQ,Industrials
+VTRS,Viatris,NYSE/NASDAQ,Health Care
+VICI,Vici Properties,NYSE/NASDAQ,Real Estate
+V,Visa Inc.,NYSE/NASDAQ,Financials
+VST,Vistra Corp.,NYSE/NASDAQ,Utilities
+VMC,Vulcan Materials Company,NYSE/NASDAQ,Materials
+WRB,W. R. Berkley Corporation,NYSE/NASDAQ,Financials
+GWW,W. W. Grainger,NYSE/NASDAQ,Industrials
+WAB,Wabtec,NYSE/NASDAQ,Industrials
+WMT,Walmart,NYSE/NASDAQ,Consumer Staples
+DIS,Walt Disney Company (The),NYSE/NASDAQ,Communication Services
+WBD,Warner Bros. Discovery,NYSE/NASDAQ,Communication Services
+WM,Waste Management,NYSE/NASDAQ,Industrials
+WAT,Waters Corporation,NYSE/NASDAQ,Health Care
+WEC,WEC Energy Group,NYSE/NASDAQ,Utilities
+WFC,Wells Fargo,NYSE/NASDAQ,Financials
+WELL,Welltower,NYSE/NASDAQ,Real Estate
+WST,West Pharmaceutical Services,NYSE/NASDAQ,Health Care
+WDC,Western Digital,NYSE/NASDAQ,Information Technology
+WY,Weyerhaeuser,NYSE/NASDAQ,Real Estate
+WSM,"Williams-Sonoma, Inc.",NYSE/NASDAQ,Consumer Discretionary
+WMB,Williams Companies,NYSE/NASDAQ,Energy
+WTW,Willis Towers Watson,NYSE/NASDAQ,Financials
+WDAY,"Workday, Inc.",NYSE/NASDAQ,Information Technology
+WYNN,Wynn Resorts,NYSE/NASDAQ,Consumer Discretionary
+XEL,Xcel Energy,NYSE/NASDAQ,Utilities
+XYL,Xylem Inc.,NYSE/NASDAQ,Industrials
+YUM,Yum! Brands,NYSE/NASDAQ,Consumer Discretionary
+ZBRA,Zebra Technologies,NYSE/NASDAQ,Information Technology
+ZBH,Zimmer Biomet,NYSE/NASDAQ,Health Care
+ZTS,Zoetis,NYSE/NASDAQ,Health Care
+AAON,AAON,NYSE/NASDAQ,
+ACHC,Acadia Healthcare,NYSE/NASDAQ,
+AYI,Acuity Brands,NYSE/NASDAQ,
+ADT,ADT Inc.,NYSE/NASDAQ,
+WMS,Advanced Drainage Systems,NYSE/NASDAQ,
+ACM,AECOM,NYSE/NASDAQ,
+AMG,Affiliated Managers Group,NYSE/NASDAQ,
+AFRM,Affirm Holdings,NYSE/NASDAQ,
+AGCO,AGCO,NYSE/NASDAQ,
+ADC,Agree Realty,NYSE/NASDAQ,
+AGNC,AGNC Investment,NYSE/NASDAQ,
+AL,Air Lease Corporation,NYSE/NASDAQ,
+ALK,Alaska Air Group,NYSE/NASDAQ,
+ACI,Albertsons,NYSE/NASDAQ,
+AA,Alcoa,NYSE/NASDAQ,
+ALGM,Allegro MicroSystems,NYSE/NASDAQ,
+ALSN,Allison Transmission,NYSE/NASDAQ,
+ALLY,Ally Financial,NYSE/NASDAQ,
+ALNY,Alnylam Pharmaceuticals,NYSE/NASDAQ,
+DOX,Amdocs,NYSE/NASDAQ,
+AMTM,Amentum,NYSE/NASDAQ,
+AS,Amer Sports,NYSE/NASDAQ,
+AAL,American Airlines Group,NYSE/NASDAQ,
+AFG,American Financial Group,NYSE/NASDAQ,
+AMH,American Homes 4 Rent,NYSE/NASDAQ,
+COLD,Americold,NYSE/NASDAQ,
+AMKR,Amkor Technology,NYSE/NASDAQ,
+AU,AngloGold Ashanti,NYSE/NASDAQ,
+NLY,Annaly Capital Management,NYSE/NASDAQ,
+AM,Antero Midstream,NYSE/NASDAQ,
+AR,Antero Resources,NYSE/NASDAQ,
+APG,APi Group,NYSE/NASDAQ,
+APLS,Apellis Pharmaceuticals,NYSE/NASDAQ,
+APPF,AppFolio,NYSE/NASDAQ,
+AIT,Applied Industrial Technologies,NYSE/NASDAQ,
+ATR,AptarGroup,NYSE/NASDAQ,
+ARMK,Aramark,NYSE/NASDAQ,
+AWI,Armstrong World Industries,NYSE/NASDAQ,
+ARW,Arrow Electronics,NYSE/NASDAQ,
+ASH,Ashland Global,NYSE/NASDAQ,
+AGO,Assured Guaranty,NYSE/NASDAQ,
+ALAB,Astera Labs,NYSE/NASDAQ,
+ASTS,AST SpaceMobile,NYSE/NASDAQ,
+ATI,ATI Inc.,NYSE/NASDAQ,
+TEAM,Atlassian,NYSE/NASDAQ,
+AUR,Aurora Innovation,NYSE/NASDAQ,
+AN,AutoNation,NYSE/NASDAQ,
+AVTR,Avantor,NYSE/NASDAQ,
+CAR,Avis Budget Group,NYSE/NASDAQ,
+AVT,Avnet,NYSE/NASDAQ,
+AXTA,Axalta,NYSE/NASDAQ,
+AXS,AXIS Capital,NYSE/NASDAQ,
+OZK,Bank OZK,NYSE/NASDAQ,
+BBWI,"Bath & Body Works, Inc.",NYSE/NASDAQ,
+BRBR,BellRing Brands,NYSE/NASDAQ,
+BSY,Bentley Systems,NYSE/NASDAQ,
+BILL,Bill.com,NYSE/NASDAQ,
+BIO,Bio-Rad Laboratories,NYSE/NASDAQ,
+BMRN,BioMarin Pharmaceutical,NYSE/NASDAQ,
+BIRK,Birkenstock,NYSE/NASDAQ,
+BJ,BJ's Wholesale Club,NYSE/NASDAQ,
+HRB,H&R Block,NYSE/NASDAQ,
+OWL,Blue Owl Capital,NYSE/NASDAQ,
+BOKF,BOK Financial Corporation,NYSE/NASDAQ,
+BAH,Booz Allen Hamilton,NYSE/NASDAQ,
+BWA,BorgWarner,NYSE/NASDAQ,
+SAM,Boston Beer Company,NYSE/NASDAQ,
+BYD,Boyd Gaming,NYSE/NASDAQ,
+BFAM,Bright Horizons,NYSE/NASDAQ,
+BHF,Brighthouse Financial,NYSE/NASDAQ,
+BRX,Brixmor Property Group,NYSE/NASDAQ,
+BAM,Brookfield Asset Management,NYSE/NASDAQ,
+BEPC,Brookfield Renewable Partners,NYSE/NASDAQ,
+BRKR,Bruker,NYSE/NASDAQ,
+BC,Brunswick Corporation,NYSE/NASDAQ,
+BLSH,Bullish,NYSE/NASDAQ,
+BURL,Burlington Stores,NYSE/NASDAQ,
+BWXT,BWX Technologies,NYSE/NASDAQ,
+CACI,CACI,NYSE/NASDAQ,
+CZR,Caesars Entertainment,NYSE/NASDAQ,
+CAI,Caris Life Sciences,NYSE/NASDAQ,
+CSL,Carlisle Companies,NYSE/NASDAQ,
+CG,Carlyle Group,NYSE/NASDAQ,
+KMX,CarMax,NYSE/NASDAQ,
+CRS,Carpenter Technology Corporation,NYSE/NASDAQ,
+CAVA,Cava Group,NYSE/NASDAQ,
+CCC,CCC Intelligent Solutions,NYSE/NASDAQ,
+CE,Celanese,NYSE/NASDAQ,
+CELH,Celsius Holdings,NYSE/NASDAQ,
+CBC,Central Bancompany,NYSE/NASDAQ,
+CERT,"Certara, Inc.",NYSE/NASDAQ,
+CHE,Chemed Corporation,NYSE/NASDAQ,
+LNG,Cheniere Energy,NYSE/NASDAQ,
+CHWY,Chewy,NYSE/NASDAQ,
+CHH,Choice Hotels,NYSE/NASDAQ,
+CHRD,Chord Energy,NYSE/NASDAQ,
+CHDN,Churchill Downs Incorporated,NYSE/NASDAQ,
+CRCL,Circle Internet Group,NYSE/NASDAQ,
+CRUS,Cirrus Logic,NYSE/NASDAQ,
+CLVT,Clarivate,NYSE/NASDAQ,
+CLH,Clean Harbors,NYSE/NASDAQ,
+CWEN,Clearway Energy (Class C),NYSE/NASDAQ,
+CLF,Cleveland-Cliffs,NYSE/NASDAQ,
+NET,Cloudflare,NYSE/NASDAQ,
+CNA,CNA Financial,NYSE/NASDAQ,
+CNH,CNH Industrial,NYSE/NASDAQ,
+COKE,Coca-Cola Consolidated,NYSE/NASDAQ,
+CGNX,Cognex Corporation,NYSE/NASDAQ,
+COLB,Columbia Banking System,NYSE/NASDAQ,
+COLM,Columbia Sportswear,NYSE/NASDAQ,
+CBSH,Commerce Bancshares,NYSE/NASDAQ,
+CNXC,Concentrix,NYSE/NASDAQ,
+CORT,Corcept Therapeutics,NYSE/NASDAQ,
+CNM,Core & Main,NYSE/NASDAQ,
+COTY,Coty,NYSE/NASDAQ,
+CPNG,Coupang,NYSE/NASDAQ,
+CUZ,Cousins Properties,NYSE/NASDAQ,
+CR,Crane Co.,NYSE/NASDAQ,
+CXT,Crane NXT,NYSE/NASDAQ,
+CACC,Credit Acceptance,NYSE/NASDAQ,
+CROX,Crocs,NYSE/NASDAQ,
+CCK,Crown Holdings,NYSE/NASDAQ,
+CUBE,CubeSmart,NYSE/NASDAQ,
+CW,Curtiss-Wright,NYSE/NASDAQ,
+DAR,Darling Ingredients,NYSE/NASDAQ,
+XRAY,Dentsply Sirona,NYSE/NASDAQ,
+DKS,Dick's Sporting Goods,NYSE/NASDAQ,
+DDS,Dillard's,NYSE/NASDAQ,
+DOCU,DocuSign,NYSE/NASDAQ,
+DLB,Dolby Laboratories,NYSE/NASDAQ,
+DCI,Donaldson Company,NYSE/NASDAQ,
+DV,DoubleVerify,NYSE/NASDAQ,
+DOCS,Doximity,NYSE/NASDAQ,
+DKNG,DraftKings,NYSE/NASDAQ,
+DBX,Dropbox,NYSE/NASDAQ,
+DTM,DT Midstream,NYSE/NASDAQ,
+DUOL,Duolingo,NYSE/NASDAQ,
+BROS,Dutch Bros. Coffee,NYSE/NASDAQ,
+DXC,DXC Technology,NYSE/NASDAQ,
+DT,Dynatrace,NYSE/NASDAQ,
+ELF,e.l.f. Beauty,NYSE/NASDAQ,
+EXP,Eagle Materials,NYSE/NASDAQ,
+EWBC,East West Bancorp,NYSE/NASDAQ,
+EGP,EastGroup Properties,NYSE/NASDAQ,
+EMN,Eastman Chemical Company,NYSE/NASDAQ,
+ELAN,Elanco,NYSE/NASDAQ,
+ESTC,Elastic NV,NYSE/NASDAQ,
+ESI,Element Solutions,NYSE/NASDAQ,
+EHC,Encompass Health,NYSE/NASDAQ,
+ENPH,Enphase Energy,NYSE/NASDAQ,
+ENTG,Entegris,NYSE/NASDAQ,
+NVST,Envista,NYSE/NASDAQ,
+EPR,EPR Properties,NYSE/NASDAQ,
+EQH,Equitable Holdings,NYSE/NASDAQ,
+ELS,Equity Lifestyle Properties,NYSE/NASDAQ,
+ESAB,ESAB,NYSE/NASDAQ,
+WTRG,Essential Utilities,NYSE/NASDAQ,
+ETSY,Etsy,NYSE/NASDAQ,
+EEFT,Euronet Worldwide,NYSE/NASDAQ,
+EVR,Evercore,NYSE/NASDAQ,
+PSTG,Everpure,NYSE/NASDAQ,
+ECG,Everus Construction Group,NYSE/NASDAQ,
+EXEL,Exelixis,NYSE/NASDAQ,
+EXLS,EXL Service,NYSE/NASDAQ,
+FERG,Ferguson Enterprises,NYSE/NASDAQ,
+FRMI,Fermi Inc.,NYSE/NASDAQ,
+FNF,Fidelity National Financial,NYSE/NASDAQ,
+FIGR,Figure Technology Solutions,NYSE/NASDAQ,
+FAF,First American Financial Corporation,NYSE/NASDAQ,
+FCNCA,First Citizens BancShares,NYSE/NASDAQ,
+FHB,"First Hawaiian, Inc.",NYSE/NASDAQ,
+FHN,First Horizon Corporation,NYSE/NASDAQ,
+FR,First Industrial Realty Trust,NYSE/NASDAQ,
+FIVE,Five Below,NYSE/NASDAQ,
+FLEX,Flex Ltd.,NYSE/NASDAQ,
+FND,Floor & Decor,NYSE/NASDAQ,
+FLO,Flowers Foods,NYSE/NASDAQ,
+FLS,Flowserve,NYSE/NASDAQ,
+FLUT,Flutter Entertainment,NYSE/NASDAQ,
+FMC,FMC Corporation,NYSE/NASDAQ,
+FNB,FNB Corporation,NYSE/NASDAQ,
+FBIN,Fortune Brands Innovations,NYSE/NASDAQ,
+FRHC,Freedom Holding,NYSE/NASDAQ,
+FRPT,Freshpet,NYSE/NASDAQ,
+CFR,Frost Bank,NYSE/NASDAQ,
+FTAI,FTAI Aviation,NYSE/NASDAQ,
+FCN,FTI Consulting,NYSE/NASDAQ,
+GME,GameStop,NYSE/NASDAQ,
+GLPI,Gaming and Leisure Properties,NYSE/NASDAQ,
+GAP,Gap Inc.,NYSE/NASDAQ,
+GTES,Gates Corporation,NYSE/NASDAQ,
+GLIBA,GCI Liberty (Series A),NYSE/NASDAQ,
+GLIBK,GCI Liberty (Series C),NYSE/NASDAQ,
+G,Genpact,NYSE/NASDAQ,
+GNTX,Gentex,NYSE/NASDAQ,
+GTLB,GitLab,NYSE/NASDAQ,
+GFS,GlobalFoundries,NYSE/NASDAQ,
+GLOB,Globant,NYSE/NASDAQ,
+GMED,Globus Medical,NYSE/NASDAQ,
+GGG,Graco Inc.,NYSE/NASDAQ,
+LOPE,Grand Canyon Education,NYSE/NASDAQ,
+GPK,Graphic Packaging,NYSE/NASDAQ,
+GWRE,Guidewire Software,NYSE/NASDAQ,
+GXO,GXO Logistics,NYSE/NASDAQ,
+HALO,Halozyme,NYSE/NASDAQ,
+HLNE,Hamilton Lane,NYSE/NASDAQ,
+THG,Hanover Insurance,NYSE/NASDAQ,
+HOG,Harley-Davidson,NYSE/NASDAQ,
+HAYW,Hayward Holdings,NYSE/NASDAQ,
+HR,Healthcare Realty Trust,NYSE/NASDAQ,
+HEI,HEICO (Common),NYSE/NASDAQ,
+HXL,Hexcel,NYSE/NASDAQ,
+DINO,HF Sinclair,NYSE/NASDAQ,
+HIW,Highwoods Properties,NYSE/NASDAQ,
+HLI,Houlihan Lokey,NYSE/NASDAQ,
+HHH,Howard Hughes Holdings,NYSE/NASDAQ,
+HUBS,HubSpot,NYSE/NASDAQ,
+HUN,Huntsman Corporation,NYSE/NASDAQ,
+H,Hyatt Hotels,NYSE/NASDAQ,
+IAC,IAC Inc.,NYSE/NASDAQ,
+IDA,Idacorp,NYSE/NASDAQ,
+ILMN,"Illumina, Inc.",NYSE/NASDAQ,
+INGM,Ingram Micro,NYSE/NASDAQ,
+INGR,Ingredion,NYSE/NASDAQ,
+INSM,Insmed,NYSE/NASDAQ,
+INSP,Inspire Medical Systems,NYSE/NASDAQ,
+IONS,Ionis Pharmaceuticals,NYSE/NASDAQ,
+IPGP,IPG Photonics,NYSE/NASDAQ,
+IRDM,Iridium Communications,NYSE/NASDAQ,
+ITT,ITT Inc.,NYSE/NASDAQ,
+JHX,James Hardie Industries,NYSE/NASDAQ,
+JHG,Janus Henderson,NYSE/NASDAQ,
+JAZZ,Jazz Pharmaceuticals,NYSE/NASDAQ,
+JEF,Jefferies Financial Group,NYSE/NASDAQ,
+JLL,Jones Lang LaSalle,NYSE/NASDAQ,
+KRMN,Karman Holdings,NYSE/NASDAQ,
+KBR,"KBR, Inc.",NYSE/NASDAQ,
+KMPR,Kemper Corporation,NYSE/NASDAQ,
+KRC,Kilroy Realty,NYSE/NASDAQ,
+KNSL,Kinsale Capital Group,NYSE/NASDAQ,
+KEX,Kirby Corporation,NYSE/NASDAQ,
+KNX,Knight-Swift,NYSE/NASDAQ,
+KD,Kyndryl,NYSE/NASDAQ,
+LAMR,Lamar Advertising,NYSE/NASDAQ,
+LW,Lamb Weston,NYSE/NASDAQ,
+LSTR,Landstar,NYSE/NASDAQ,
+LSCC,Lattice Semiconductor,NYSE/NASDAQ,
+LAZ,Lazard,NYSE/NASDAQ,
+LEA,Lear Corporation,NYSE/NASDAQ,
+DRS,Leonardo DRS,NYSE/NASDAQ,
+LBRDA,Liberty Broadband (Series A),NYSE/NASDAQ,
+LBRDK,Liberty Broadband (Series C),NYSE/NASDAQ,
+LBTYA,Liberty Global (Series A),NYSE/NASDAQ,
+LBTYK,Liberty Global (Series C),NYSE/NASDAQ,
+FWONA,Liberty Formula 1 (Series A),NYSE/NASDAQ,
+FWONK,Liberty Formula 1 (Series C),NYSE/NASDAQ,
+LLYVA,Liberty Live (Series A),NYSE/NASDAQ,
+LLYVK,Liberty Live (Series C),NYSE/NASDAQ,
+LECO,Lincoln Electric,NYSE/NASDAQ,
+LNC,Lincoln Financial,NYSE/NASDAQ,
+LINE,"Lineage, Inc.",NYSE/NASDAQ,
+LAD,Lithia Motors,NYSE/NASDAQ,
+LFUS,Littelfuse,NYSE/NASDAQ,
+LKQ,LKQ Corporation,NYSE/NASDAQ,
+LOAR,Loar Holdings,NYSE/NASDAQ,
+LPX,Louisiana-Pacific,NYSE/NASDAQ,
+LPLA,LPL Financial,NYSE/NASDAQ,
+LCID,Lucid Motors,NYSE/NASDAQ,
+LYFT,Lyft,NYSE/NASDAQ,
+MTSI,MACOM Technology Solutions,NYSE/NASDAQ,
+M,"Macy's, Inc.",NYSE/NASDAQ,
+MSGS,Madison Square Garden Sports,NYSE/NASDAQ,
+MANH,Manhattan Associates,NYSE/NASDAQ,
+MAN,ManpowerGroup,NYSE/NASDAQ,
+CART,Maplebear Inc.,NYSE/NASDAQ,
+MKL,Markel,NYSE/NASDAQ,
+MKTX,MarketAxess,NYSE/NASDAQ,
+MRVL,Marvell Technology,NYSE/NASDAQ,
+MASI,Masimo,NYSE/NASDAQ,
+MTZ,MasTec,NYSE/NASDAQ,
+MTDR,Matador Resources,NYSE/NASDAQ,
+MTCH,Match Group,NYSE/NASDAQ,
+MAT,Mattel,NYSE/NASDAQ,
+MDU,MDU Resources,NYSE/NASDAQ,
+MPT,Medical Properties Trust,NYSE/NASDAQ,
+MDLN,Medline Inc.,NYSE/NASDAQ,
+MEDP,Medpace,NYSE/NASDAQ,
+MTG,MGIC Investment Corporation,NYSE/NASDAQ,
+MSTR,MicroStrategy,NYSE/NASDAQ,
+MIDD,Middleby,NYSE/NASDAQ,
+TIGO,Millicom,NYSE/NASDAQ,
+MRP,Millrose Properties,NYSE/NASDAQ,
+MKSI,MKS Instruments,NYSE/NASDAQ,
+MHK,Mohawk Industries,NYSE/NASDAQ,
+MOH,Molina Healthcare,NYSE/NASDAQ,
+MDB,MongoDB Inc.,NYSE/NASDAQ,
+MORN,"Morningstar, Inc.",NYSE/NASDAQ,
+MP,MP Materials,NYSE/NASDAQ,
+MSA,MSA Safety,NYSE/NASDAQ,
+MSM,MSC Industrial Direct,NYSE/NASDAQ,
+MLI,Mueller Industries,NYSE/NASDAQ,
+MUSA,Murphy USA,NYSE/NASDAQ,
+NTRA,Natera,NYSE/NASDAQ,
+NFG,National Fuel Gas,NYSE/NASDAQ,
+NSA,National Storage Affiliates,NYSE/NASDAQ,
+NCNO,nCino,NYSE/NASDAQ,
+NBIX,Neurocrine Biosciences,NYSE/NASDAQ,
+NYT,New York Times Company,NYSE/NASDAQ,
+NWL,Newell Brands,NYSE/NASDAQ,
+NEU,NewMarket,NYSE/NASDAQ,
+NXST,Nexstar Media Group,NYSE/NASDAQ,
+NIQ,NIQ Global Intelligence,NYSE/NASDAQ,
+NNN,NNN Reit,NYSE/NASDAQ,
+NOV,NOV Inc.,NYSE/NASDAQ,
+NU,Nubank,NYSE/NASDAQ,
+NTNX,Nutanix,NYSE/NASDAQ,
+NVT,nVent Electric,NYSE/NASDAQ,
+OGE,OGE Energy,NYSE/NASDAQ,
+OKTA,"Okta, Inc.",NYSE/NASDAQ,
+ORI,Old Republic International,NYSE/NASDAQ,
+OLN,Olin Corporation,NYSE/NASDAQ,
+OLLI,Ollie's Bargain Outlet,NYSE/NASDAQ,
+OHI,Omega Healthcare Investors,NYSE/NASDAQ,
+ONON,On Holding AG,NYSE/NASDAQ,
+OMF,OneMain Financial,NYSE/NASDAQ,
+ONTO,Onto Innovation,NYSE/NASDAQ,
+OGN,Organon & Co.,NYSE/NASDAQ,
+OSK,Oshkosh Corporation,NYSE/NASDAQ,
+OVV,Ovintiv,NYSE/NASDAQ,
+OC,Owens Corning,NYSE/NASDAQ,
+PK,Park Hotels & Resorts,NYSE/NASDAQ,
+PSN,Parsons Corporation,NYSE/NASDAQ,
+PAYC,Paycom,NYSE/NASDAQ,
+PCTY,Paylocity,NYSE/NASDAQ,
+PEGA,Pegasystems,NYSE/NASDAQ,
+PENN,Penn Entertainment,NYSE/NASDAQ,
+PAG,Penske Automotive Group,NYSE/NASDAQ,
+PEN,"Penumbra, Inc.",NYSE/NASDAQ,
+PFGC,Performance Food Group,NYSE/NASDAQ,
+PR,Permian Resources,NYSE/NASDAQ,
+PRGO,Perrigo,NYSE/NASDAQ,
+PPC,Pilgrim's Pride,NYSE/NASDAQ,
+PNFP,Pinnacle Financial Partners,NYSE/NASDAQ,
+PINS,Pinterest,NYSE/NASDAQ,
+PLNT,Planet Fitness,NYSE/NASDAQ,
+BPOP,"Popular, Inc.",NYSE/NASDAQ,
+POST,Post Holdings,NYSE/NASDAQ,
+PRI,Primerica,NYSE/NASDAQ,
+PRMB,Primo Brands,NYSE/NASDAQ,
+PCOR,Procore,NYSE/NASDAQ,
+PB,Prosperity Bancshares,NYSE/NASDAQ,
+PVH,PVH Corp.,NYSE/NASDAQ,
+QGEN,Qiagen,NYSE/NASDAQ,
+QRVO,Qorvo,NYSE/NASDAQ,
+QS,QuantumScape,NYSE/NASDAQ,
+QXO,"QXO, Inc.",NYSE/NASDAQ,
+RAL,Ralliant,NYSE/NASDAQ,
+RRC,Range Resources,NYSE/NASDAQ,
+RYN,Rayonier,NYSE/NASDAQ,
+RBA,RB Global,NYSE/NASDAQ,
+RBC,RBC Bearings,NYSE/NASDAQ,
+RDDT,Reddit,NYSE/NASDAQ,
+RRX,Regal Rexnord,NYSE/NASDAQ,
+RGA,Reinsurance Group of America,NYSE/NASDAQ,
+RS,"Reliance, Inc.",NYSE/NASDAQ,
+RNR,RenaissanceRe,NYSE/NASDAQ,
+RGEN,Repligen,NYSE/NASDAQ,
+QSR,Restaurant Brands International,NYSE/NASDAQ,
+RVMD,Revolution Medicines,NYSE/NASDAQ,
+REXR,Rexford Industrial,NYSE/NASDAQ,
+REYN,Reynolds Consumer Products,NYSE/NASDAQ,
+RH,RH,NYSE/NASDAQ,
+RNG,RingCentral,NYSE/NASDAQ,
+RITM,Rithm Capital,NYSE/NASDAQ,
+RIVN,Rivian,NYSE/NASDAQ,
+RLI,RLI Corp.,NYSE/NASDAQ,
+RHI,Robert Half,NYSE/NASDAQ,
+RBLX,Roblox Corporation,NYSE/NASDAQ,
+RKT,Rocket Companies,NYSE/NASDAQ,
+RKLB,Rocket Lab,NYSE/NASDAQ,
+ROIV,Roivant Sciences,NYSE/NASDAQ,
+ROKU,"Roku, Inc.",NYSE/NASDAQ,
+RGLD,Royal Gold,NYSE/NASDAQ,
+RPRX,Royalty Pharma,NYSE/NASDAQ,
+RPM,RPM International,NYSE/NASDAQ,
+RBRK,Rubrik,NYSE/NASDAQ,
+RYAN,Ryan Specialty,NYSE/NASDAQ,
+R,Ryder,NYSE/NASDAQ,
+SAIA,Saia,NYSE/NASDAQ,
+SAIL,SailPoint,NYSE/NASDAQ,
+SAIC,SAIC,NYSE/NASDAQ,
+SLM,Sallie Mae,NYSE/NASDAQ,
+IOT,Samsara,NYSE/NASDAQ,
+SRPT,Sarepta Therapeutics,NYSE/NASDAQ,
+SNDR,Schneider National,NYSE/NASDAQ,
+SMG,Scotts Miracle-Gro Company,NYSE/NASDAQ,
+SEB,Seaboard Corporation,NYSE/NASDAQ,
+SEIC,SEI Investments Company,NYSE/NASDAQ,
+ST,Sensata Technologies,NYSE/NASDAQ,
+S,SentinelOne,NYSE/NASDAQ,
+SCI,Service Corporation International,NYSE/NASDAQ,
+SN,SharkNinja,NYSE/NASDAQ,
+FOUR,Shift4,NYSE/NASDAQ,
+SLGN,Silgan Holdings,NYSE/NASDAQ,
+SSD,Simpson Manufacturing Company,NYSE/NASDAQ,
+SIRI,Sirius XM,NYSE/NASDAQ,
+SITE,SiteOne Landscape Supply,NYSE/NASDAQ,
+SFD,Smithfield Foods,NYSE/NASDAQ,
+SNOW,Snowflake Inc.,NYSE/NASDAQ,
+SOFI,SoFi,NYSE/NASDAQ,
+SOLS,Solstice Advanced Materials,NYSE/NASDAQ,
+SGI,Somnigroup International,NYSE/NASDAQ,
+SON,Sonoco,NYSE/NASDAQ,
+SHC,Sotera Health,NYSE/NASDAQ,
+SCCO,Southern Copper,NYSE/NASDAQ,
+SSB,SouthState Corporation,NYSE/NASDAQ,
+SPOT,Spotify,NYSE/NASDAQ,
+SFM,Sprouts Farmers Market,NYSE/NASDAQ,
+SSNC,SS&C Technologies,NYSE/NASDAQ,
+STAG,STAG Industrial,NYSE/NASDAQ,
+SARO,StandardAero,NYSE/NASDAQ,
+STWD,Starwood Property Trust,NYSE/NASDAQ,
+SF,Stifel,NYSE/NASDAQ,
+SMMT,Summit Therapeutics,NYSE/NASDAQ,
+SUI,Sun Communities,NYSE/NASDAQ,
+TLN,Talen Energy,NYSE/NASDAQ,
+SNX,TD Synnex,NYSE/NASDAQ,
+FTI,TechnipFMC,NYSE/NASDAQ,
+TFX,Teleflex,NYSE/NASDAQ,
+TEM,Tempus AI,NYSE/NASDAQ,
+THC,Tenet Healthcare,NYSE/NASDAQ,
+TDC,Teradata,NYSE/NASDAQ,
+TTEK,Tetra Tech,NYSE/NASDAQ,
+TXRH,Texas Roadhouse,NYSE/NASDAQ,
+TFSL,Third Federal S&L,NYSE/NASDAQ,
+THO,Thor Industries,NYSE/NASDAQ,
+TKR,Timken Company,NYSE/NASDAQ,
+TOST,"Toast, Inc.",NYSE/NASDAQ,
+TOL,Toll Brothers,NYSE/NASDAQ,
+BLD,TopBuild,NYSE/NASDAQ,
+TTC,Toro Company (The),NYSE/NASDAQ,
+TPG,TPG Inc.,NYSE/NASDAQ,
+TW,Tradeweb,NYSE/NASDAQ,
+TRU,TransUnion,NYSE/NASDAQ,
+TNL,Travel + Leisure Co.,NYSE/NASDAQ,
+TREX,"Trex Company, Inc.",NYSE/NASDAQ,
+DJT,Trump Media & Technology Group,NYSE/NASDAQ,
+TWLO,Twilio,NYSE/NASDAQ,
+UHAL,U-Haul,NYSE/NASDAQ,
+UI,Ubiquiti,NYSE/NASDAQ,
+UGI,UGI Corporation,NYSE/NASDAQ,
+PATH,UiPath,NYSE/NASDAQ,
+RARE,Ultragenyx,NYSE/NASDAQ,
+UAA,Under Armour (Class A),NYSE/NASDAQ,
+UA,Under Armour (Class C),NYSE/NASDAQ,
+UTHR,United Therapeutics,NYSE/NASDAQ,
+UWMC,United Wholesale Mortgage,NYSE/NASDAQ,
+U,Unity Technologies,NYSE/NASDAQ,
+OLED,Universal Display Corporation,NYSE/NASDAQ,
+UNM,Unum,NYSE/NASDAQ,
+USFD,US Foods,NYSE/NASDAQ,
+MTN,Vail Resorts,NYSE/NASDAQ,
+VMI,Valmont Industries,NYSE/NASDAQ,
+VVV,Valvoline,NYSE/NASDAQ,
+VSNT,Versant,NYSE/NASDAQ,
+VGNT,Versigent,NYSE/NASDAQ,
+VFC,VF Corporation,NYSE/NASDAQ,
+VIK,Viking Holdings,NYSE/NASDAQ,
+VKTX,Viking Therapeutics,NYSE/NASDAQ,
+VNOM,Viper Energy,NYSE/NASDAQ,
+VIRT,Virtu Financial,NYSE/NASDAQ,
+VNT,Vontier,NYSE/NASDAQ,
+VNO,Vornado Realty Trust,NYSE/NASDAQ,
+VOYA,Voya Financial,NYSE/NASDAQ,
+WPC,W. P. Carey,NYSE/NASDAQ,
+WSO,Watsco,NYSE/NASDAQ,
+W,Wayfair,NYSE/NASDAQ,
+WFRD,Weatherford International,NYSE/NASDAQ,
+WBS,Webster Bank,NYSE/NASDAQ,
+WEN,Wendy's Company (The),NYSE/NASDAQ,
+WCC,Wesco International,NYSE/NASDAQ,
+WAL,Western Alliance Bancorporation,NYSE/NASDAQ,
+WU,Western Union,NYSE/NASDAQ,
+WLK,Westlake Corporation,NYSE/NASDAQ,
+WEX,WEX Inc.,NYSE/NASDAQ,
+WHR,Whirlpool Corporation,NYSE/NASDAQ,
+WTM,White Mountains Insurance Group,NYSE/NASDAQ,
+WSC,WillScot Mobile Mini,NYSE/NASDAQ,
+WING,Wingstop,NYSE/NASDAQ,
+WTFC,Wintrust Financial,NYSE/NASDAQ,
+WWD,"Woodward, Inc.",NYSE/NASDAQ,
+WH,Wyndham Hotels & Resorts,NYSE/NASDAQ,
+XP,XP Inc.,NYSE/NASDAQ,
+XPO,"XPO, Inc.",NYSE/NASDAQ,
+YETI,Yeti Holdings,NYSE/NASDAQ,
+ZG,Zillow (Class A),NYSE/NASDAQ,
+Z,Zillow (Class C),NYSE/NASDAQ,
+ZION,Zions Bancorporation,NYSE/NASDAQ,
+ZM,Zoom Communications,NYSE/NASDAQ,
+GTM,ZoomInfo,NYSE/NASDAQ,
+ZS,Zscaler,NYSE/NASDAQ,
+ADTN,"ADTRAN Holdings, Inc.",NYSE/NASDAQ,
+ALIT,"Alight, Inc.",NYSE/NASDAQ,
+CHX,Championx Corporation,NYSE/NASDAQ,
+GTLS,Chart Industries Inc,NYSE/NASDAQ,
+DNLI,"Denali Therapeutics, Inc.",NYSE/NASDAQ,
+DORM,"Dorman Products, Inc.",NYSE/NASDAQ,
+EVER,"EverQuote, Inc.",NYSE/NASDAQ,
+FULT,Fulton Financial Corp.,NYSE/NASDAQ,
+SPOK,"Spok, Inc.",NYSE/NASDAQ,
+TLYS,"Tilly's, Inc.",NYSE/NASDAQ,
+WK,Workiva,NYSE/NASDAQ,
+ARM,Arm Holdings,NASDAQ,
+ASML,ASML Holding,NASDAQ,
+CCEP,Coca-Cola Europacific Partners,NASDAQ,
+FER,Ferrovial,NASDAQ,
+MELI,Mercado Libre,NASDAQ,
+PDD,PDD Holdings,NASDAQ,
+SHOP,Shopify,NASDAQ,
+TRI,Thomson Reuters,NASDAQ,
+AAMI,Acadian Asset Management Inc.,NYSE/NASDAQ,Financials
+AAP,"Advance Auto Parts, Inc.",NYSE/NASDAQ,Consumer Discretionary
+AAT,American Assets Trust,NYSE/NASDAQ,Real Estate
+ABCB,Ameris Bancorp,NYSE/NASDAQ,Financials
+ABG,Asbury Automotive Group,NYSE/NASDAQ,Consumer Discretionary
+ABM,"ABM Industries, Inc.",NYSE/NASDAQ,Industrials
+ABR,Arbor Realty Trust,NYSE/NASDAQ,Financials
+ACA,"Arcosa, Inc.",NYSE/NASDAQ,Industrials
+ACAD,Acadia Pharmaceuticals,NYSE/NASDAQ,Health Care
+ACIW,ACI Worldwide,NYSE/NASDAQ,Information Technology
+ACLS,"Axcelis Technologies, Inc.",NYSE/NASDAQ,Information Technology
+ACMR,"ACM Research, Inc.",NYSE/NASDAQ,Information Technology
+ACT,"Enact Holdings, Inc.",NYSE/NASDAQ,Financials
+ADAM,"Adamas Trust, Inc.",NYSE/NASDAQ,Real Estate
+ADEA,"Adeia, Inc.",NYSE/NASDAQ,Information Technology
+ADMA,"ADMA Biologics, Inc.",NYSE/NASDAQ,Health Care
+ADNT,Adient,NYSE/NASDAQ,Consumer Discretionary
+ADUS,Addus HomeCare Corp.,NYSE/NASDAQ,Health Care
+AEO,American Eagle Outfitters,NYSE/NASDAQ,Consumer Discretionary
+AESI,"Atlas Energy Solutions, Inc.",NYSE/NASDAQ,Energy
+AGX,"Argan, Inc.",NYSE/NASDAQ,Industrials
+AGYS,"Agilysys, Inc.",NYSE/NASDAQ,Information Technology
+AHCO,AdaptHealth Corp.,NYSE/NASDAQ,Health Care
+AIN,Albany International Corp.,NYSE/NASDAQ,Industrials
+AIR,AAR CORP.,NYSE/NASDAQ,Industrials
+AKR,Acadia Realty Trust,NYSE/NASDAQ,Real Estate
+ALG,Alamo Group,NYSE/NASDAQ,Industrials
+ALGT,Allegiant Travel Company,NYSE/NASDAQ,Industrials
+ALKS,Alkermes plc,NYSE/NASDAQ,Health Care
+ALRM,"Alarm.Com, Inc.",NYSE/NASDAQ,Financials
+AMN,"Amn Healthcare Services, Inc.",NYSE/NASDAQ,Health Care
+AMPH,"Amphstar Pharmaceuticals, Inc.",NYSE/NASDAQ,Health Care
+AMR,"Alpha Metallurgical Resources, Inc.",NYSE/NASDAQ,Materials
+AMRX,Amneal Pharmaceuticals,NYSE/NASDAQ,Health Care
+AMSF,"Amerisafe, Inc.",NYSE/NASDAQ,Financials
+AMWD,American Woodmark Corp.,NYSE/NASDAQ,Industrials
+ANDE,"The Andersons, Inc.",NYSE/NASDAQ,Consumer Staples
+ANIP,"ANI Pharmaceuticals, Inc.",NYSE/NASDAQ,Health Care
+AORT,Artivion,NYSE/NASDAQ,Health Care
+AOSL,"Alpha and Omega Semiconductor, Ltd.",NYSE/NASDAQ,Information Technology
+APAM,"Artisan Partners Asset Management, Inc.",NYSE/NASDAQ,Financials
+APLE,"Apple Hospitality REIT, Inc.",NYSE/NASDAQ,Real Estate
+APOG,"Apogee Enterprises, Inc.",NYSE/NASDAQ,Industrials
+ARCB,ArcBest Corp.,NYSE/NASDAQ,Industrials
+ARI,Apollo Commercial Real Estate Finance,NYSE/NASDAQ,Real Estate
+ARLO,Arlo Technologies,NYSE/NASDAQ,Information Technology
+AROC,"Archrock, Inc.",NYSE/NASDAQ,Energy
+ARR,Armour Residential REIT,NYSE/NASDAQ,Real Estate
+ASGN,ASGN Inc.,NYSE/NASDAQ,Information Technology
+ASO,Academy Sports + Outdoors,NYSE/NASDAQ,Consumer Discretionary
+ASTE,"Astec Industries, Inc.",NYSE/NASDAQ,Industrials
+ASTH,"Astrana Health, Inc.",NYSE/NASDAQ,Health Care
+ATEN,"A10 Networks, Inc.",NYSE/NASDAQ,Information Technology
+ATMU,Atmus Filtration Technologies Inc.,NYSE/NASDAQ,Industrials
+AUB,"Atlantic Union Bankshares, Corp.",NYSE/NASDAQ,Financials
+AVA,Avista Corporation,NYSE/NASDAQ,Utilities
+AVNS,"Avanos Medical, Inc.",NYSE/NASDAQ,Health Care
+AWR,American States Water Company,NYSE/NASDAQ,Utilities
+AX,"Axos Financial, Inc.",NYSE/NASDAQ,Financials
+AZTA,"Azenta, Inc.",NYSE/NASDAQ,Health Care
+AZZ,"AZZ, Inc.",NYSE/NASDAQ,Industrials
+BANC,"Banc Of California, Inc.",NYSE/NASDAQ,Financials
+BANF,Bancfirst Corp,NYSE/NASDAQ,Financials
+BANR,Banner Corporation,NYSE/NASDAQ,Financials
+BBT,Beacon Financial Corp.,NYSE/NASDAQ,Financials
+BCC,Boise Cascade,NYSE/NASDAQ,Industrials
+BCPC,Balchem Corporation,NYSE/NASDAQ,Materials
+BFH,"Bread Financial Holdings, Inc.",NYSE/NASDAQ,Financials
+BFS,"Saul Centers, Inc.",NYSE/NASDAQ,Real Estate
+BGC,"BGC Group, Inc.",NYSE/NASDAQ,Financials
+BHE,"Benchmark Electronics, Inc.",NYSE/NASDAQ,Information Technology
+BJRI,"BJ's Restaurants, Inc.",NYSE/NASDAQ,Consumer Discretionary
+BKE,"The Buckle, Inc.",NYSE/NASDAQ,Consumer Discretionary
+BKU,"BankUnited, Inc.",NYSE/NASDAQ,Financials
+BL,"BlackLine Systems, Inc.",NYSE/NASDAQ,Information Technology
+BLFS,"BioLife Solutions, Inc.",NYSE/NASDAQ,Health Care
+BMI,"Badger Meter, Inc.",NYSE/NASDAQ,Information Technology
+BNL,"Broadstone Net Lease, Inc.",NYSE/NASDAQ,Real Estate
+BOH,Bank of Hawaii,NYSE/NASDAQ,Financials
+BOOT,"Boot Barn Holdings, Inc.",NYSE/NASDAQ,Consumer Discretionary
+BOX,"Box, Inc.",NYSE/NASDAQ,Information Technology
+BRC,Brady Corporation,NYSE/NASDAQ,Industrials
+BTSG,"BrightSpring Health Services, Inc.",NYSE/NASDAQ,Health Care
+BTU,"Peabody Energy, Inc.",NYSE/NASDAQ,Energy
+BXMT,"Blackstone Mortgage Trust, Inc.",NYSE/NASDAQ,Financials
+CABO,Cable One,NYSE/NASDAQ,Communication Services
+CAKE,"The Cheesecake Factory, Inc.",NYSE/NASDAQ,Consumer Discretionary
+CALM,"Cal-Maine Foods, Inc.",NYSE/NASDAQ,Consumer Staples
+CALX,Calix,NYSE/NASDAQ,Information Technology
+CALY,Callaway Golf Company,NYSE/NASDAQ,Consumer Discretionary
+CARG,CarGurus,NYSE/NASDAQ,Communication Services
+CASH,"Pathward Financial, Inc.",NYSE/NASDAQ,Financials
+CATY,Cathay General Bancorp,NYSE/NASDAQ,Financials
+CBRL,Cracker Barrel,NYSE/NASDAQ,Consumer Discretionary
+CBU,"Community Bank System, Inc.",NYSE/NASDAQ,Financials
+CC,Chemours,NYSE/NASDAQ,Materials
+CCOI,"Cogent Communications Holdings, Inc.",NYSE/NASDAQ,Communication Services
+CCS,"Century Communities, Inc.",NYSE/NASDAQ,Consumer Discretionary
+CENT,Central Garden & Pet Company,NYSE/NASDAQ,Consumer Staples
+CENTA,Central Garden & Pet Company (Class A),NYSE/NASDAQ,Consumer Staples
+CENX,Century Aluminum Company,NYSE/NASDAQ,Materials
+CFFN,Capitol Federal Savings Bank,NYSE/NASDAQ,Financials
+CHCO,City Holding Company,NYSE/NASDAQ,Financials
+CHEF,"Chefs' Warehouse, Inc.",NYSE/NASDAQ,Consumer Staples
+CLB,Core Laboratories,NYSE/NASDAQ,Energy
+CLSK,"CleanSpark, Inc.",NYSE/NASDAQ,Information Technology
+CNK,"Cinemark Holdings, Inc.",NYSE/NASDAQ,Communication Services
+CNMD,CONMED Corporation,NYSE/NASDAQ,Health Care
+CNR,"Core Natural Resources, Inc.",NYSE/NASDAQ,Energy
+CNS,"Cohen & Steers, Inc.",NYSE/NASDAQ,Financials
+CNXN,"PC Connection, Inc.",NYSE/NASDAQ,Information Technology
+COCO,The Vita Coco Company,NYSE/NASDAQ,Consumer Staples
+COHU,"Cohu, Inc.",NYSE/NASDAQ,Information Technology
+COLL,"Collegium Pharmaceutical, Inc.",NYSE/NASDAQ,Health Care
+CON,"Concentra Group Holdings Parent, Inc.",NYSE/NASDAQ,Health Care
+CPF,Central Pacific Financial Corp.,NYSE/NASDAQ,Financials
+CPK,Chesapeake Utilities Corp.,NYSE/NASDAQ,Utilities
+CPRX,"Catalyst Pharmaceuticals Partners, Inc.",NYSE/NASDAQ,Health Care
+CRC,California Resources Corporation,NYSE/NASDAQ,Energy
+CRGY,Crescent Energy Company,NYSE/NASDAQ,Energy
+CRI,"Carter's, Inc.",NYSE/NASDAQ,Consumer Discretionary
+CRK,"Comstock Resources, Inc.",NYSE/NASDAQ,Energy
+CRSR,Corsair Gaming,NYSE/NASDAQ,Information Technology
+CRVL,CorVel Corporation,NYSE/NASDAQ,Health Care
+CSGS,"CSG Systems International, Inc.",NYSE/NASDAQ,Industrials
+CSR,Centerspace Trust,NYSE/NASDAQ,Real Estate
+CSW,"CSW Industrials, Inc.",NYSE/NASDAQ,Industrials
+CTKB,"Cytek Biosciences, Inc.",NYSE/NASDAQ,Health Care
+CTS,CTS Corporation,NYSE/NASDAQ,Information Technology
+CUBI,"Customers Bancorp, Inc.",NYSE/NASDAQ,Financials
+CURB,Curbline Properties Corp.,NYSE/NASDAQ,Real Estate
+CVBF,CVB Financial Corp.,NYSE/NASDAQ,Financials
+CVCO,"Cavco Industries, Inc.",NYSE/NASDAQ,Consumer Discretionary
+CVI,"CVR Energy, Inc.",NYSE/NASDAQ,Energy
+CVSA,Covista Inc.,NYSE/NASDAQ,Consumer Discretionary
+CWK,Cushman & Wakefield plc,NYSE/NASDAQ,Real Estate
+CWST,"Casella Waste Systems, Inc.",NYSE/NASDAQ,Industrials
+CWT,California Water Service Group,NYSE/NASDAQ,Utilities
+CXM,"Sprinklr, Inc.",NYSE/NASDAQ,Information Technology
+CXW,CoreCivic,NYSE/NASDAQ,Industrials
+DAN,Dana Incorporated,NYSE/NASDAQ,Consumer Discretionary
+DBD,Diebold Nixdorf,NYSE/NASDAQ,Information Technology
+DCH,Dauch Corporation,NYSE/NASDAQ,Consumer Discretionary
+DCOM,"Dime Community Bancshares, Inc.",NYSE/NASDAQ,Financials
+DEA,"Easterly Government Properties, Inc.",NYSE/NASDAQ,Real Estate
+DEI,Douglas Emmett,NYSE/NASDAQ,Real Estate
+DFH,"Dream Finders Homes, Inc.",NYSE/NASDAQ,Consumer Discretionary
+DFIN,"Donnelley Financial Solutions, Inc.",NYSE/NASDAQ,Financials
+DGII,Digi International Inc.,NYSE/NASDAQ,Information Technology
+DIOD,Diodes Incorporated,NYSE/NASDAQ,Information Technology
+DLX,Deluxe Corporation,NYSE/NASDAQ,Industrials
+DNOW,NOW Inc,NYSE/NASDAQ,Industrials
+DRH,DiamondRock Hospitality Company,NYSE/NASDAQ,Real Estate
+DXPE,"DXP Enterprises, Inc.",NYSE/NASDAQ,Industrials
+EAT,"Brinker International, Inc.",NYSE/NASDAQ,Consumer Discretionary
+ECPG,"Encore Capital Group, Inc.",NYSE/NASDAQ,Financials
+EFC,"Ellington Financial, Inc.",NYSE/NASDAQ,Financials
+EGBN,Eagle Bancorp Inc,NYSE/NASDAQ,Financials
+EIG,"Employers Holdings, Inc.",NYSE/NASDAQ,Financials
+EMBC,Embecta Corp.,NYSE/NASDAQ,Health Care
+ENOV,Enovis,NYSE/NASDAQ,Health Care
+ENR,Energizer,NYSE/NASDAQ,Consumer Staples
+ENVA,"Enova International, Inc.",NYSE/NASDAQ,Financials
+EPAC,Enerpac Tool Group,NYSE/NASDAQ,Industrials
+EPC,Edgewell Personal Care,NYSE/NASDAQ,Consumer Staples
+EPRT,"Essential Properties Realty Trust, Inc.",NYSE/NASDAQ,Real Estate
+ESE,ESCO Technologies Inc.,NYSE/NASDAQ,Industrials
+ETD,"Ethan Allen Interiors, Inc.",NYSE/NASDAQ,Consumer Discretionary
+EVTC,"EVERTEC, Inc.",NYSE/NASDAQ,Financials
+EXPI,"eXp World Holdings, Inc.",NYSE/NASDAQ,Real Estate
+EXTR,"Extreme Networks, Inc.",NYSE/NASDAQ,Information Technology
+EYE,National Vision Holdings,NYSE/NASDAQ,Consumer Discretionary
+EZPW,"EZCORP, Inc.",NYSE/NASDAQ,Financials
+FBK,FB Financial Corp.,NYSE/NASDAQ,Financials
+FBNC,First Bancorp (Southern Pines NC),NYSE/NASDAQ,Financials
+FBP,First BanCorp (Puerto Rico),NYSE/NASDAQ,Financials
+FBRT,"Franklin BSP Realty Trust, Inc.",NYSE/NASDAQ,Real Estate
+FCF,"First Commonwealth Financial, Corp.",NYSE/NASDAQ,Financials
+FCPT,"Four Corners Property Trust, Inc.",NYSE/NASDAQ,Real Estate
+FDP,"Fresh Del Monte Produce, Inc.",NYSE/NASDAQ,Consumer Staples
+FELE,Franklin Electric,NYSE/NASDAQ,Industrials
+FFBC,First Financial Bancorp.,NYSE/NASDAQ,Financials
+FIBK,"First Interstate BancSystem, Inc.",NYSE/NASDAQ,Financials
+FIZZ,National Beverage Corp.,NYSE/NASDAQ,Consumer Staples
+FORM,"FormFactor, Inc.",NYSE/NASDAQ,Information Technology
+FOXF,Fox Factory,NYSE/NASDAQ,Consumer Discretionary
+FSS,Federal Signal Corporation,NYSE/NASDAQ,Industrials
+FTDR,"Frontdoor, Inc.",NYSE/NASDAQ,Consumer Discretionary
+FTRE,Fortrea,NYSE/NASDAQ,Health Care
+FUL,H.B. Fuller Company,NYSE/NASDAQ,Materials
+FUN,Six Flags,NYSE/NASDAQ,Consumer Discretionary
+FWRD,Forward Air Corp.,NYSE/NASDAQ,Industrials
+GBX,"The Greenbrier Companies, Inc.",NYSE/NASDAQ,Industrials
+GDYN,"Grid Dynamics Holdings, Inc.",NYSE/NASDAQ,Information Technology
+GEO,"GEO Group, Inc.",NYSE/NASDAQ,Industrials
+GFF,Griffon Corporation,NYSE/NASDAQ,Industrials
+GIII,"G-III Apparel Group, Ltd.",NYSE/NASDAQ,Consumer Discretionary
+GKOS,Glaukos Corp.,NYSE/NASDAQ,Health Care
+GNL,"Global Net Lease, Inc.",NYSE/NASDAQ,Real Estate
+GNW,"Genworth Financial, Inc.",NYSE/NASDAQ,Financials
+GO,Grocery Outlet,NYSE/NASDAQ,Consumer Staples
+GOGO,"Gogo, Inc.",NYSE/NASDAQ,Communication Services
+GOLF,Acushnet Company,NYSE/NASDAQ,Consumer Discretionary
+GPI,"Group 1 Automotive, Inc.",NYSE/NASDAQ,Consumer Discretionary
+GRBK,"Green Brick Partners, Inc.",NYSE/NASDAQ,Consumer Discretionary
+GSHD,"Goosehead Insurance, Inc.",NYSE/NASDAQ,Financials
+GTY,Getty Realty Corp.,NYSE/NASDAQ,Real Estate
+GVA,"Granite Construction, Inc.",NYSE/NASDAQ,Industrials
+HAFC,Hanmi Financial Corporation,NYSE/NASDAQ,Financials
+HASI,"Hannon Armstrong Sustainable Infrastructure Capital, Inc.",NYSE/NASDAQ,Financials
+HCC,"Warrior Met Coal, Inc.",NYSE/NASDAQ,Materials
+HCI,"HCI Group, Inc.",NYSE/NASDAQ,Financials
+HCSG,"Healthcare Services Group, Inc.",NYSE/NASDAQ,Industrials
+HE,"Hawaiian Electric Industries, Inc.",NYSE/NASDAQ,Utilities
+HFWA,Heritage Financial Corporation,NYSE/NASDAQ,Health Care
+HLIT,Harmonic Inc.,NYSE/NASDAQ,Information Technology
+HLX,"Helix Energy Solutions Group, Inc.",NYSE/NASDAQ,Energy
+HMN,Horace Mann Educators Corporation,NYSE/NASDAQ,Financials
+HNI,HNI Corporation,NYSE/NASDAQ,Industrials
+HOPE,"Hope Bancorp, Inc.",NYSE/NASDAQ,Financials
+HP,"Helmerich & Payne, Inc.",NYSE/NASDAQ,Energy
+HRMY,"Harmony Biosciences Holdings, Inc.",NYSE/NASDAQ,Health Care
+HSTM,"HealthStream, Inc.",NYSE/NASDAQ,Health Care
+HTH,Hilltop Holdings Inc.,NYSE/NASDAQ,Financials
+HTLD,"Heartland Express, Inc.",NYSE/NASDAQ,Industrials
+HTO,H2O America,NYSE/NASDAQ,Utilities
+HTZ,Hertz,NYSE/NASDAQ,Industrials
+HUBG,"Hub Group, Inc.",NYSE/NASDAQ,Industrials
+HWKN,"Hawkins, Inc.",NYSE/NASDAQ,Materials
+HZO,"MarineMax, Inc.",NYSE/NASDAQ,Consumer Discretionary
+IART,Integra Lifesciences Holdings,NYSE/NASDAQ,Health Care
+IBP,"Installed Building Products, Inc.",NYSE/NASDAQ,Consumer Discretionary
+ICHR,"Ichor Holdings, Ltd.",NYSE/NASDAQ,Information Technology
+ICUI,ICU Medical,NYSE/NASDAQ,Health Care
+IIIN,"Insteel Industries, Inc.",NYSE/NASDAQ,Industrials
+IIPR,"Innovative Industrial Properties, Inc.",NYSE/NASDAQ,Real Estate
+INDB,Independent Bank Corp.,NYSE/NASDAQ,Financials
+INDV,Indivior,NYSE/NASDAQ,Health Care
+INSW,"International Seaways, Inc.",NYSE/NASDAQ,Energy
+INVA,"Innoviva, Inc.",NYSE/NASDAQ,Health Care
+INVX,"Innovex International, Inc.",NYSE/NASDAQ,Energy
+IOSP,"Innospec, Inc.",NYSE/NASDAQ,Materials
+IPAR,"Inter Parfums, Inc.",NYSE/NASDAQ,Consumer Staples
+ITGR,Integer Holdings Corporation,NYSE/NASDAQ,Health Care
+ITRI,"Itron, Inc.",NYSE/NASDAQ,Information Technology
+JBGS,JBG Smith,NYSE/NASDAQ,Real Estate
+JBLU,JetBlue,NYSE/NASDAQ,Industrials
+JBSS,"John B. Sanfilippo & Son, Inc.",NYSE/NASDAQ,Consumer Staples
+JBTM,JBT Marel Corporation,NYSE/NASDAQ,Industrials
+JJSF,J&J Snack Foods Corp.,NYSE/NASDAQ,Consumer Staples
+JOE,St. Joe Company,NYSE/NASDAQ,Real Estate
+JXN,"Jackson Financial, Inc.",NYSE/NASDAQ,Financials
+KAI,Kadant Inc.,NYSE/NASDAQ,Industrials
+KALU,Kaiser Aluminum Corporation,NYSE/NASDAQ,Materials
+OPLN,"OPENLANE, Inc.",NYSE/NASDAQ,Industrials
+KFY,Korn/Ferry International,NYSE/NASDAQ,Industrials
+KGS,"Kodiak Gas Services, Inc.",NYSE/NASDAQ,Energy
+KLIC,"Kulicke and Soffa Industries, Inc.",NYSE/NASDAQ,Information Technology
+KMT,Kennametal,NYSE/NASDAQ,Industrials
+KN,Knowles Corporation,NYSE/NASDAQ,Information Technology
+KNTK,"Kinetik Holdings, Inc.",NYSE/NASDAQ,Energy
+KOP,"Koppers Holdings, Inc.",NYSE/NASDAQ,Materials
+KRYS,"Krystal Biotech, Inc.",NYSE/NASDAQ,Health Care
+KSS,Kohl's Corp.,NYSE/NASDAQ,Consumer Discretionary
+KTB,Kontoor Brands,NYSE/NASDAQ,Consumer Discretionary
+KW,"Kennedy-Wilson Holdings, Inc.",NYSE/NASDAQ,Real Estate
+KWR,Quaker Chemical Corporation,NYSE/NASDAQ,Materials
+LAUR,"Laureate Education, Inc.",NYSE/NASDAQ,Consumer Discretionary
+LBRT,"Liberty Energy, Inc.",NYSE/NASDAQ,Energy
+LCII,LCI Industries,NYSE/NASDAQ,Consumer Discretionary
+LEG,Leggett & Platt,NYSE/NASDAQ,Consumer Discretionary
+LFST,Lifestance Health,NYSE/NASDAQ,Health Care
+LGIH,LGI Homes,NYSE/NASDAQ,Consumer Discretionary
+LIF,Life360,NYSE/NASDAQ,Information Technology
+LGND,"Ligand Pharmaceuticals, Inc.",NYSE/NASDAQ,Health Care
+LKFN,Lakeland Financial,NYSE/NASDAQ,Financials
+LMAT,LeMaitre Vascular,NYSE/NASDAQ,Health Care
+LNN,Lindsay Corporation,NYSE/NASDAQ,Materials
+LPG,Dorian LPG Ltd.,NYSE/NASDAQ,Energy
+LQDT,"Liquidity Services, Inc.",NYSE/NASDAQ,Industrials
+LRN,"Stride, Inc.",NYSE/NASDAQ,Consumer Discretionary
+LTC,"LTC Properties, Inc.",NYSE/NASDAQ,Real Estate
+LTH,"Life Time Group Holdings, Inc.",NYSE/NASDAQ,Consumer Discretionary
+LUMN,Lumen Technologies,NYSE/NASDAQ,Communication Services
+LXP,Lexington Realty Trust,NYSE/NASDAQ,Real Estate
+LZ,"LegalZoom.com, Inc.",NYSE/NASDAQ,Industrials
+LZB,"La-Z-Boy, Inc.",NYSE/NASDAQ,Consumer Discretionary
+MAC,Macerich,NYSE/NASDAQ,Real Estate
+MARA,"MARA Holdings, Inc.",NYSE/NASDAQ,Information Technology
+MATW,Matthews International Corporation,NYSE/NASDAQ,Consumer Discretionary
+MATX,"Matson, Inc.",NYSE/NASDAQ,Industrials
+MBC,"MasterBrand, Inc.",NYSE/NASDAQ,Industrials
+MBIN,Merchants Bancorp,NYSE/NASDAQ,Financials
+MC,Moelis & Company,NYSE/NASDAQ,Financials
+MCRI,"Monarch Casino & Resort, Inc.",NYSE/NASDAQ,Consumer Discretionary
+MCW,"Mister Car Wash, Inc.",NYSE/NASDAQ,Consumer Discretionary
+MCY,Mercury General,NYSE/NASDAQ,Financials
+MD,Pediatrix Medical Group,NYSE/NASDAQ,Health Care
+MGEE,"MGE Energy, Inc.",NYSE/NASDAQ,Utilities
+MGY,"Magnolia Oil & Gas, Corp.",NYSE/NASDAQ,Energy
+MHO,"M/I Homes, Inc.",NYSE/NASDAQ,Consumer Discretionary
+MIR,"Mirion Technologies, Inc.",NYSE/NASDAQ,Information Technology
+MLKN,"MillerKnoll, Inc.",NYSE/NASDAQ,Industrials
+MMI,"Marcus & Millichap, Inc.",NYSE/NASDAQ,Real Estate
+MMSI,"Merit Medical Systems, Inc.",NYSE/NASDAQ,Health Care
+MNRO,"Monro, Inc.",NYSE/NASDAQ,Consumer Discretionary
+MRCY,Mercury Systems,NYSE/NASDAQ,Industrials
+MRTN,"Marten Transport, Ltd.",NYSE/NASDAQ,Industrials
+MSEX,Middlesex Water Company,NYSE/NASDAQ,Utilities
+MTH,Meritage Homes Corporation,NYSE/NASDAQ,Consumer Discretionary
+MTRN,Materion Corp.,NYSE/NASDAQ,Materials
+MTUS,Metallus Inc,NYSE/NASDAQ,Materials
+MTX,Minerals Technologies,NYSE/NASDAQ,Materials
+MWA,Mueller Water Products,NYSE/NASDAQ,Industrials
+MXL,"MaxLinear, Inc.",NYSE/NASDAQ,Information Technology
+MYRG,"MYR Group, Inc.",NYSE/NASDAQ,Industrials
+NABL,"N-able, Inc.",NYSE/NASDAQ,Information Technology
+NATL,NCR Atleos,NYSE/NASDAQ,Financials
+NAVI,Navient,NYSE/NASDAQ,Financials
+NBHC,National Bank Holdings Corporation,NYSE/NASDAQ,Financials
+NBTB,"NBT Bancorp, Inc.",NYSE/NASDAQ,Financials
+NE,Noble Corporation,NYSE/NASDAQ,Energy
+NEO,"NeoGenomics Laboratories, Inc.",NYSE/NASDAQ,Health Care
+NEOG,Neogen,NYSE/NASDAQ,Health Care
+NGVT,"Ingevity, Corp.",NYSE/NASDAQ,Materials
+NHC,"National Healthcare, Corp.",NYSE/NASDAQ,Health Care
+NMIH,"NMI Holdings, Inc.",NYSE/NASDAQ,Financials
+NOG,"Northern Oil and Gas, Inc.",NYSE/NASDAQ,Energy
+NPK,"National Presto Industries, Inc.",NYSE/NASDAQ,Industrials
+NPO,"EnPro Industries, Inc.",NYSE/NASDAQ,Industrials
+NSIT,"Insight Enterprises, Inc.",NYSE/NASDAQ,Industrials
+NSP,Insperity,NYSE/NASDAQ,Industrials
+NSSC,Napco Security Technologies,NYSE/NASDAQ,Information Technology
+NTCT,"NETSCOUT Systems, Inc.",NYSE/NASDAQ,Information Technology
+NVRI,Enviri Corporation,NYSE/NASDAQ,Industrials
+NWBI,"Northwest Bancshares, Inc.",NYSE/NASDAQ,Financials
+NWN,NW Natural,NYSE/NASDAQ,Utilities
+NX,Quanex Building Products Corporation,NYSE/NASDAQ,Industrials
+NXRT,"NexPoint Residential Trust, Inc.",NYSE/NASDAQ,Real Estate
+OFG,OFG Bancorp,NYSE/NASDAQ,Financials
+OI,"O-I Glass, Inc.",NYSE/NASDAQ,Materials
+OII,"Oceaneering International, Inc.",NYSE/NASDAQ,Energy
+OMCL,Omnicell,NYSE/NASDAQ,Health Care
+OSIS,"OSI Systems, Inc.",NYSE/NASDAQ,Information Technology
+OSW,OneSpaWorld Holdings Limited,NYSE/NASDAQ,Consumer Discretionary
+OTTR,Otter Tail Corporation,NYSE/NASDAQ,Utilities
+OUT,Outfront Media,NYSE/NASDAQ,Real Estate
+OXM,"Oxford Industries, Inc.",NYSE/NASDAQ,Consumer Discretionary
+PAHC,Phibro Animal Health,NYSE/NASDAQ,Health Care
+PARR,"Par Pacific Holdings, Inc.",NYSE/NASDAQ,Energy
+PAYO,Payoneer Global Inc.,NYSE/NASDAQ,Financials
+PATK,"Patrick Industries, Inc.",NYSE/NASDAQ,Consumer Discretionary
+PBH,Prestige Consumer Healthcare,NYSE/NASDAQ,Health Care
+PBI,"Pitney Bowes, Inc.",NYSE/NASDAQ,Industrials
+PCRX,"Pacira BioSciences, Inc.",NYSE/NASDAQ,Health Care
+PDFS,"PDF Solutions, Inc.",NYSE/NASDAQ,Information Technology
+PEB,Pebblebrook Hotel Trust,NYSE/NASDAQ,Real Estate
+PECO,Phillips Edison & Company,NYSE/NASDAQ,Real Estate
+PENG,"Penguin Solutions, Inc.",NYSE/NASDAQ,Information Technology
+PFBC,Preferred Bank,NYSE/NASDAQ,Financials
+PFS,"Provident Financial Services, Inc.",NYSE/NASDAQ,Financials
+PGNY,Progyny,NYSE/NASDAQ,Health Care
+PHIN,"PHINIA, Inc.",NYSE/NASDAQ,Consumer Discretionary
+PI,"Impinj, Inc.",NYSE/NASDAQ,Information Technology
+PIPR,Piper Sandler Companies,NYSE/NASDAQ,Financials
+PJT,"PJT Partners, Inc.",NYSE/NASDAQ,Financials
+PLAB,"Photronics, Inc.",NYSE/NASDAQ,Information Technology
+PLMR,"Palomar Holdings, Inc.",NYSE/NASDAQ,Financials
+PLUS,"ePlus, Inc.",NYSE/NASDAQ,Information Technology
+PLXS,Plexus Corp.,NYSE/NASDAQ,Information Technology
+PMT,PennyMac Mortgage Investment Trust,NYSE/NASDAQ,Real Estate
+POWI,Power Integrations,NYSE/NASDAQ,Information Technology
+POWL,"Powell Industries, Inc.",NYSE/NASDAQ,Industrials
+PRA,ProAssurance Corporation,NYSE/NASDAQ,Financials
+PRAA,"PRA Group, Inc.",NYSE/NASDAQ,Financials
+PRDO,Perdoceo Education Corp.,NYSE/NASDAQ,Consumer Discretionary
+PRG,"PROG Holdings, Inc.",NYSE/NASDAQ,Financials
+PRGS,Progress Software Corporation,NYSE/NASDAQ,Information Technology
+PRIM,Primoris Services Corporation,NYSE/NASDAQ,Industrials
+PRK,Park National Corp.,NYSE/NASDAQ,Financials
+PRKS,United Parks & Resorts,NYSE/NASDAQ,Consumer Discretionary
+PRLB,Protolabs,NYSE/NASDAQ,Industrials
+PRSU,"Pursuit Attractions & Hospitality, Inc.",NYSE/NASDAQ,Consumer Discretionary
+PRVA,"Privia Health Group, Inc.",NYSE/NASDAQ,Health Care
+PSMT,PriceSmart,NYSE/NASDAQ,Consumer Staples
+PTCT,"PTC Therapeutics, Inc.",NYSE/NASDAQ,Health Care
+PTEN,"Patterson-UTI Energy, Inc.",NYSE/NASDAQ,Energy
+PTGX,"Protagonist Therapeutics, Inc.",NYSE/NASDAQ,Health Care
+PZZA,Papa John's Pizza,NYSE/NASDAQ,Consumer Discretionary
+QDEL,QuidelOrtho,NYSE/NASDAQ,Health Care
+QNST,"QuinStreet, Inc.",NYSE/NASDAQ,Communication Services
+QTWO,"Q2 Holdings, Inc.",NYSE/NASDAQ,Information Technology
+RAMP,"LiveRamp Holdings, Inc.",NYSE/NASDAQ,Information Technology
+RCUS,"Arcus Biosciences, Inc.",NYSE/NASDAQ,Health Care
+RDN,"Radian Group, Inc.",NYSE/NASDAQ,Financials
+RDNT,"RadNet, Inc.",NYSE/NASDAQ,Health Care
+RES,"RPC, Inc.",NYSE/NASDAQ,Energy
+REX,REX American Resources Corporation,NYSE/NASDAQ,Energy
+REZI,"Resideo Technologies, Inc.",NYSE/NASDAQ,Industrials
+RHP,Ryman Hospitality Properties,NYSE/NASDAQ,Real Estate
+RNST,Renasant Corp.,NYSE/NASDAQ,Financials
+ROCK,"Gibraltar Industries, Inc.",NYSE/NASDAQ,Industrials
+ROG,Rogers Corporation,NYSE/NASDAQ,Information Technology
+RRR,"Red Rock Resorts, Inc.",NYSE/NASDAQ,Consumer Discretionary
+RUN,Sunrun,NYSE/NASDAQ,Industrials
+RUSHA,Rush Enterprises,NYSE/NASDAQ,Industrials
+RWT,"Redwood Trust, Inc.",NYSE/NASDAQ,Real Estate
+RXO,"RXO, Inc.",NYSE/NASDAQ,Industrials
+SAFE,"Safehold, Inc.",NYSE/NASDAQ,Real Estate
+SABR,Sabre,NYSE/NASDAQ,Consumer Discretionary
+SAFT,"Safety Insurance Group, Inc.",NYSE/NASDAQ,Financials
+SAH,"Sonic Automotive, Inc.",NYSE/NASDAQ,Consumer Discretionary
+SANM,Sanmina Corporation,NYSE/NASDAQ,Information Technology
+SBCF,Seacoast Banking Corporation of Florida,NYSE/NASDAQ,Financials
+SBH,"Sally Beauty Holdings, Inc.",NYSE/NASDAQ,Consumer Discretionary
+SBSI,"Southside Bancshares, Inc.",NYSE/NASDAQ,Financials
+SCHL,Scholastic Corporation,NYSE/NASDAQ,Consumer Discretionary
+SCL,Stepan Company,NYSE/NASDAQ,Materials
+SCSC,"ScanSource, Inc.",NYSE/NASDAQ,Information Technology
+SDGR,"Schrödinger, Inc.",NYSE/NASDAQ,Health Care
+SEDG,SolarEdge,NYSE/NASDAQ,Information Technology
+SEM,"Select Medical Holdings, Corp.",NYSE/NASDAQ,Health Care
+SEZL,Sezzle,NYSE/NASDAQ,Financials
+SFBS,"ServisFirst Bancshares, Inc.",NYSE/NASDAQ,Financials
+SFNC,Simmons First National Corporation,NYSE/NASDAQ,Financials
+SHAK,"Shake Shack, Inc.",NYSE/NASDAQ,Consumer Discretionary
+SHEN,Shenandoah Telecommunications Co,NYSE/NASDAQ,Communication Services
+SHO,"Sunstone Hotel Investors, Inc.",NYSE/NASDAQ,Real Estate
+SHOO,"Steven Madden, Ltd.",NYSE/NASDAQ,Consumer Discretionary
+SIG,Signet Jewelers,NYSE/NASDAQ,Consumer Discretionary
+SKT,"Tanger Factory Outlet Centers, Inc.",NYSE/NASDAQ,Real Estate
+SKY,"Champion Homes, Inc.",NYSE/NASDAQ,Consumer Discretionary
+SKYW,"SkyWest, Inc.",NYSE/NASDAQ,Industrials
+SLG,SL Green Realty,NYSE/NASDAQ,Real Estate
+SLVM,Sylvamo Corp.,NYSE/NASDAQ,Materials
+SM,SM Energy Company,NYSE/NASDAQ,Energy
+SMP,"Standard Motor Products, Inc.",NYSE/NASDAQ,Consumer Discretionary
+SMPL,Simply Good Foods Company,NYSE/NASDAQ,Consumer Staples
+SMTC,Semtech Corporation,NYSE/NASDAQ,Information Technology
+SNCY,Sun Country Airlines,NYSE/NASDAQ,Industrials
+SNEX,StoneX Group Inc.,NYSE/NASDAQ,Financials
+SONO,"Sonos, Inc.",NYSE/NASDAQ,Consumer Discretionary
+SPHR,Sphere Entertainment,NYSE/NASDAQ,Communication Services
+SPNT,SiriusPoint Ltd.,NYSE/NASDAQ,Financials
+SPSC,"SPS Commerce, Inc.",NYSE/NASDAQ,Information Technology
+SSTK,"Shutterstock, Inc.",NYSE/NASDAQ,Communication Services
+STAA,STAAR Surgical Company,NYSE/NASDAQ,Health Care
+STBA,"S&T Bancorp, Inc.",NYSE/NASDAQ,Financials
+STC,Stewart Information Services Corporation,NYSE/NASDAQ,Financials
+STEL,"Stellar Bancorp, Inc.",NYSE/NASDAQ,Financials
+STEP,StepStone Group,NYSE/NASDAQ,Financials
+STRA,"Strategic Education, Inc.",NYSE/NASDAQ,Consumer Discretionary
+SUPN,"Supernus Pharmaceuticals, Inc.",NYSE/NASDAQ,Health Care
+SXI,Standex International Corporation,NYSE/NASDAQ,Industrials
+SXT,Sensient Technologies,NYSE/NASDAQ,Materials
+TALO,"Talos Energy, Inc.",NYSE/NASDAQ,Energy
+TBBK,"The Bancorp, Inc.",NYSE/NASDAQ,Financials
+TDS,"Telephone and Data Systems, Inc.",NYSE/NASDAQ,Communication Services
+TDW,"Tidewater, Inc.",NYSE/NASDAQ,Energy
+TFIN,"Triumph Bancorp, Inc.",NYSE/NASDAQ,Financials
+TGTX,"TG Therapeutics, Inc.",NYSE/NASDAQ,Health Care
+THRM,Gentherm Incorporated,NYSE/NASDAQ,Consumer Discretionary
+TILE,"Interface, Inc.",NYSE/NASDAQ,Industrials
+TMDX,"TransMedics Group, Inc.",NYSE/NASDAQ,Health Care
+TMP,Tompkins Financial Corporation,NYSE/NASDAQ,Financials
+TNC,Tennant Company,NYSE/NASDAQ,Industrials
+TNDM,Tandem Diabetes Care,NYSE/NASDAQ,Health Care
+TPH,"Tri Pointe Homes, Inc.",NYSE/NASDAQ,Consumer Discretionary
+TR,"Tootsie Roll Industries, Inc.",NYSE/NASDAQ,Consumer Staples
+TRIP,TripAdvisor,NYSE/NASDAQ,Communication Services
+TRMK,Trustmark Corp.,NYSE/NASDAQ,Financials
+TRN,"Trinity Industries, Inc.",NYSE/NASDAQ,Industrials
+TRNO,Terreno Realty Corporation,NYSE/NASDAQ,Real Estate
+TRST,TrustCo Bank Corp NY,NYSE/NASDAQ,Financials
+TRUP,Trupanion,NYSE/NASDAQ,Financials
+TWO,Two Harbors Investment Corp.,NYSE/NASDAQ,Financials
+UCB,"United Community Banks, Inc.",NYSE/NASDAQ,Financials
+UCTT,"Ultra Clean Holdings, Inc.",NYSE/NASDAQ,Information Technology
+UE,Urban Edge Properties,NYSE/NASDAQ,Real Estate
+UFCS,"United Fire Group, Inc.",NYSE/NASDAQ,Financials
+UFPT,"UFP Technologies, Inc.",NYSE/NASDAQ,Health Care
+UHT,Universal Health Realty Income Trust,NYSE/NASDAQ,Real Estate
+UNF,UniFirst Corporation,NYSE/NASDAQ,Industrials
+UNFI,United Natural Foods Inc,NYSE/NASDAQ,Consumer Staples
+UNIT,Uniti Group,NYSE/NASDAQ,Communication Services
+UPBD,"Upbound Group, Inc.",NYSE/NASDAQ,Consumer Discretionary
+UPWK,"Upwork, Inc.",NYSE/NASDAQ,Industrials
+URBN,"Urban Outfitters, Inc.",NYSE/NASDAQ,Consumer Discretionary
+USPH,"U.S. Physical Therapy, Inc.",NYSE/NASDAQ,Health Care
+UTL,Unitil Corporation,NYSE/NASDAQ,Utilities
+UVV,Universal Corporation,NYSE/NASDAQ,Consumer Staples
+VAC,Marriott Vacations Worldwide,NYSE/NASDAQ,Consumer Discretionary
+VCEL,Vericel,NYSE/NASDAQ,Health Care
+VCTR,"Victory Capital Holdings, Inc.",NYSE/NASDAQ,Financials
+VCYT,"Veracyte, Inc.",NYSE/NASDAQ,Health Care
+VECO,Veeco Instruments Inc.,NYSE/NASDAQ,Information Technology
+VIAV,VIAVI Solutions,NYSE/NASDAQ,Information Technology
+VIR,"Vir Biotechnology, Inc.",NYSE/NASDAQ,Health Care
+VITL,"Vital Farms, Inc.",NYSE/NASDAQ,Consumer Staples
+VRE,"Veris Residential, Inc.",NYSE/NASDAQ,Real Estate
+VRRM,Verra Mobility Corporation,NYSE/NASDAQ,Industrials
+VRTS,"Virtus Investment Partners, Inc.",NYSE/NASDAQ,Financials
+VSAT,"Viasat, Inc.",NYSE/NASDAQ,Information Technology
+VSCO,Victoria's Secret,NYSE/NASDAQ,Consumer Discretionary
+VSEC,VSE Corporation,NYSE/NASDAQ,Industrials
+VSH,Vishay Intertechnology,NYSE/NASDAQ,Information Technology
+VSTS,Vestis,NYSE/NASDAQ,Industrials
+VTOL,Bristow Group Inc.,NYSE/NASDAQ,Energy
+VYX,NCR Voyix,NYSE/NASDAQ,Information Technology
+WABC,Westamerica Bank,NYSE/NASDAQ,Financials
+WAFD,"WaFd, Inc.",NYSE/NASDAQ,Financials
+WAY,Waystar Holding Corp,NYSE/NASDAQ,Health Care
+WD,"Walker & Dunlop, Inc.",NYSE/NASDAQ,Financials
+WDFC,WD-40 Company,NYSE/NASDAQ,Consumer Staples
+WERN,Werner Enterprises,NYSE/NASDAQ,Industrials
+WGO,"Winnebago Industries, Inc.",NYSE/NASDAQ,Consumer Discretionary
+WHD,"Cactus, Inc.",NYSE/NASDAQ,Energy
+WINA,Winmark,NYSE/NASDAQ,Consumer Discretionary
+WKC,World Kinect Corporation,NYSE/NASDAQ,Energy
+WLY,John Wiley & Sons,NYSE/NASDAQ,Communication Services
+WOR,Worthington Enterprises,NYSE/NASDAQ,Industrials
+WRLD,World Acceptance Corporation,NYSE/NASDAQ,Financials
+WS,Worthington Steel,NYSE/NASDAQ,Materials
+WSFS,WSFS Financial Corporation,NYSE/NASDAQ,Financials
+WSR,Whitestone REIT,NYSE/NASDAQ,Real Estate
+WT,"WisdomTree Investments, Inc.",NYSE/NASDAQ,Financials
+WWW,"Wolverine World Wide, Inc.",NYSE/NASDAQ,Consumer Discretionary
+XHR,"Xenia Hotels & Resorts, Inc.",NYSE/NASDAQ,Real Estate
+XNCR,Xencor Inc,NYSE/NASDAQ,Health Care
+XPEL,"XPEL, Inc.",NYSE/NASDAQ,Consumer Discretionary
+YELP,"Yelp, Inc.",NYSE/NASDAQ,Communication Services
+YOU,"Clear Secure, Inc.",NYSE/NASDAQ,Information Technology
+ZD,Ziff Davis,NYSE/NASDAQ,Communication Services
+ZWS,Zurn Elkay Water Solutions Corp.,NYSE/NASDAQ,Industrials
+AEIS,Advanced Energy,NYSE/NASDAQ,Information Technology
+AHR,American Healthcare REIT,NYSE/NASDAQ,Real Estate
+ALV,Autoliv,NYSE/NASDAQ,Consumer Discretionary
+ANF,Abercrombie & Fitch,NYSE/NASDAQ,Consumer Discretionary
+ARWR,Arrowhead Pharmaceuticals,NYSE/NASDAQ,Health Care
+ASB,Associated Bank,NYSE/NASDAQ,Financials
+AVAV,AeroVironment,NYSE/NASDAQ,Industrials
+AVNT,Avient,NYSE/NASDAQ,Materials
+BCO,Brink's,NYSE/NASDAQ,Industrials
+BDC,Belden Inc.,NYSE/NASDAQ,Information Technology
+BKH,Black Hills Corporation,NYSE/NASDAQ,Utilities
+BLKB,Blackbaud,NYSE/NASDAQ,Information Technology
+CBT,Cabot Corp,NYSE/NASDAQ,Materials
+CDP,COPT Defense Properties,NYSE/NASDAQ,Real Estate
+CMC,Commercial Metals,NYSE/NASDAQ,Materials
+CNO,CNO Financial Group,NYSE/NASDAQ,Financials
+CNX,CNX Resources,NYSE/NASDAQ,Energy
+CPRI,Capri Holdings,NYSE/NASDAQ,Consumer Discretionary
+CRBG,Corebridge Financial,NYSE/NASDAQ,Financials
+CTRE,CareTrust REIT,NYSE/NASDAQ,Real Estate
+CVLT,CommVault Systems,NYSE/NASDAQ,Information Technology
+CYTK,Cytokinetics,NYSE/NASDAQ,Health Care
+DOCN,DigitalOcean,NYSE/NASDAQ,Information Technology
+DY,Dycom Industries,NYSE/NASDAQ,Industrials
+ENS,EnerSys,NYSE/NASDAQ,Industrials
+ENSG,Ensign Group,NYSE/NASDAQ,Health Care
+ESNT,Essent Group Ltd.,NYSE/NASDAQ,Financials
+EXPO,"Exponent, Inc.",NYSE/NASDAQ,Industrials
+FCFS,FirstCash,NYSE/NASDAQ,Financials
+FFIN,First Financial Bankshares,NYSE/NASDAQ,Financials
+FHI,Federated Hermes,NYSE/NASDAQ,Financials
+FLG,Flagstar Bank,NYSE/NASDAQ,Financials
+FLR,Fluor,NYSE/NASDAQ,Industrials
+FN,Fabrinet,NYSE/NASDAQ,Information Technology
+GATX,GATX,NYSE/NASDAQ,Industrials
+GBCI,Glacier Bancorp,NYSE/NASDAQ,Financials
+GEF,"Greif, Inc.",NYSE/NASDAQ,Materials
+GHC,Graham Holdings,NYSE/NASDAQ,Consumer Discretionary
+GT,Goodyear Tire & Rubber,NYSE/NASDAQ,Consumer Discretionary
+HAE,Haemonetics,NYSE/NASDAQ,Health Care
+HGV,Hilton Grand Vacations,NYSE/NASDAQ,Consumer Discretionary
+HIMS,Hims & Hers Health,NYSE/NASDAQ,Health Care
+HL,Hecla Mining,NYSE/NASDAQ,Materials
+HOMB,Home BancShares,NYSE/NASDAQ,Financials
+HQY,HealthEquity,NYSE/NASDAQ,Health Care
+HWC,Hancock Whitney,NYSE/NASDAQ,Financials
+IBOC,Intl Bancshares Corp,NYSE/NASDAQ,Financials
+IDCC,InterDigital,NYSE/NASDAQ,Information Technology
+IRT,IRT Living,NYSE/NASDAQ,Real Estate
+KBH,KB Home,NYSE/NASDAQ,Consumer Discretionary
+KNF,Knife River Corporation,NYSE/NASDAQ,Materials
+KRG,Kite Realty Group Trust,NYSE/NASDAQ,Real Estate
+KTOS,Kratos Defense & Security Solutions,NYSE/NASDAQ,Industrials
+LIVN,LivaNova,NYSE/NASDAQ,Health Care
+LNTH,Lantheus Holdings,NYSE/NASDAQ,Health Care
+MMS,Maximus Inc.,NYSE/NASDAQ,Industrials
+MUR,Murphy Oil,NYSE/NASDAQ,Energy
+MZTI,The Marzetti Company,NYSE/NASDAQ,Consumer Staples
+NJR,New Jersey Resources,NYSE/NASDAQ,Utilities
+NOVT,Novanta,NYSE/NASDAQ,Information Technology
+NWE,NorthWestern Energy,NYSE/NASDAQ,Utilities
+NXT,Nextpower,NYSE/NASDAQ,Industrials
+OGS,One Gas,NYSE/NASDAQ,Utilities
+ONB,Old National Bank,NYSE/NASDAQ,Financials
+OPCH,Option Care Health,NYSE/NASDAQ,Health Care
+ORA,Ormat Technologies,NYSE/NASDAQ,Utilities
+PBF,PBF Energy,NYSE/NASDAQ,Energy
+PII,Polaris,NYSE/NASDAQ,Consumer Discretionary
+POR,Portland General Electric,NYSE/NASDAQ,Utilities
+QLYS,Qualys,NYSE/NASDAQ,Information Technology
+RMBS,Rambus,NYSE/NASDAQ,Information Technology
+SBRA,Sabra Health Care REIT,NYSE/NASDAQ,Real Estate
+SIGI,Selective Insurance Group,NYSE/NASDAQ,Financials
+SITM,SiTime,NYSE/NASDAQ,Information Technology
+SLAB,Silicon Labs,NYSE/NASDAQ,Information Technology
+SPXC,SPX Technologies,NYSE/NASDAQ,Industrials
+SR,Spire,NYSE/NASDAQ,Utilities
+STRL,Sterling Infrastructure,NYSE/NASDAQ,Industrials
+SWX,Southwest Gas Corp,NYSE/NASDAQ,Utilities
+SYNA,Synaptics,NYSE/NASDAQ,Information Technology
+TCBI,Texas Capital Bancshares,NYSE/NASDAQ,Financials
+TEX,Terex,NYSE/NASDAQ,Industrials
+TMHC,Taylor Morrison,NYSE/NASDAQ,Consumer Discretionary
+TTMI,TTM Technologies,NYSE/NASDAQ,Information Technology
+TXNM,TXNM Energy,NYSE/NASDAQ,Utilities
+UBSI,United Bankshares,NYSE/NASDAQ,Financials
+UFPI,UFP Industries,NYSE/NASDAQ,Industrials
+ULS,UL Solutions,NYSE/NASDAQ,Industrials
+UMBF,UMB Financial Corp.,NYSE/NASDAQ,Financials
+VAL,Valaris,NYSE/NASDAQ,Energy
+VC,Visteon,NYSE/NASDAQ,Consumer Discretionary
+VICR,Vicor Corporation,NYSE/NASDAQ,Industrials
+VLY,Valley Bank,NYSE/NASDAQ,Financials
+WMG,Warner Music Group,NYSE/NASDAQ,Communication Services
+WTS,Watts Water Technologies,NYSE/NASDAQ,Industrials
+LUNR,,NYSE/NASDAQ,
+SOUN,,NYSE/NASDAQ,
+APLD,,NYSE/NASDAQ,
+IONQ,,NYSE/NASDAQ,
+RGTI,,NYSE/NASDAQ,
+QBTS,,NYSE/NASDAQ,
+BBAI,,NYSE/NASDAQ,
+BIGC,,NYSE/NASDAQ,
+DLO,,NYSE/NASDAQ,
+RELY,,NYSE/NASDAQ,
+GDRX,,NYSE/NASDAQ,
+OSCR,,NYSE/NASDAQ,
+RXRX,,NYSE/NASDAQ,
+BEAM,,NYSE/NASDAQ,
+CRSP,,NYSE/NASDAQ,
+NTLA,,NYSE/NASDAQ,
+EDIT,,NYSE/NASDAQ,
+VERV,,NYSE/NASDAQ,
+MDGL,,NYSE/NASDAQ,
+PCVX,,NYSE/NASDAQ,
+AEHR,,NYSE/NASDAQ,
+WOLF,,NYSE/NASDAQ,
+CEVA,,NYSE/NASDAQ,
+BITF,,NYSE/NASDAQ,
+HUT,,NYSE/NASDAQ,
+BTBT,,NYSE/NASDAQ,
+CIFR,,NYSE/NASDAQ,
+IREN,,NYSE/NASDAQ,
+CORZ,,NYSE/NASDAQ,
+WULF,,NYSE/NASDAQ,
+UPST,,NYSE/NASDAQ,
+LC,,NYSE/NASDAQ,
+CRDO,,NYSE/NASDAQ,
+MGNI,,NYSE/NASDAQ,
+PUBM,,NYSE/NASDAQ,
+ZETA,,NYSE/NASDAQ,
+BRZE,,NYSE/NASDAQ,
+SEMR,,NYSE/NASDAQ,
+CFLT,,NYSE/NASDAQ,
+RDW,,NYSE/NASDAQ,
+ATKR,,NYSE/NASDAQ,
+ROAD,,NYSE/NASDAQ,
+CIVI,,NYSE/NASDAQ,
+LAC,,NYSE/NASDAQ,
+LTHM,,NYSE/NASDAQ,
+PLL,,NYSE/NASDAQ,
+SGML,,NYSE/NASDAQ,

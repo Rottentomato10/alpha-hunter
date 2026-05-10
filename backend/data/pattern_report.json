@@ -1,0 +1,625 @@
+{
+  "generated_at": "2026-05-09 21:54:07.766533",
+  "total_winners_analyzed": 17,
+  "average_winner_score": 91.7,
+  "by_year": {
+    "2017": [
+      {
+        "symbol": "RIOT",
+        "ytd_return": 733.68,
+        "market_cap": 1288209980.0,
+        "sector": "Financial Services"
+      }
+    ],
+    "2020": [
+      {
+        "symbol": "NVAX",
+        "ytd_return": 2383.52,
+        "market_cap": 738327154.0,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "NIO",
+        "ytd_return": 1210.22,
+        "market_cap": 8768661322.0,
+        "sector": "Consumer Cyclical"
+      },
+      {
+        "symbol": "PLUG",
+        "ytd_return": 946.6,
+        "market_cap": 4519234850.0,
+        "sector": "Industrials"
+      },
+      {
+        "symbol": "QS",
+        "ytd_return": 753.03,
+        "market_cap": 5725550497.0,
+        "sector": "Consumer Cyclical"
+      },
+      {
+        "symbol": "TSLA",
+        "ytd_return": 720.05,
+        "market_cap": 107729183516.0,
+        "sector": "Consumer Cyclical"
+      },
+      {
+        "symbol": "BBBY",
+        "ytd_return": 581.39,
+        "market_cap": 520527005.0,
+        "sector": ""
+      },
+      {
+        "symbol": "WKHS",
+        "ytd_return": 544.3,
+        "market_cap": 100326583830.0,
+        "sector": "Consumer Cyclical"
+      }
+    ],
+    "2021": [
+      {
+        "symbol": "AMC",
+        "ytd_return": 1253.23,
+        "market_cap": 14909186437.0,
+        "sector": "Communication Services"
+      },
+      {
+        "symbol": "GME",
+        "ytd_return": 760.23,
+        "market_cap": 1933617865.0,
+        "sector": "Consumer Cyclical"
+      }
+    ],
+    "2023": [
+      {
+        "symbol": "CVNA",
+        "ytd_return": 1043.41,
+        "market_cap": 663283045.0,
+        "sector": "Consumer Cyclical"
+      },
+      {
+        "symbol": "MARA",
+        "ytd_return": 590.88,
+        "market_cap": 1296070698.0,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "QXO",
+        "ytd_return": 521.05,
+        "market_cap": 13310691767.0,
+        "sector": "Industrials"
+      }
+    ],
+    "2024": [
+      {
+        "symbol": "SOUN",
+        "ytd_return": 853.85,
+        "market_cap": 818984236.0,
+        "sector": "Technology"
+      },
+      {
+        "symbol": "APP",
+        "ytd_return": 735.04,
+        "market_cap": 11856286960.0,
+        "sector": "Communication Services"
+      },
+      {
+        "symbol": "SMMT",
+        "ytd_return": 575.95,
+        "market_cap": 2049069383.0,
+        "sector": "Healthcare"
+      }
+    ],
+    "2025": [
+      {
+        "symbol": "SNDK",
+        "ytd_return": 567.28,
+        "market_cap": 5331231288.0,
+        "sector": "Technology"
+      }
+    ]
+  },
+  "by_sector": {
+    "Consumer Cyclical": 6,
+    "Financial Services": 2,
+    "Healthcare": 2,
+    "Industrials": 2,
+    "Communication Services": 2,
+    "Technology": 2,
+    "Unknown": 1
+  },
+  "by_catalyst": {
+    "Unknown": 11,
+    "Meme/Short Squeeze": 2,
+    "Tech/AI Momentum": 2,
+    "COVID/Biotech": 1,
+    "EV Mania": 1
+  },
+  "top_signals": [
+    {
+      "rank": 1,
+      "signal": "severe_drawdown_during",
+      "description": "Had > 30% drawdown even during the explosion year",
+      "frequency_pct": 94.1,
+      "count": 16,
+      "triggered_by": [
+        "RIOT/2017",
+        "NVAX/2020",
+        "NIO/2020",
+        "PLUG/2020",
+        "QS/2020",
+        "TSLA/2020",
+        "BBBY/2020",
+        "WKHS/2020",
+        "AMC/2021",
+        "GME/2021",
+        "CVNA/2023",
+        "MARA/2023",
+        "QXO/2023",
+        "SOUN/2024",
+        "SMMT/2024",
+        "SNDK/2025"
+      ]
+    },
+    {
+      "rank": 2,
+      "signal": "outperformed_sector_10x",
+      "description": "Outperformed sector ETF by 500%+",
+      "frequency_pct": 94.1,
+      "count": 16,
+      "triggered_by": [
+        "RIOT/2017",
+        "NVAX/2020",
+        "NIO/2020",
+        "PLUG/2020",
+        "QS/2020",
+        "TSLA/2020",
+        "WKHS/2020",
+        "AMC/2021",
+        "GME/2021",
+        "CVNA/2023",
+        "MARA/2023",
+        "QXO/2023",
+        "SOUN/2024",
+        "APP/2024",
+        "SMMT/2024",
+        "SNDK/2025"
+      ]
+    },
+    {
+      "rank": 3,
+      "signal": "big_daily_move_before",
+      "description": "Had a 10%+ single-day move in 6 months before explosion",
+      "frequency_pct": 88.2,
+      "count": 15,
+      "triggered_by": [
+        "RIOT/2017",
+        "NVAX/2020",
+        "NIO/2020",
+        "PLUG/2020",
+        "TSLA/2020",
+        "BBBY/2020",
+        "WKHS/2020",
+        "AMC/2021",
+        "GME/2021",
+        "CVNA/2023",
+        "MARA/2023",
+        "QXO/2023",
+        "SOUN/2024",
+        "APP/2024",
+        "SMMT/2024"
+      ]
+    },
+    {
+      "rank": 4,
+      "signal": "high_volatility",
+      "description": "Daily volatility > 4% in prior year",
+      "frequency_pct": 76.5,
+      "count": 13,
+      "triggered_by": [
+        "RIOT/2017",
+        "NVAX/2020",
+        "NIO/2020",
+        "BBBY/2020",
+        "WKHS/2020",
+        "AMC/2021",
+        "GME/2021",
+        "CVNA/2023",
+        "MARA/2023",
+        "QXO/2023",
+        "SOUN/2024",
+        "APP/2024",
+        "SMMT/2024"
+      ]
+    },
+    {
+      "rank": 5,
+      "signal": "very_low_price",
+      "description": "Stock traded below $20 for most of prior year",
+      "frequency_pct": 70.6,
+      "count": 12,
+      "triggered_by": [
+        "RIOT/2017",
+        "NVAX/2020",
+        "NIO/2020",
+        "PLUG/2020",
+        "TSLA/2020",
+        "BBBY/2020",
+        "GME/2021",
+        "CVNA/2023",
+        "MARA/2023",
+        "QXO/2023",
+        "SOUN/2024",
+        "SMMT/2024"
+      ]
+    },
+    {
+      "rank": 6,
+      "signal": "high_short_interest",
+      "description": "Short interest > 10% of float",
+      "frequency_pct": 70.6,
+      "count": 12,
+      "triggered_by": [
+        "RIOT/2017",
+        "NVAX/2020",
+        "PLUG/2020",
+        "QS/2020",
+        "AMC/2021",
+        "GME/2021",
+        "CVNA/2023",
+        "MARA/2023",
+        "QXO/2023",
+        "SOUN/2024",
+        "SMMT/2024",
+        "SNDK/2025"
+      ]
+    },
+    {
+      "rank": 7,
+      "signal": "was_unprofitable",
+      "description": "Company was NOT profitable before explosion",
+      "frequency_pct": 64.7,
+      "count": 11,
+      "triggered_by": [
+        "RIOT/2017",
+        "NVAX/2020",
+        "NIO/2020",
+        "PLUG/2020",
+        "QS/2020",
+        "WKHS/2020",
+        "AMC/2021",
+        "MARA/2023",
+        "QXO/2023",
+        "SOUN/2024",
+        "SMMT/2024"
+      ]
+    },
+    {
+      "rank": 8,
+      "signal": "negative_pe",
+      "description": "P/E ratio was negative (losing money)",
+      "frequency_pct": 64.7,
+      "count": 11,
+      "triggered_by": [
+        "RIOT/2017",
+        "NVAX/2020",
+        "NIO/2020",
+        "PLUG/2020",
+        "QS/2020",
+        "BBBY/2020",
+        "WKHS/2020",
+        "AMC/2021",
+        "MARA/2023",
+        "SOUN/2024",
+        "SMMT/2024"
+      ]
+    },
+    {
+      "rank": 9,
+      "signal": "low_price_stock",
+      "description": "Stock traded below $10 for part of prior year",
+      "frequency_pct": 64.7,
+      "count": 11,
+      "triggered_by": [
+        "RIOT/2017",
+        "NVAX/2020",
+        "NIO/2020",
+        "PLUG/2020",
+        "BBBY/2020",
+        "GME/2021",
+        "CVNA/2023",
+        "MARA/2023",
+        "SOUN/2024",
+        "APP/2024",
+        "SMMT/2024"
+      ]
+    },
+    {
+      "rank": 10,
+      "signal": "prior_year_decline",
+      "description": "Stock price declined in the year before explosion",
+      "frequency_pct": 47.1,
+      "count": 8,
+      "triggered_by": [
+        "NVAX/2020",
+        "NIO/2020",
+        "BBBY/2020",
+        "AMC/2021",
+        "CVNA/2023",
+        "MARA/2023",
+        "QXO/2023",
+        "SMMT/2024"
+      ]
+    },
+    {
+      "rank": 11,
+      "signal": "late_breakout",
+      "description": "50% of gains happened in last 30% of the year",
+      "frequency_pct": 47.1,
+      "count": 8,
+      "triggered_by": [
+        "RIOT/2017",
+        "NIO/2020",
+        "PLUG/2020",
+        "QS/2020",
+        "QXO/2023",
+        "SOUN/2024",
+        "APP/2024",
+        "SNDK/2025"
+      ]
+    },
+    {
+      "rank": 12,
+      "signal": "high_debt",
+      "description": "Debt/Equity ratio > 50",
+      "frequency_pct": 41.2,
+      "count": 7,
+      "triggered_by": [
+        "NIO/2020",
+        "PLUG/2020",
+        "WKHS/2020",
+        "GME/2021",
+        "CVNA/2023",
+        "MARA/2023",
+        "APP/2024"
+      ]
+    },
+    {
+      "rank": 13,
+      "signal": "small_cap_entry",
+      "description": "Market cap under $2B at start of explosion year",
+      "frequency_pct": 41.2,
+      "count": 7,
+      "triggered_by": [
+        "RIOT/2017",
+        "NVAX/2020",
+        "BBBY/2020",
+        "GME/2021",
+        "CVNA/2023",
+        "MARA/2023",
+        "SOUN/2024"
+      ]
+    },
+    {
+      "rank": 14,
+      "signal": "high_vix_year",
+      "description": "Average VIX was above 20 during explosion year",
+      "frequency_pct": 41.2,
+      "count": 7,
+      "triggered_by": [
+        "NVAX/2020",
+        "NIO/2020",
+        "PLUG/2020",
+        "QS/2020",
+        "TSLA/2020",
+        "BBBY/2020",
+        "WKHS/2020"
+      ]
+    },
+    {
+      "rank": 15,
+      "signal": "near_52w_low",
+      "description": "Entry price was within 50% of 52-week low",
+      "frequency_pct": 35.3,
+      "count": 6,
+      "triggered_by": [
+        "NVAX/2020",
+        "BBBY/2020",
+        "AMC/2021",
+        "CVNA/2023",
+        "MARA/2023",
+        "QXO/2023"
+      ]
+    },
+    {
+      "rank": 16,
+      "signal": "volume_spike_3m",
+      "description": "Volume in last 3 months was 1.3x+ above 12-month average",
+      "frequency_pct": 29.4,
+      "count": 5,
+      "triggered_by": [
+        "NIO/2020",
+        "PLUG/2020",
+        "AMC/2021",
+        "GME/2021",
+        "CVNA/2023"
+      ]
+    },
+    {
+      "rank": 17,
+      "signal": "prior_year_rally",
+      "description": "Stock was already rising in year before (trend > +30%)",
+      "frequency_pct": 29.4,
+      "count": 5,
+      "triggered_by": [
+        "PLUG/2020",
+        "WKHS/2020",
+        "GME/2021",
+        "SOUN/2024",
+        "APP/2024"
+      ]
+    },
+    {
+      "rank": 18,
+      "signal": "recently_iped",
+      "description": "Company IPO'd less than 2 years before explosion",
+      "frequency_pct": 23.5,
+      "count": 4,
+      "triggered_by": [
+        "RIOT/2017",
+        "NIO/2020",
+        "QS/2020",
+        "SOUN/2024"
+      ]
+    },
+    {
+      "rank": 19,
+      "signal": "low_institutional",
+      "description": "Institutional ownership < 40%",
+      "frequency_pct": 23.5,
+      "count": 4,
+      "triggered_by": [
+        "NIO/2020",
+        "WKHS/2020",
+        "AMC/2021",
+        "SMMT/2024"
+      ]
+    },
+    {
+      "rank": 20,
+      "signal": "early_breakout",
+      "description": "50% of gains happened in first 40% of the year",
+      "frequency_pct": 11.8,
+      "count": 2,
+      "triggered_by": [
+        "AMC/2021",
+        "GME/2021"
+      ]
+    }
+  ],
+  "scoring_weights": {
+    "severe_drawdown_during": 15.0,
+    "outperformed_sector_10x": 15.0,
+    "big_daily_move_before": 14.1,
+    "high_volatility": 12.2,
+    "very_low_price": 11.3,
+    "high_short_interest": 11.3,
+    "was_unprofitable": 10.3,
+    "negative_pe": 10.3,
+    "low_price_stock": 10.3,
+    "prior_year_decline": 7.5,
+    "late_breakout": 7.5,
+    "high_debt": 6.6,
+    "small_cap_entry": 6.6,
+    "high_vix_year": 6.6,
+    "near_52w_low": 5.6,
+    "volume_spike_3m": 4.7,
+    "prior_year_rally": 4.7,
+    "recently_iped": 3.7,
+    "low_institutional": 3.7,
+    "early_breakout": 1.9
+  },
+  "winner_scores": [
+    {
+      "symbol": "RIOT",
+      "year": 2017,
+      "ytd_return": 733.68,
+      "score": 100
+    },
+    {
+      "symbol": "NVAX",
+      "year": 2020,
+      "ytd_return": 2383.52,
+      "score": 100
+    },
+    {
+      "symbol": "NIO",
+      "year": 2020,
+      "ytd_return": 1210.22,
+      "score": 100
+    },
+    {
+      "symbol": "PLUG",
+      "year": 2020,
+      "ytd_return": 946.6,
+      "score": 100
+    },
+    {
+      "symbol": "QS",
+      "year": 2020,
+      "ytd_return": 753.03,
+      "score": 80
+    },
+    {
+      "symbol": "TSLA",
+      "year": 2020,
+      "ytd_return": 720.05,
+      "score": 62
+    },
+    {
+      "symbol": "BBBY",
+      "year": 2020,
+      "ytd_return": 581.39,
+      "score": 100
+    },
+    {
+      "symbol": "WKHS",
+      "year": 2020,
+      "ytd_return": 544.3,
+      "score": 98
+    },
+    {
+      "symbol": "AMC",
+      "year": 2021,
+      "ytd_return": 1253.23,
+      "score": 100
+    },
+    {
+      "symbol": "GME",
+      "year": 2021,
+      "ytd_return": 760.23,
+      "score": 100
+    },
+    {
+      "symbol": "CVNA",
+      "year": 2023,
+      "ytd_return": 1043.41,
+      "score": 100
+    },
+    {
+      "symbol": "MARA",
+      "year": 2023,
+      "ytd_return": 590.88,
+      "score": 100
+    },
+    {
+      "symbol": "QXO",
+      "year": 2023,
+      "ytd_return": 521.05,
+      "score": 100
+    },
+    {
+      "symbol": "SOUN",
+      "year": 2024,
+      "ytd_return": 853.85,
+      "score": 100
+    },
+    {
+      "symbol": "APP",
+      "year": 2024,
+      "ytd_return": 735.04,
+      "score": 70
+    },
+    {
+      "symbol": "SMMT",
+      "year": 2024,
+      "ytd_return": 575.95,
+      "score": 100
+    },
+    {
+      "symbol": "SNDK",
+      "year": 2025,
+      "ytd_return": 567.28,
+      "score": 49
+    }
+  ]
+}

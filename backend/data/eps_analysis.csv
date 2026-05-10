@@ -1,0 +1,160 @@
+symbol,run_start_date,peak_return_pct,sector,eps_q0,eps_q1,eps_q2,eps_q3,eps_positive,eps_trend_improving,eps_acceleration,rev_acceleration,consecutive_improvements,quarters_available
+CHRD,2020-05-26,16371.25,Energy,,,,,,,,,0,0
+GME,2020-07-15,8193.79,Consumer Cyclical,,,,,,,,,0,0
+BTBT,2020-02-06,7217.5,Financial Services,,,,,,,,,0,0
+MARA,2020-06-23,5041.82,Financial Services,,,,,,,,,0,0
+AXSM,2019-01-02,3864.18,Healthcare,,,,,,,,,0,0
+NVAX,2019-11-08,3789.11,Healthcare,,,,,,,,,0,0
+RIOT,2020-06-02,3003.59,Financial Services,,,,,,,,,0,0
+BITF,2020-07-14,2169.09,Financial Services,,,,,,,,,0,0
+RGTI,2024-06-14,1928.4,Technology,,,,,,,,,0,0
+FCEL,2019-12-09,1900.0,Industrials,,,,,,,,,0,0
+QBTS,2024-06-17,1500.0,Technology,,,,,,,,,0,0
+NIO,2020-02-28,1421.55,Consumer Cyclical,,,,,,,,,0,0
+SMMT,2023-12-01,1399.06,Healthcare,,,,,,,,,0,0
+PR,2020-09-10,1320.54,Energy,,,,,,,,,0,0
+QS,2020-08-17,1230.0,Consumer Cyclical,,,,,,,,,0,0
+UPST,2020-12-16,1223.38,Financial Services,,,,,,,,,0,0
+MTDR,2020-03-12,1221.29,Energy,,,,,,,,,0,0
+PLUG,2020-02-21,1213.82,Industrials,,,,,,,,,0,0
+CLSK,2020-07-08,1202.9,Financial Services,,,,,,,,,0,0
+ASTS,2024-02-21,1121.52,Technology,,,,,,,,,0,0
+MARA,2019-12-20,1097.92,Financial Services,,,,,,,,,0,0
+CHRD,2019-11-21,1096.91,Energy,,,,,,,,,0,0
+OVV,2020-03-12,1011.13,Energy,,,,,,,,,0,0
+GME,2021-01-13,1006.72,Consumer Cyclical,,,,,,,,,0,0
+CAR,2020-11-05,1005.45,Industrials,,,,,,,,,0,0
+QXO,2023-07-03,988.08,Industrials,,,,,,,,,0,0
+CELH,2020-02-21,987.19,Consumer Defensive,,,,,,,,,0,0
+AMC,2020-09-10,953.03,Communication Services,,,,,,,,,0,0
+HUT,2020-08-05,944.22,Financial Services,,,,,,,,,0,0
+W,2020-03-12,937.58,Consumer Cyclical,,,,,,,,,0,0
+CVNA,2023-05-11,928.18,Consumer Cyclical,,,,,,,,,0,0
+AEHR,2021-03-11,908.63,Technology,,,,,,,,,0,0
+ASTS,2023-08-21,889.74,Technology,,,,,,,,,0,0
+DJT,2021-09-30,880.3,Communication Services,,,,,,,,,0,0
+PR,2020-03-12,834.96,Energy,,,,,,,,,0,0
+MSTR,2020-08-12,828.88,Technology,,,,,,,,,0,0
+RIOT,2020-11-30,821.89,Financial Services,,,,,,,,,0,0
+APLD,2022-06-17,797.22,Technology,,,,,,,,,0,0
+IONQ,2024-10-09,760.48,Technology,,,,,,,,,0,0
+MARA,2022-12-23,758.29,Financial Services,,,,,,,,,0,0
+MSTR,2020-02-12,749.53,Technology,,,,,,,,,0,0
+PENN,2020-03-12,748.8,Consumer Cyclical,,,,,,,,,0,0
+TSLA,2020-01-15,748.62,Consumer Cyclical,,,,,,,,,0,0
+LUNR,2022-02-22,745.26,Industrials,,,,,,,,,0,0
+VKTX,2022-10-11,743.2,Healthcare,,,,,,,,,0,0
+LUNR,2022-08-23,742.65,Industrials,,,,,,,,,0,0
+FCEL,2019-06-11,742.5,Industrials,,,,,,,,,0,0
+FCEL,2020-06-10,729.67,Industrials,,,,,,,,,0,0
+CVNA,2023-11-09,721.48,Consumer Cyclical,,,,,,,,,0,0
+BTBT,2019-08-07,720.77,Financial Services,,,,,,,,,0,0
+PINS,2020-03-18,716.39,Communication Services,,,,,,,,,0,0
+ZG,2020-03-19,715.16,Communication Services,,,,,,,,,0,0
+NVAX,2020-05-12,703.44,Healthcare,,,,,,,,,0,0
+DDS,2020-12-11,700.82,Consumer Cyclical,,,,,,,,,0,0
+MRNA,2020-01-23,691.15,Healthcare,,,,,,,,,0,0
+RGTI,2024-12-13,686.87,Technology,,,,,,,,,0,0
+AEHR,2020-09-09,675.36,Technology,,,,,,,,,0,0
+BITF,2020-01-13,673.5,Financial Services,,,,,,,,,0,0
+Z,2020-03-19,659.5,Communication Services,,,,,,,,,0,0
+CVNA,2022-11-08,658.97,Consumer Cyclical,,,,,,,,,0,0
+PLTR,2024-08-05,656.33,Technology,,,,,,,,,0,0
+RGTI,2023-12-13,651.53,Technology,,,,,,,,,0,0
+SMMT,2020-02-12,646.0,Healthcare,,,,,,,,,0,0
+CAR,2020-03-19,644.21,Industrials,,,,,,,,,0,0
+CROX,2020-03-19,637.39,Consumer Cyclical,,,,,,,,,0,0
+BNTX,2019-10-10,631.53,Healthcare,,,,,,,,,0,0
+NIO,2019-08-28,619.72,Consumer Cyclical,,,,,,,,,0,0
+BE,2020-04-13,618.01,Industrials,,,,,,,,,0,0
+HIMS,2024-02-20,615.3,Healthcare,,,,,,,,,0,0
+MRNA,2020-08-13,614.24,Healthcare,,,,,,,,,0,0
+BTBT,2020-08-13,613.9,Financial Services,,,,,,,,,0,0
+AR,2020-02-27,613.87,Energy,,,,,,,,,0,0
+SOUN,2023-12-07,613.74,Technology,,,,,,,,,0,0
+QBTS,2023-12-14,608.82,Technology,,,,,,,,,0,0
+ENPH,2019-01-02,607.93,Technology,,,,,,,,,0,0
+ETSY,2020-03-19,605.65,Consumer Cyclical,,,,,,,,,0,0
+APP,2023-11-13,600.34,Communication Services,,,,,,,,,0,0
+CVNA,2020-03-12,597.63,Consumer Cyclical,,,,,,,,,0,0
+RKLB,2024-06-20,597.08,Industrials,,,,,,,,,0,0
+XYZ,2020-03-19,591.43,Technology,,,,,,,,,0,0
+NVAX,2019-05-13,591.32,Healthcare,,,,,,,,,0,0
+CLSK,2020-01-07,590.2,Financial Services,,,,,,,,,0,0
+AMC,2020-03-12,583.85,Communication Services,,,,,,,,,0,0
+BITF,2022-12-21,583.12,Financial Services,,,,,,,,,0,0
+BE,2019-10-10,580.12,Industrials,,,,,,,,,0,0
+VKTX,2022-04-11,579.56,Healthcare,,,,,,,,,0,0
+DDS,2020-06-15,577.37,Consumer Cyclical,,,,,,,,,0,0
+SNAP,2020-03-12,576.1,Communication Services,,,,,,,,,0,0
+BBAI,2024-04-19,574.48,Technology,,,,,,,,,0,0
+RH,2020-04-02,573.33,Consumer Cyclical,,,,,,,,,0,0
+HOOD,2024-08-07,569.57,Financial Services,,,,,,,,,0,0
+RDW,2024-01-17,567.53,Industrials,,,,,,,,,0,0
+FUTU,2020-01-14,566.89,Financial Services,,,,,,,,,0,0
+GME,2020-01-14,566.67,Consumer Cyclical,,,,,,,,,0,0
+LUNR,2023-12-22,566.0,Industrials,,,,,,,,,0,0
+FCX,2020-03-19,563.41,Basic Materials,,,,,,,,,0,0
+LUNR,2024-06-26,562.93,Industrials,,,,,,,,,0,0
+MARA,2020-12-21,561.65,Financial Services,,,,,,,,,0,0
+MTDR,2020-10-29,561.03,Energy,,,,,,,,,0,0
+CLSK,2022-12-30,558.33,Financial Services,,,,,,,,,0,0
+BILL,2020-03-18,557.31,Technology,,,,,,,,,0,0
+MSTR,2023-10-12,556.95,Technology,,,,,,,,,0,0
+MRNA,2019-07-24,555.49,Healthcare,,,,,,,,,0,0
+CZR,2020-03-12,550.84,Consumer Cyclical,,,,,,,,,0,0
+HUT,2020-02-05,549.39,Financial Services,,,,,,,,,0,0
+BNTX,2020-08-12,547.13,Healthcare,,,,,,,,,0,0
+LC,2020-09-09,544.49,Financial Services,,,,,,,,,0,0
+DKNG,2019-10-04,542.94,Consumer Cyclical,,,,,,,,,0,0
+FUTU,2020-07-15,541.59,Financial Services,,,,,,,,,0,0
+PTON,2019-10-24,539.32,Consumer Cyclical,,,,,,,,,0,0
+IONQ,2024-04-10,538.37,Technology,,,,,,,,,0,0
+SMCI,2023-01-23,537.55,Technology,,,,,,,,,0,0
+IONQ,2022-12-28,536.54,Technology,,,,,,,,,0,0
+APLD,2022-12-16,536.02,Technology,,,,,,,,,0,0
+ROKU,2020-03-19,533.7,Communication Services,,,,,,,,,0,0
+PLUG,2020-09-03,533.59,Industrials,,,,,,,,,0,0
+QBTS,2023-05-03,532.61,Technology,,,,,,,,,0,0
+BE,2024-09-11,532.42,Industrials,,,,,,,,,0,0
+RGTI,2023-03-20,532.3,Technology,,,,,,,,,0,0
+RUN,2020-01-14,531.96,Technology,,,,,,,,,0,0
+ZM,2019-09-25,528.81,Technology,,,,,,,,,0,0
+SMCI,2022-06-23,528.24,Technology,,,,,,,,,0,0
+VRT,2023-03-27,527.32,Industrials,,,,,,,,,0,0
+QXO,2020-06-29,524.39,Industrials,,,,,,,,,0,0
+PLUG,2019-08-21,521.36,Industrials,,,,,,,,,0,0
+AA,2020-05-15,520.42,Basic Materials,,,,,,,,,0,0
+BBWI,2020-04-02,519.41,Consumer Cyclical,,,,,,,,,0,0
+QBTS,2024-12-16,519.36,Technology,,,,,,,,,0,0
+PDD,2020-03-12,518.17,Consumer Cyclical,,,,,,,,,0,0
+SOUN,2024-06-25,518.11,Technology,,,,,,,,,0,0
+SE,2019-10-10,518.03,Consumer Cyclical,,,,,,,,,0,0
+AEHR,2022-07-05,517.02,Technology,,,,,,,,,0,0
+ENPH,2019-11-01,516.78,Technology,,,,,,,,,0,0
+BBAI,2024-10-25,515.09,Technology,,,,,,,,,0,0
+AR,2020-09-10,514.34,Energy,,,,,,,,,0,0
+PSKY,2020-03-12,514.07,Communication Services,,,,,,,,,0,0
+CRWD,2020-03-13,512.95,Technology,,,,,,,,,0,0
+BILI,2020-02-05,512.94,Communication Services,,,,,,,,,0,0
+MSTR,2023-03-08,512.58,Technology,,,,,,,,,0,0
+MP,2024-08-02,512.26,Basic Materials,,,,,,,,,0,0
+VKTX,2023-07-03,512.05,Healthcare,,,,,,,,,0,0
+BTBT,2022-12-09,512.0,Financial Services,,,,,,,,,0,0
+AMC,2021-03-26,510.84,Communication Services,,,,,,,,,0,0
+QXO,2022-12-29,510.53,Industrials,,,,,,,,,0,0
+PLTR,2024-02-02,510.05,Technology,,,,,,,,,0,0
+CELH,2019-08-21,508.63,Consumer Defensive,,,,,,,,,0,0
+LAD,2020-03-19,508.19,Consumer Cyclical,,,,,,,,,0,0
+RIOT,2019-11-29,507.91,Financial Services,,,,,,,,,0,0
+RKLB,2023-12-18,507.57,Industrials,,,,,,,,,0,0
+APP,2024-05-15,506.86,Communication Services,,,,,,,,,0,0
+TSLA,2019-07-17,506.61,Consumer Cyclical,,,,,,,,,0,0
+CLSK,2023-09-28,506.22,Financial Services,,,,,,,,,0,0
+BBAI,2022-11-09,504.95,Technology,,,,,,,,,0,0
+CLOV,2024-03-15,504.01,Healthcare,,,,,,,,,0,0
+SMMT,2023-06-02,503.31,Healthcare,,,,,,,,,0,0
+LCID,2020-10-23,502.8,Consumer Cyclical,,,,,,,,,0,0
+RIOT,2023-01-03,502.08,Financial Services,,,,,,,,,0,0
+OPEN,2024-10-31,501.14,Real Estate,,,,,,,,,0,0
+SMMT,2022-11-22,501.11,Healthcare,,,,,,,,,0,0

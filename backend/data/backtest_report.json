@@ -1,0 +1,240 @@
+{
+  "config": {
+    "period": "2018-01-01 to 2023-12-31",
+    "tickers_scanned": 1056,
+    "tickers_mcap_eligible": 1040,
+    "vol_spike_mult": 3.0,
+    "ma_period": 200,
+    "forward_days": 252,
+    "hit_threshold_pct": 100
+  },
+  "baseline": {
+    "samples": 1978,
+    "hits_100pct": 96,
+    "hit_rate_pct": 4.85,
+    "avg_return": 24.39,
+    "median_return": 8.23
+  },
+  "results": {
+    "total_signals": 4674,
+    "hits_100pct_eoy": 262,
+    "hits_100pct_peak": 395,
+    "precision_eoy_pct": 5.61,
+    "precision_peak_pct": 8.45,
+    "loss_rate_pct": 37.66,
+    "big_loss_rate_pct": 3.34,
+    "avg_forward_return_pct": 24.57,
+    "median_forward_return_pct": 10.18,
+    "max_return_pct": 5888.02,
+    "min_return_pct": -97.52,
+    "baseline_hit_rate_pct": 4.85,
+    "baseline_avg_return_pct": 24.39,
+    "edge_vs_baseline_pp": 0.76,
+    "edge_ratio": 1.16,
+    "by_year": {
+      "2018": {
+        "signals": 773,
+        "hits": 19,
+        "hit_rate_pct": 2.5,
+        "avg_return": 13.9
+      },
+      "2019": {
+        "signals": 922,
+        "hits": 50,
+        "hit_rate_pct": 5.4,
+        "avg_return": 20.8
+      },
+      "2020": {
+        "signals": 737,
+        "hits": 121,
+        "hit_rate_pct": 16.4,
+        "avg_return": 82.6
+      },
+      "2021": {
+        "signals": 867,
+        "hits": 10,
+        "hit_rate_pct": 1.2,
+        "avg_return": -6.2
+      },
+      "2022": {
+        "signals": 429,
+        "hits": 11,
+        "hit_rate_pct": 2.6,
+        "avg_return": 5.2
+      },
+      "2023": {
+        "signals": 946,
+        "hits": 51,
+        "hit_rate_pct": 5.4,
+        "avg_return": 28.8
+      }
+    },
+    "top_signals": [
+      {
+        "symbol": "GME",
+        "date": "2020-06-08",
+        "price": 1.2525,
+        "vol_ratio": 3.67,
+        "ma200": 1.2201,
+        "pct_of_52w_high": 75.0,
+        "market_cap": 10886549504,
+        "fwd_12m_return": 5888.02,
+        "fwd_12m_max_return": 6836.33
+      },
+      {
+        "symbol": "GME",
+        "date": "2020-08-21",
+        "price": 1.2575,
+        "vol_ratio": 3.12,
+        "ma200": 1.1827,
+        "pct_of_52w_high": 75.3,
+        "market_cap": 10886549504,
+        "fwd_12m_return": 3178.13,
+        "fwd_12m_max_return": 6808.75
+      },
+      {
+        "symbol": "MARA",
+        "date": "2020-07-27",
+        "price": 1.42,
+        "vol_ratio": 18.23,
+        "ma200": 0.9389,
+        "pct_of_52w_high": 65.4,
+        "market_cap": 4932692480,
+        "fwd_12m_return": 1802.82,
+        "fwd_12m_max_return": 3883.1
+      },
+      {
+        "symbol": "MARA",
+        "date": "2020-10-21",
+        "price": 2.84,
+        "vol_ratio": 6.38,
+        "ma200": 1.3042,
+        "pct_of_52w_high": 55.8,
+        "market_cap": 4932692480,
+        "fwd_12m_return": 1692.61,
+        "fwd_12m_max_return": 1891.55
+      },
+      {
+        "symbol": "BITF",
+        "date": "2020-11-17",
+        "price": 0.53,
+        "vol_ratio": 3.12,
+        "ma200": 0.3439,
+        "pct_of_52w_high": 74.7,
+        "market_cap": 1199686528,
+        "fwd_12m_return": 1515.09,
+        "fwd_12m_max_return": 1573.58
+      },
+      {
+        "symbol": "HUT",
+        "date": "2020-11-17",
+        "price": 5.225,
+        "vol_ratio": 3.38,
+        "ma200": 4.2492,
+        "pct_of_52w_high": 66.1,
+        "market_cap": 11086016512,
+        "fwd_12m_return": 1190.91,
+        "fwd_12m_max_return": 1421.53
+      },
+      {
+        "symbol": "RIOT",
+        "date": "2020-07-27",
+        "price": 2.64,
+        "vol_ratio": 13.78,
+        "ma200": 1.5618,
+        "pct_of_52w_high": 85.2,
+        "market_cap": 9105882112,
+        "fwd_12m_return": 1098.48,
+        "fwd_12m_max_return": 2850.76
+      },
+      {
+        "symbol": "RIOT",
+        "date": "2020-05-14",
+        "price": 2.28,
+        "vol_ratio": 6.07,
+        "ma200": 1.4742,
+        "pct_of_52w_high": 50.6,
+        "market_cap": 9105882112,
+        "fwd_12m_return": 1041.23,
+        "fwd_12m_max_return": 3316.67
+      },
+      {
+        "symbol": "CELH",
+        "date": "2020-01-22",
+        "price": 1.9233,
+        "vol_ratio": 3.24,
+        "ma200": 1.3742,
+        "pct_of_52w_high": 110.1,
+        "market_cap": 8254627328,
+        "fwd_12m_return": 994.97,
+        "fwd_12m_max_return": 1105.89
+      },
+      {
+        "symbol": "FUTU",
+        "date": "2020-05-11",
+        "price": 11.827,
+        "vol_ratio": 3.21,
+        "ma200": 10.4739,
+        "pct_of_52w_high": 91.7,
+        "market_cap": 20270721024,
+        "fwd_12m_return": 940.33,
+        "fwd_12m_max_return": 1452.85
+      },
+      {
+        "symbol": "AXSM",
+        "date": "2019-01-08",
+        "price": 8.88,
+        "vol_ratio": 61.09,
+        "ma200": 3.0905,
+        "pct_of_52w_high": 158.6,
+        "market_cap": 11186324480,
+        "fwd_12m_return": 913.51,
+        "fwd_12m_max_return": 1096.4
+      },
+      {
+        "symbol": "PLUG",
+        "date": "2020-02-19",
+        "price": 5.72,
+        "vol_ratio": 4.76,
+        "ma200": 2.8445,
+        "pct_of_52w_high": 127.7,
+        "market_cap": 4351855616,
+        "fwd_12m_return": 778.15,
+        "fwd_12m_max_return": 1179.37
+      },
+      {
+        "symbol": "NVAX",
+        "date": "2020-04-20",
+        "price": 23.8,
+        "vol_ratio": 4.13,
+        "ma200": 6.701,
+        "pct_of_52w_high": 124.7,
+        "market_cap": 1662469248,
+        "fwd_12m_return": 774.58,
+        "fwd_12m_max_return": 1244.24
+      },
+      {
+        "symbol": "CELH",
+        "date": "2019-11-20",
+        "price": 1.4033,
+        "vol_ratio": 5.82,
+        "ma200": 1.3292,
+        "pct_of_52w_high": 83.2,
+        "market_cap": 8254627328,
+        "fwd_12m_return": 708.08,
+        "fwd_12m_max_return": 709.74
+      },
+      {
+        "symbol": "AEHR",
+        "date": "2020-12-03",
+        "price": 2.06,
+        "vol_ratio": 65.53,
+        "ma200": 1.7096,
+        "pct_of_52w_high": 77.2,
+        "market_cap": 3058200064,
+        "fwd_12m_return": 648.54,
+        "fwd_12m_max_return": 1148.54
+      }
+    ]
+  }
+}

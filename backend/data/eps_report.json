@@ -1,0 +1,69 @@
+{
+  "runner_eps_summary": {
+    "total_with_data": 159,
+    "eps_positive_pct": 0.0,
+    "eps_trend_up_pct": 0.0,
+    "eps_accel_pct": 0.0,
+    "rev_accel_pct": 0.0
+  },
+  "filter_results": [
+    {
+      "config": "Base (current filters)",
+      "true": 9,
+      "false": 51,
+      "total": 60,
+      "precision": 15.0,
+      "per_year": 10.9
+    },
+    {
+      "config": "+ EPS improving (forward > trailing)",
+      "true": 9,
+      "false": 50,
+      "total": 59,
+      "precision": 15.25,
+      "per_year": 10.7
+    },
+    {
+      "config": "+ Revenue acceleration (>20% growth)",
+      "true": 8,
+      "false": 43,
+      "total": 51,
+      "precision": 15.69,
+      "per_year": 9.3
+    },
+    {
+      "config": "+ Both (EPS improving + Rev >20%)",
+      "true": 8,
+      "false": 42,
+      "total": 50,
+      "precision": 16.0,
+      "per_year": 9.1
+    }
+  ],
+  "watchlist_eps": {
+    "MP": {
+      "trailing_eps": -0.4,
+      "forward_eps": 1.30798,
+      "eps_improving": true,
+      "rev_growth": 118.6,
+      "rev_acceleration": true,
+      "passes_eps_filter": true
+    },
+    "ALGM": {
+      "trailing_eps": -0.08,
+      "forward_eps": 1.49384,
+      "eps_improving": true,
+      "rev_growth": 26.1,
+      "rev_acceleration": true,
+      "passes_eps_filter": true
+    },
+    "OSCR": {
+      "trailing_eps": -0.54,
+      "forward_eps": 1.38996,
+      "eps_improving": true,
+      "rev_growth": 52.6,
+      "rev_acceleration": true,
+      "passes_eps_filter": true
+    }
+  }
+}

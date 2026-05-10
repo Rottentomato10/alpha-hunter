@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+*.parquet
+backend/cache/prices/
+backend/data/cache/
+backend/data/db.sqlite
+backend/data/*.log
+backend/data/daily_logs/
+backend/data/ai_analysis/
+node_modules/
+frontend/dist/
+.vite/

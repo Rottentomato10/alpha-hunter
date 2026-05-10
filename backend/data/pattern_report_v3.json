@@ -1,0 +1,216 @@
+{
+  "total_runners": 153,
+  "volume_analysis": {
+    "pct_with_2x_spike_30d": 76.5,
+    "pct_with_3x_spike_30d": 56.9,
+    "median_vol_ratio_on_start": 1.19,
+    "mean_vol_ratio_on_start": 1.73,
+    "vol_ratio_distribution": {
+      "< 1X (below avg)": 65,
+      "1-2X": 51,
+      "2-3X": 20,
+      "3-5X": 9,
+      "5X+": 8
+    }
+  },
+  "signal_convergence": {
+    "distribution": {
+      "0": 24,
+      "1": 54,
+      "2": 46,
+      "3": 18,
+      "4": 7,
+      "5": 4,
+      "6": 0
+    },
+    "median_score": 1.0,
+    "mean_score": 1.62
+  },
+  "top_conditions": [
+    {
+      "id": "vol_2x_spike",
+      "description": "Had 2X volume spike in 30d before",
+      "count": 117,
+      "pct": 76.5
+    },
+    {
+      "id": "rev_growth_pos",
+      "description": "Revenue growth positive",
+      "count": 109,
+      "pct": 71.2
+    },
+    {
+      "id": "spy_above_ma50",
+      "description": "SPY above MA50",
+      "count": 95,
+      "pct": 62.1
+    },
+    {
+      "id": "vol_trend_up",
+      "description": "Volume trend increasing (30d > 60d)",
+      "count": 90,
+      "pct": 58.8
+    },
+    {
+      "id": "vol_3x_spike",
+      "description": "Had 3X volume spike in 30d before",
+      "count": 87,
+      "pct": 56.9
+    },
+    {
+      "id": "bull_fear",
+      "description": "VIX > 20 (elevated fear)",
+      "count": 87,
+      "pct": 56.9
+    },
+    {
+      "id": "green_on_start",
+      "description": "Green day on start",
+      "count": 58,
+      "pct": 37.9
+    },
+    {
+      "id": "above_ma200",
+      "description": "Price above MA200",
+      "count": 54,
+      "pct": 35.3
+    },
+    {
+      "id": "eps_positive",
+      "description": "EPS positive (profitable)",
+      "count": 54,
+      "pct": 35.3
+    },
+    {
+      "id": "rising_10d",
+      "description": "Price rising in prior 10 days (>5%)",
+      "count": 37,
+      "pct": 24.2
+    },
+    {
+      "id": "rising_30d",
+      "description": "Price rising in prior 30 days (>10%)",
+      "count": 36,
+      "pct": 23.5
+    },
+    {
+      "id": "near_52w_high",
+      "description": "Within 20% of 52w high",
+      "count": 21,
+      "pct": 13.7
+    },
+    {
+      "id": "vol_start_3x",
+      "description": "Volume 3X+ on run start date",
+      "count": 17,
+      "pct": 11.1
+    },
+    {
+      "id": "has_base",
+      "description": "Base pattern present (30d <15% range)",
+      "count": 8,
+      "pct": 5.2
+    }
+  ],
+  "top_combinations": [
+    {
+      "conditions": [
+        "vol_2x_spike",
+        "vol_trend_up",
+        "vol_3x_spike"
+      ],
+      "count": 69,
+      "pct": 45.1
+    },
+    {
+      "conditions": [
+        "vol_2x_spike",
+        "rev_growth_pos",
+        "vol_trend_up"
+      ],
+      "count": 63,
+      "pct": 41.2
+    },
+    {
+      "conditions": [
+        "vol_2x_spike",
+        "rev_growth_pos",
+        "vol_3x_spike"
+      ],
+      "count": 62,
+      "pct": 40.5
+    },
+    {
+      "conditions": [
+        "vol_2x_spike",
+        "spy_above_ma50",
+        "vol_3x_spike"
+      ],
+      "count": 56,
+      "pct": 36.6
+    },
+    {
+      "conditions": [
+        "vol_2x_spike",
+        "vol_trend_up",
+        "bull_fear"
+      ],
+      "count": 52,
+      "pct": 34.0
+    },
+    {
+      "conditions": [
+        "vol_2x_spike",
+        "vol_3x_spike",
+        "bull_fear"
+      ],
+      "count": 52,
+      "pct": 34.0
+    },
+    {
+      "conditions": [
+        "rev_growth_pos",
+        "vol_trend_up",
+        "vol_3x_spike"
+      ],
+      "count": 51,
+      "pct": 33.3
+    },
+    {
+      "conditions": [
+        "vol_2x_spike",
+        "rev_growth_pos",
+        "spy_above_ma50"
+      ],
+      "count": 50,
+      "pct": 32.7
+    },
+    {
+      "conditions": [
+        "vol_2x_spike",
+        "rev_growth_pos",
+        "bull_fear"
+      ],
+      "count": 50,
+      "pct": 32.7
+    },
+    {
+      "conditions": [
+        "vol_2x_spike",
+        "spy_above_ma50",
+        "vol_trend_up"
+      ],
+      "count": 49,
+      "pct": 32.0
+    }
+  ],
+  "formula": {
+    "conditions": [
+      "vol_2x_spike",
+      "vol_trend_up",
+      "vol_3x_spike"
+    ],
+    "pct_of_runners": 45.1,
+    "count": 69
+  }
+}

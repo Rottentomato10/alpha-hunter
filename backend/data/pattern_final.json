@@ -1,0 +1,227 @@
+{
+  "total_runners": 153,
+  "combos_tested": 20,
+  "best_2_condition": null,
+  "best_3_condition": {
+    "conditions": [
+      "revenue_growth_positive",
+      "vol_spike_2x_in_30d",
+      "volume_trend_increasing"
+    ],
+    "count": 63,
+    "pct": 41.2
+  },
+  "all_combos_60pct": [
+    {
+      "conditions": [
+        "vol_spike_2x_in_30d"
+      ],
+      "count": 117,
+      "pct": 76.5
+    },
+    {
+      "conditions": [
+        "revenue_growth_positive"
+      ],
+      "count": 109,
+      "pct": 71.2
+    },
+    {
+      "conditions": [
+        "launch_type_quiet_start"
+      ],
+      "count": 108,
+      "pct": 70.6
+    }
+  ],
+  "all_combos_40pct": [
+    {
+      "conditions": [
+        "revenue_growth_positive",
+        "vol_spike_2x_in_30d"
+      ],
+      "count": 86,
+      "pct": 56.2
+    },
+    {
+      "conditions": [
+        "vol_spike_2x_in_30d",
+        "volume_trend_increasing"
+      ],
+      "count": 84,
+      "pct": 54.9
+    },
+    {
+      "conditions": [
+        "launch_type_quiet_start",
+        "vol_spike_2x_in_30d"
+      ],
+      "count": 83,
+      "pct": 54.2
+    },
+    {
+      "conditions": [
+        "launch_type_quiet_start",
+        "revenue_growth_positive"
+      ],
+      "count": 76,
+      "pct": 49.7
+    },
+    {
+      "conditions": [
+        "vix_above_20",
+        "vol_spike_2x_in_30d"
+      ],
+      "count": 72,
+      "pct": 47.1
+    },
+    {
+      "conditions": [
+        "revenue_growth_positive",
+        "volume_trend_increasing"
+      ],
+      "count": 67,
+      "pct": 43.8
+    },
+    {
+      "conditions": [
+        "revenue_growth_positive",
+        "vol_spike_2x_in_30d",
+        "volume_trend_increasing"
+      ],
+      "count": 63,
+      "pct": 41.2
+    }
+  ],
+  "early_vs_late_diffs": [
+    {
+      "condition": "vol_spike_2x_in_30d",
+      "easy": 100.0,
+      "hard": 85.9,
+      "diff": 14.1
+    },
+    {
+      "condition": "volume_trend_increasing",
+      "easy": 77.5,
+      "hard": 60.3,
+      "diff": 17.2
+    },
+    {
+      "condition": "price_above_ma200",
+      "easy": 37.5,
+      "hard": 38.5,
+      "diff": -1.0
+    },
+    {
+      "condition": "revenue_growth_positive",
+      "easy": 77.5,
+      "hard": 71.8,
+      "diff": 5.7
+    },
+    {
+      "condition": "vix_above_20",
+      "easy": 45.0,
+      "hard": 62.8,
+      "diff": -17.8
+    },
+    {
+      "condition": "base_period_present",
+      "easy": 7.5,
+      "hard": 3.8,
+      "diff": 3.7
+    },
+    {
+      "condition": "price_dropping_during_accumulation",
+      "easy": 45.0,
+      "hard": 38.5,
+      "diff": 6.5
+    },
+    {
+      "condition": "launch_type_quiet_start",
+      "easy": 80.0,
+      "hard": 65.4,
+      "diff": 14.6
+    }
+  ],
+  "sector_stats": [
+    {
+      "sector": "Energy",
+      "count": 7,
+      "avg_entry_return": 3103.1,
+      "med_entry_return": 926.8,
+      "avg_window": 7.3,
+      "avg_peak_return": 3101.5
+    },
+    {
+      "sector": "Healthcare",
+      "count": 13,
+      "avg_entry_return": 1078.8,
+      "med_entry_return": 591.3,
+      "avg_window": 10.8,
+      "avg_peak_return": 1153.6
+    },
+    {
+      "sector": "Financial Services",
+      "count": 18,
+      "avg_entry_return": 1032.2,
+      "med_entry_return": 611.9,
+      "avg_window": 14.9,
+      "avg_peak_return": 1031.7
+    },
+    {
+      "sector": "Consumer Cyclical",
+      "count": 21,
+      "avg_entry_return": 1017.4,
+      "med_entry_return": 588.1,
+      "avg_window": 9.7,
+      "avg_peak_return": 1041.3
+    },
+    {
+      "sector": "Industrials",
+      "count": 18,
+      "avg_entry_return": 776.8,
+      "med_entry_return": 651.6,
+      "avg_window": 10.5,
+      "avg_peak_return": 763.0
+    },
+    {
+      "sector": "Technology",
+      "count": 26,
+      "avg_entry_return": 713.0,
+      "med_entry_return": 577.7,
+      "avg_window": 9.1,
+      "avg_peak_return": 733.0
+    },
+    {
+      "sector": "Communication Services",
+      "count": 10,
+      "avg_entry_return": 616.7,
+      "med_entry_return": 575.2,
+      "avg_window": 11.2,
+      "avg_peak_return": 613.3
+    }
+  ],
+  "score_validation": {
+    "score_distribution": {
+      "70+": {
+        "count": 42,
+        "avg_peak": 1250.6,
+        "avg_entry_return": 1295.7
+      },
+      "50-69": {
+        "count": 64,
+        "avg_peak": 853.1,
+        "avg_entry_return": 841.0
+      },
+      "<50": {
+        "count": 47,
+        "avg_peak": 884.6,
+        "avg_entry_return": 836.8
+      }
+    },
+    "correlations": {
+      "score_vs_peak": -0.0,
+      "score_vs_entry_return": 0.011
+    }
+  }
+}

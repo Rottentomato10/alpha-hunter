@@ -1,0 +1,4 @@
+symbol,current_price,ma200,dist_to_ma200_pct,sector,rev_growth_pct,short_pct,market_cap
+OSCR,14.51,16.08,-9.8,Healthcare,52.6,10.7,5666371584
+ALGM,26.83,28.2,-4.9,Technology,26.1,12.7,9069987840
+MP,50.44,49.53,1.8,Basic Materials,118.6,16.7,12003820544

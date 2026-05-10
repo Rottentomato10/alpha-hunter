@@ -1,0 +1,663 @@
+{
+  "generated": "2026-05-10T00:21:38.540140",
+  "total_signals": 4675,
+  "signals_with_forward": 4675,
+  "results": {
+    "signal_only": {
+      "all_regimes": {
+        "sample": 4675,
+        "hits_eoy": 262,
+        "hits_peak": 395,
+        "hit_rate_eoy": 5.6,
+        "hit_rate_peak": 8.45,
+        "avg_return": 24.56,
+        "median_return": 10.18
+      },
+      "by_regime": {
+        "Bull Calm": {
+          "sample": 2701,
+          "hits_eoy": 123,
+          "hits_peak": 179,
+          "hit_rate_eoy": 4.55,
+          "hit_rate_peak": 6.63,
+          "avg_return": 15.82,
+          "median_return": 5.78
+        },
+        "Bull Fear": {
+          "sample": 1013,
+          "hits_eoy": 87,
+          "hits_peak": 140,
+          "hit_rate_eoy": 8.59,
+          "hit_rate_peak": 13.82,
+          "avg_return": 46.47,
+          "median_return": 17.52
+        },
+        "Bear Bounce": {
+          "sample": 83,
+          "hits_eoy": 11,
+          "hits_peak": 13,
+          "hit_rate_eoy": 13.25,
+          "hit_rate_peak": 15.66,
+          "avg_return": 37.88,
+          "median_return": 6.26
+        },
+        "Bear Grind": {
+          "sample": 878,
+          "hits_eoy": 41,
+          "hits_peak": 63,
+          "hit_rate_eoy": 4.67,
+          "hit_rate_peak": 7.18,
+          "avg_return": 24.94,
+          "median_return": 15.76
+        }
+      }
+    },
+    "signal + midcap": {
+      "all_regimes": {
+        "sample": 2772,
+        "hits_eoy": 164,
+        "hits_peak": 251,
+        "hit_rate_eoy": 5.92,
+        "hit_rate_peak": 9.05,
+        "avg_return": 24.48,
+        "median_return": 6.88
+      },
+      "by_regime": {
+        "Bull Calm": {
+          "sample": 1595,
+          "hits_eoy": 75,
+          "hits_peak": 113,
+          "hit_rate_eoy": 4.7,
+          "hit_rate_peak": 7.08,
+          "avg_return": 12.97,
+          "median_return": 3.27
+        },
+        "Bull Fear": {
+          "sample": 604,
+          "hits_eoy": 61,
+          "hits_peak": 95,
+          "hit_rate_eoy": 10.1,
+          "hit_rate_peak": 15.73,
+          "avg_return": 57.16,
+          "median_return": 12.66
+        },
+        "Bear Bounce": {
+          "sample": 59,
+          "hits_eoy": 7,
+          "hits_peak": 9,
+          "hit_rate_eoy": 11.86,
+          "hit_rate_peak": 15.25,
+          "avg_return": 36.41,
+          "median_return": 6.26
+        },
+        "Bear Grind": {
+          "sample": 514,
+          "hits_eoy": 21,
+          "hits_peak": 34,
+          "hit_rate_eoy": 4.09,
+          "hit_rate_peak": 6.61,
+          "avg_return": 20.41,
+          "median_return": 12.09
+        }
+      }
+    },
+    "signal + rev_growth": {
+      "all_regimes": {
+        "sample": 3899,
+        "hits_eoy": 208,
+        "hits_peak": 315,
+        "hit_rate_eoy": 5.33,
+        "hit_rate_peak": 8.08,
+        "avg_return": 22.25,
+        "median_return": 10.56
+      },
+      "by_regime": {
+        "Bull Calm": {
+          "sample": 2248,
+          "hits_eoy": 102,
+          "hits_peak": 145,
+          "hit_rate_eoy": 4.54,
+          "hit_rate_peak": 6.45,
+          "avg_return": 16.8,
+          "median_return": 6.01
+        },
+        "Bull Fear": {
+          "sample": 844,
+          "hits_eoy": 64,
+          "hits_peak": 105,
+          "hit_rate_eoy": 7.58,
+          "hit_rate_peak": 12.44,
+          "avg_return": 32.54,
+          "median_return": 17.44
+        },
+        "Bear Bounce": {
+          "sample": 70,
+          "hits_eoy": 9,
+          "hits_peak": 11,
+          "hit_rate_eoy": 12.86,
+          "hit_rate_peak": 15.71,
+          "avg_return": 31.4,
+          "median_return": 6.58
+        },
+        "Bear Grind": {
+          "sample": 737,
+          "hits_eoy": 33,
+          "hits_peak": 54,
+          "hit_rate_eoy": 4.48,
+          "hit_rate_peak": 7.33,
+          "avg_return": 26.22,
+          "median_return": 16.44
+        }
+      }
+    },
+    "signal + fundamental": {
+      "all_regimes": {
+        "sample": 2194,
+        "hits_eoy": 119,
+        "hits_peak": 183,
+        "hit_rate_eoy": 5.42,
+        "hit_rate_peak": 8.34,
+        "avg_return": 19.74,
+        "median_return": 6.74
+      },
+      "by_regime": {
+        "Bull Calm": {
+          "sample": 1259,
+          "hits_eoy": 58,
+          "hits_peak": 85,
+          "hit_rate_eoy": 4.61,
+          "hit_rate_peak": 6.75,
+          "avg_return": 13.8,
+          "median_return": 3.34
+        },
+        "Bull Fear": {
+          "sample": 478,
+          "hits_eoy": 42,
+          "hits_peak": 65,
+          "hit_rate_eoy": 8.79,
+          "hit_rate_peak": 13.6,
+          "avg_return": 33.62,
+          "median_return": 11.47
+        },
+        "Bear Bounce": {
+          "sample": 48,
+          "hits_eoy": 5,
+          "hits_peak": 7,
+          "hit_rate_eoy": 10.42,
+          "hit_rate_peak": 14.58,
+          "avg_return": 24.56,
+          "median_return": 8.03
+        },
+        "Bear Grind": {
+          "sample": 409,
+          "hits_eoy": 14,
+          "hits_peak": 26,
+          "hit_rate_eoy": 3.42,
+          "hit_rate_peak": 6.36,
+          "avg_return": 21.24,
+          "median_return": 12.32
+        }
+      }
+    },
+    "signal + full": {
+      "all_regimes": {
+        "sample": 1954,
+        "hits_eoy": 110,
+        "hits_peak": 164,
+        "hit_rate_eoy": 5.63,
+        "hit_rate_peak": 8.39,
+        "avg_return": 20.02,
+        "median_return": 5.78
+      },
+      "by_regime": {
+        "Bull Calm": {
+          "sample": 1116,
+          "hits_eoy": 53,
+          "hits_peak": 73,
+          "hit_rate_eoy": 4.75,
+          "hit_rate_peak": 6.54,
+          "avg_return": 13.7,
+          "median_return": 2.54
+        },
+        "Bull Fear": {
+          "sample": 430,
+          "hits_eoy": 40,
+          "hits_peak": 62,
+          "hit_rate_eoy": 9.3,
+          "hit_rate_peak": 14.42,
+          "avg_return": 34.92,
+          "median_return": 10.82
+        },
+        "Bear Bounce": {
+          "sample": 42,
+          "hits_eoy": 5,
+          "hits_peak": 7,
+          "hit_rate_eoy": 11.9,
+          "hit_rate_peak": 16.67,
+          "avg_return": 25.86,
+          "median_return": 8.03
+        },
+        "Bear Grind": {
+          "sample": 366,
+          "hits_eoy": 12,
+          "hits_peak": 22,
+          "hit_rate_eoy": 3.28,
+          "hit_rate_peak": 6.01,
+          "avg_return": 21.11,
+          "median_return": 12.31
+        }
+      }
+    },
+    "signal + midcap + rev_growth + eps": {
+      "all_regimes": {
+        "sample": 1954,
+        "hits_eoy": 110,
+        "hits_peak": 164,
+        "hit_rate_eoy": 5.63,
+        "hit_rate_peak": 8.39,
+        "avg_return": 20.02,
+        "median_return": 5.78
+      },
+      "by_regime": {
+        "Bull Calm": {
+          "sample": 1116,
+          "hits_eoy": 53,
+          "hits_peak": 73,
+          "hit_rate_eoy": 4.75,
+          "hit_rate_peak": 6.54,
+          "avg_return": 13.7,
+          "median_return": 2.54
+        },
+        "Bull Fear": {
+          "sample": 430,
+          "hits_eoy": 40,
+          "hits_peak": 62,
+          "hit_rate_eoy": 9.3,
+          "hit_rate_peak": 14.42,
+          "avg_return": 34.92,
+          "median_return": 10.82
+        },
+        "Bear Bounce": {
+          "sample": 42,
+          "hits_eoy": 5,
+          "hits_peak": 7,
+          "hit_rate_eoy": 11.9,
+          "hit_rate_peak": 16.67,
+          "avg_return": 25.86,
+          "median_return": 8.03
+        },
+        "Bear Grind": {
+          "sample": 366,
+          "hits_eoy": 12,
+          "hits_peak": 22,
+          "hit_rate_eoy": 3.28,
+          "hit_rate_peak": 6.01,
+          "avg_return": 21.11,
+          "median_return": 12.31
+        }
+      }
+    }
+  },
+  "top_signals": [
+    {
+      "symbol": "GME",
+      "date": "2020-06-08",
+      "price": 1.2525,
+      "vol_ratio": 3.67,
+      "market_cap": 10886549504,
+      "fwd_12m_return": 5888.02,
+      "fwd_12m_max_return": 6836.33,
+      "regime": "B",
+      "regime_label": "Bull Fear",
+      "vix": 25.81,
+      "rev_growth_positive": false,
+      "eps_improving": true,
+      "is_midcap": true,
+      "passes_fundamental": false,
+      "passes_full": false,
+      "sector": "Consumer Cyclical"
+    },
+    {
+      "symbol": "GME",
+      "date": "2020-08-21",
+      "price": 1.2575,
+      "vol_ratio": 3.12,
+      "market_cap": 10886549504,
+      "fwd_12m_return": 3178.13,
+      "fwd_12m_max_return": 6808.75,
+      "regime": "B",
+      "regime_label": "Bull Fear",
+      "vix": 22.54,
+      "rev_growth_positive": false,
+      "eps_improving": true,
+      "is_midcap": true,
+      "passes_fundamental": false,
+      "passes_full": false,
+      "sector": "Consumer Cyclical"
+    },
+    {
+      "symbol": "MARA",
+      "date": "2020-07-27",
+      "price": 1.42,
+      "vol_ratio": 18.23,
+      "market_cap": 4932692480,
+      "fwd_12m_return": 1802.82,
+      "fwd_12m_max_return": 3883.1,
+      "regime": "B",
+      "regime_label": "Bull Fear",
+      "vix": 24.74,
+      "rev_growth_positive": false,
+      "eps_improving": true,
+      "is_midcap": true,
+      "passes_fundamental": false,
+      "passes_full": false,
+      "sector": "Financial Services"
+    },
+    {
+      "symbol": "MARA",
+      "date": "2020-10-21",
+      "price": 2.84,
+      "vol_ratio": 6.38,
+      "market_cap": 4932692480,
+      "fwd_12m_return": 1692.61,
+      "fwd_12m_max_return": 1891.55,
+      "regime": "B",
+      "regime_label": "Bull Fear",
+      "vix": 28.65,
+      "rev_growth_positive": false,
+      "eps_improving": true,
+      "is_midcap": true,
+      "passes_fundamental": false,
+      "passes_full": false,
+      "sector": "Financial Services"
+    },
+    {
+      "symbol": "BITF",
+      "date": "2020-11-17",
+      "price": 0.53,
+      "vol_ratio": 3.12,
+      "market_cap": 1199686528,
+      "fwd_12m_return": 1515.09,
+      "fwd_12m_max_return": 1573.58,
+      "regime": "B",
+      "regime_label": "Bull Fear",
+      "vix": 22.71,
+      "rev_growth_positive": false,
+      "eps_improving": true,
+      "is_midcap": true,
+      "passes_fundamental": false,
+      "passes_full": false,
+      "sector": "Financial Services"
+    },
+    {
+      "symbol": "HUT",
+      "date": "2020-11-17",
+      "price": 5.225,
+      "vol_ratio": 3.38,
+      "market_cap": 11086016512,
+      "fwd_12m_return": 1190.91,
+      "fwd_12m_max_return": 1421.53,
+      "regime": "B",
+      "regime_label": "Bull Fear",
+      "vix": 22.71,
+      "rev_growth_positive": true,
+      "eps_improving": true,
+      "is_midcap": true,
+      "passes_fundamental": true,
+      "passes_full": true,
+      "sector": "Financial Services"
+    },
+    {
+      "symbol": "RIOT",
+      "date": "2020-07-27",
+      "price": 2.64,
+      "vol_ratio": 13.78,
+      "market_cap": 9105882112,
+      "fwd_12m_return": 1098.48,
+      "fwd_12m_max_return": 2850.76,
+      "regime": "B",
+      "regime_label": "Bull Fear",
+      "vix": 24.74,
+      "rev_growth_positive": true,
+      "eps_improving": true,
+      "is_midcap": true,
+      "passes_fundamental": true,
+      "passes_full": true,
+      "sector": "Financial Services"
+    },
+    {
+      "symbol": "RIOT",
+      "date": "2020-05-14",
+      "price": 2.28,
+      "vol_ratio": 6.07,
+      "market_cap": 9105882112,
+      "fwd_12m_return": 1041.23,
+      "fwd_12m_max_return": 3316.67,
+      "regime": "B",
+      "regime_label": "Bull Fear",
+      "vix": 32.61,
+      "rev_growth_positive": true,
+      "eps_improving": true,
+      "is_midcap": true,
+      "passes_fundamental": true,
+      "passes_full": true,
+      "sector": "Financial Services"
+    },
+    {
+      "symbol": "CELH",
+      "date": "2020-01-22",
+      "price": 1.9233,
+      "vol_ratio": 3.24,
+      "market_cap": 8254627328,
+      "fwd_12m_return": 994.97,
+      "fwd_12m_max_return": 1105.89,
+      "regime": "A",
+      "regime_label": "Bull Calm",
+      "vix": 12.91,
+      "rev_growth_positive": true,
+      "eps_improving": true,
+      "is_midcap": true,
+      "passes_fundamental": true,
+      "passes_full": true,
+      "sector": "Consumer Defensive"
+    },
+    {
+      "symbol": "FUTU",
+      "date": "2020-05-11",
+      "price": 11.827,
+      "vol_ratio": 3.21,
+      "market_cap": 20270721024,
+      "fwd_12m_return": 940.33,
+      "fwd_12m_max_return": 1452.85,
+      "regime": "B",
+      "regime_label": "Bull Fear",
+      "vix": 27.57,
+      "rev_growth_positive": true,
+      "eps_improving": true,
+      "is_midcap": false,
+      "passes_fundamental": false,
+      "passes_full": false,
+      "sector": "Financial Services"
+    },
+    {
+      "symbol": "AXSM",
+      "date": "2019-01-08",
+      "price": 8.88,
+      "vol_ratio": 61.09,
+      "market_cap": 11186324480,
+      "fwd_12m_return": 913.51,
+      "fwd_12m_max_return": 1096.4,
+      "regime": "D",
+      "regime_label": "Bear Grind",
+      "vix": 20.47,
+      "rev_growth_positive": true,
+      "eps_improving": true,
+      "is_midcap": true,
+      "passes_fundamental": true,
+      "passes_full": true,
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "PLUG",
+      "date": "2020-02-19",
+      "price": 5.72,
+      "vol_ratio": 4.76,
+      "market_cap": 4351855616,
+      "fwd_12m_return": 778.15,
+      "fwd_12m_max_return": 1179.37,
+      "regime": "A",
+      "regime_label": "Bull Calm",
+      "vix": 14.38,
+      "rev_growth_positive": true,
+      "eps_improving": true,
+      "is_midcap": true,
+      "passes_fundamental": true,
+      "passes_full": true,
+      "sector": "Industrials"
+    },
+    {
+      "symbol": "NVAX",
+      "date": "2020-04-20",
+      "price": 23.8,
+      "vol_ratio": 4.13,
+      "market_cap": 1662469248,
+      "fwd_12m_return": 774.58,
+      "fwd_12m_max_return": 1244.24,
+      "regime": "C",
+      "regime_label": "Bear Bounce",
+      "vix": 43.83,
+      "rev_growth_positive": false,
+      "eps_improving": true,
+      "is_midcap": true,
+      "passes_fundamental": false,
+      "passes_full": false,
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "CELH",
+      "date": "2019-11-20",
+      "price": 1.4033,
+      "vol_ratio": 5.82,
+      "market_cap": 8254627328,
+      "fwd_12m_return": 708.08,
+      "fwd_12m_max_return": 709.74,
+      "regime": "A",
+      "regime_label": "Bull Calm",
+      "vix": 12.78,
+      "rev_growth_positive": true,
+      "eps_improving": true,
+      "is_midcap": true,
+      "passes_fundamental": true,
+      "passes_full": true,
+      "sector": "Consumer Defensive"
+    },
+    {
+      "symbol": "AEHR",
+      "date": "2020-12-03",
+      "price": 2.06,
+      "vol_ratio": 65.53,
+      "market_cap": 3058200064,
+      "fwd_12m_return": 648.54,
+      "fwd_12m_max_return": 1148.54,
+      "regime": "B",
+      "regime_label": "Bull Fear",
+      "vix": 21.28,
+      "rev_growth_positive": false,
+      "eps_improving": true,
+      "is_midcap": true,
+      "passes_fundamental": false,
+      "passes_full": false,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "NIO",
+      "date": "2020-06-03",
+      "price": 5.6,
+      "vol_ratio": 5.67,
+      "market_cap": 14658152448,
+      "fwd_12m_return": 630.36,
+      "fwd_12m_max_return": 1022.14,
+      "regime": "B",
+      "regime_label": "Bull Fear",
+      "vix": 25.66,
+      "rev_growth_positive": true,
+      "eps_improving": true,
+      "is_midcap": true,
+      "passes_fundamental": true,
+      "passes_full": true,
+      "sector": "Consumer Cyclical"
+    },
+    {
+      "symbol": "CVNA",
+      "date": "2023-11-03",
+      "price": 6.456,
+      "vol_ratio": 3.17,
+      "market_cap": 61884190720,
+      "fwd_12m_return": 630.11,
+      "fwd_12m_max_return": 666.14,
+      "regime": "A",
+      "regime_label": "Bull Calm",
+      "vix": 14.91,
+      "rev_growth_positive": true,
+      "eps_improving": true,
+      "is_midcap": false,
+      "passes_fundamental": false,
+      "passes_full": false,
+      "sector": "Consumer Cyclical"
+    },
+    {
+      "symbol": "RIOT",
+      "date": "2020-10-12",
+      "price": 3.5,
+      "vol_ratio": 3.49,
+      "market_cap": 9105882112,
+      "fwd_12m_return": 628.86,
+      "fwd_12m_max_return": 2125.71,
+      "regime": "B",
+      "regime_label": "Bull Fear",
+      "vix": 25.07,
+      "rev_growth_positive": true,
+      "eps_improving": true,
+      "is_midcap": true,
+      "passes_fundamental": true,
+      "passes_full": true,
+      "sector": "Financial Services"
+    },
+    {
+      "symbol": "CELH",
+      "date": "2020-05-12",
+      "price": 2.11,
+      "vol_ratio": 8.55,
+      "market_cap": 8254627328,
+      "fwd_12m_return": 628.75,
+      "fwd_12m_max_return": 999.21,
+      "regime": "B",
+      "regime_label": "Bull Fear",
+      "vix": 33.04,
+      "rev_growth_positive": true,
+      "eps_improving": true,
+      "is_midcap": true,
+      "passes_fundamental": true,
+      "passes_full": true,
+      "sector": "Consumer Defensive"
+    },
+    {
+      "symbol": "AXSM",
+      "date": "2018-08-30",
+      "price": 3.45,
+      "vol_ratio": 3.14,
+      "market_cap": 11186324480,
+      "fwd_12m_return": 603.77,
+      "fwd_12m_max_return": 702.61,
+      "regime": "A",
+      "regime_label": "Bull Calm",
+      "vix": 13.53,
+      "rev_growth_positive": true,
+      "eps_improving": true,
+      "is_midcap": true,
+      "passes_fundamental": true,
+      "passes_full": true,
+      "sector": "Healthcare"
+    }
+  ]
+}

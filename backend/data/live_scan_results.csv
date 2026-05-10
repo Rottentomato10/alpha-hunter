@@ -1,0 +1,443 @@
+symbol,score,vol_score,price_score,market_score,fund_score,current_price,market_cap,sector,industry,max_vol_spike_30d,spike_days_2x,spike_days_3x,vol_trend_ratio,pct_from_52w_high,above_ma200,summary
+IQV,90,40,25,10,15,227.69,29826699264,Healthcare,Diagnostics & Research,3.12,2,1,0.88,2.8,True,vol 2X spike (2d) | vol 3X spike (1d) | multiple spike events | above MA200
+UNM,90,40,25,10,15,77.39,12922701824,Financial Services,Insurance - Life,3.52,1,1,1.04,5.7,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+AYI,90,40,25,10,15,364.43,8892347392,Industrials,Electrical Equipment & Parts,3.52,1,1,1.07,3.8,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+CCK,90,40,25,10,15,103.39,11307640832,Consumer Cyclical,Packaging & Containers,6.91,2,1,1.09,4.8,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+XOM,90,40,25,10,15,120.19,599235035136,Energy,Oil & Gas Integrated,3.05,1,1,1.08,0.7,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+CNA,90,40,25,10,15,45.53,11778938880,Financial Services,Insurance - Property & Casualty,6.8,2,1,1.11,3.9,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+TTC,90,40,25,10,15,79.17,9309401088,Industrials,Tools & Accessories,3.11,5,2,1.27,7.2,True,vol 2X spike (5d) | vol 3X spike (2d) | vol trend up | above MA200
+TFSL,90,40,25,10,15,13.12,4234525184,Financial Services,Banks - Regional,3.13,3,1,1.24,8.0,True,vol 2X spike (3d) | vol 3X spike (1d) | vol trend up | multiple spike events
+BWA,90,40,25,10,15,45.59,12577648640,Consumer Cyclical,Auto Parts,14.09,1,1,1.25,1.1,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+VLTO,90,40,25,10,15,101.08,21327839232,Industrials,Pollution & Treatment Controls,3.81,2,2,1.1,7.9,True,vol 2X spike (2d) | vol 3X spike (2d) | vol trend up | multiple spike events
+NDAQ,90,40,25,10,15,97.87,50282233856,Financial Services,Financial Data & Stock Exchanges,3.14,1,1,1.11,1.4,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+NDSN,90,40,25,10,15,243.21,15816324096,Industrials,Specialty Industrial Machinery,4.94,5,2,1.29,2.6,True,vol 2X spike (5d) | vol 3X spike (2d) | vol trend up | multiple spike events
+BMRN,90,40,25,10,15,58.99,10448956416,Healthcare,Biotechnology,6.99,2,2,1.11,19.8,True,vol 2X spike (2d) | vol 3X spike (2d) | vol trend up | multiple spike events
+FTV,90,40,25,10,15,55.88,18422751232,Technology,Scientific & Technical Instruments,3.79,1,1,1.03,10.5,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+NLY,90,40,25,10,15,21.59,16568071168,Real Estate,REIT - Mortgage,3.26,1,1,1.05,1.5,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+BRK-B,90,40,25,10,15,503.71,1026532966400,Financial Services,Insurance - Diversified,3.19,2,1,1.01,7.1,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+QSR,90,40,25,10,15,68.15,36374614016,Consumer Cyclical,Restaurants,3.09,1,1,1.05,5.9,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+THG,90,40,25,10,15,183.28,6617400832,Financial Services,Insurance - Property & Casualty,5.12,1,1,1.05,2.1,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+HHH,90,40,25,10,15,80.16,3921508864,Real Estate,Real Estate - Development,3.53,2,1,1.07,12.0,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | above MA200
+RVTY,90,40,25,10,15,97.29,11292136448,Healthcare,Diagnostics & Research,9.05,2,1,1.08,23.9,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+VRTX,90,40,25,10,15,453.74,109090652160,Healthcare,Biotechnology,3.82,1,1,1.0,12.7,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+FER,90,40,25,10,15,64.92,50500628480,Industrials,Engineering & Construction,36.82,2,1,1.51,4.7,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+AM,90,40,25,10,15,17.46,9936581632,Energy,Oil & Gas Midstream,4.56,1,1,1.04,8.8,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+V,90,40,25,10,15,352.89,606256889856,Financial Services,Credit Services,3.05,2,1,1.08,5.5,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+GWW,90,40,25,10,15,1019.16,58247294976,Industrials,Industrial Distribution,3.03,1,1,1.03,9.6,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+AMGN,90,40,25,10,15,326.43,179118014464,Healthcare,Drug Manufacturers - General,5.12,1,1,1.1,5.1,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+TSN,90,40,25,10,15,58.71,24078608384,Consumer Defensive,Farm Products,3.02,1,1,1.0,5.6,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+ZM,90,40,25,10,15,86.3,32188723200,Technology,Software - Application,4.12,2,2,1.1,5.6,True,vol 2X spike (2d) | vol 3X spike (2d) | vol trend up | above MA200
+USFD,90,40,25,10,15,75.92,18586707968,Consumer Defensive,Food Distribution,3.64,3,1,1.1,10.8,True,vol 2X spike (3d) | vol 3X spike (1d) | vol trend up | multiple spike events
+ALLE,90,40,25,10,15,160.52,11547201536,Industrials,Security & Protection Services,3.28,1,1,1.05,10.8,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+LDOS,90,40,25,10,15,182.9,16365946880,Technology,Information Technology Services,3.04,1,1,1.02,10.7,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+WRB,90,40,25,10,15,70.71,24451135488,Financial Services,Insurance - Property & Casualty,5.75,3,1,1.04,8.9,True,vol 2X spike (3d) | vol 3X spike (1d) | vol trend up | multiple spike events
+ITT,90,40,25,10,15,176.32,18520479744,Industrials,Specialty Industrial Machinery,8.77,8,2,1.4,10.2,True,vol 2X spike (8d) | vol 3X spike (2d) | vol trend up | multiple spike events
+MSFT,90,40,25,10,15,486.37,3083691884544,Technology,Software - Infrastructure,3.21,1,1,1.05,11.9,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+MRP,90,40,25,10,15,28.49,4471670784,Real Estate,REIT - Residential,6.03,9,6,1.41,14.7,True,vol 2X spike (9d) | vol 3X spike (6d) | vol trend up | multiple spike events
+CRH,90,40,25,10,15,125.37,76014452736,Basic Materials,Building Materials,22.93,3,2,1.53,2.7,True,vol 2X spike (3d) | vol 3X spike (2d) | vol trend up | multiple spike events
+JCI,90,40,25,10,15,120.57,85123325952,Industrials,Building Products & Equipment,3.88,1,1,1.09,2.3,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+RJF,90,40,25,10,15,161.4,30076299264,Financial Services,Asset Management,3.38,1,1,1.02,8.2,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+ATO,90,40,25,10,15,167.65,30190788608,Utilities,Utilities - Regulated Gas,4.93,1,1,1.13,6.1,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+AIT,90,40,25,10,15,260.68,11415693312,Industrials,Industrial Distribution,4.6,1,1,1.0,6.7,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+AMP,90,40,25,10,15,491.22,41852489728,Financial Services,Asset Management,3.23,2,1,1.04,14.0,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+WTW,90,40,25,10,15,331.56,24212682752,Financial Services,Insurance Brokers,3.17,1,1,1.02,5.4,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+ADC,90,40,25,10,15,71.57,9180735488,Real Estate,REIT - Retail,3.13,2,1,0.99,5.9,True,vol 2X spike (2d) | vol 3X spike (1d) | multiple spike events | above MA200
+CCEP,90,40,25,10,15,91.6,41873424384,Consumer Defensive,Beverages - Non-Alcoholic,3.58,2,1,0.9,7.6,True,vol 2X spike (2d) | vol 3X spike (1d) | multiple spike events | above MA200
+ES,90,40,25,10,15,66.84,25013084160,Utilities,Utilities - Regulated Electric,3.58,2,1,1.06,9.2,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | above MA200
+ITW,90,40,25,10,15,247.65,73294446592,Industrials,Specialty Industrial Machinery,3.09,2,1,0.94,8.1,True,vol 2X spike (2d) | vol 3X spike (1d) | multiple spike events | above MA200
+PPL,90,40,25,10,15,35.07,27010248704,Utilities,Utilities - Regulated Electric,3.86,3,1,1.18,6.9,True,vol 2X spike (3d) | vol 3X spike (1d) | vol trend up | multiple spike events
+D,90,40,25,10,15,58.44,54429495296,Utilities,Utilities - Regulated Electric,3.42,2,1,1.17,5.0,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+ADSK,90,40,25,10,15,299.54,51625013248,Technology,Software - Application,3.12,3,1,1.14,9.0,True,vol 2X spike (3d) | vol 3X spike (1d) | vol trend up | multiple spike events
+MTD,90,40,25,10,15,1414.32,22768631808,Healthcare,Diagnostics & Research,3.17,2,1,0.97,7.3,True,vol 2X spike (2d) | vol 3X spike (1d) | multiple spike events | above MA200
+MDT,90,40,25,10,15,95.88,97767841792,Healthcare,Medical Devices,3.24,2,1,1.09,8.4,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+NEE,90,40,25,10,15,79.98,194145288192,Utilities,Utilities - Regulated Electric,3.08,1,1,1.01,7.4,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+BYD,85,35,25,10,15,85.65,6365635072,Consumer Cyclical,Resorts & Casinos,3.44,1,1,0.9,2.8,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 3% from 52w high
+MCO,85,35,25,10,15,514.64,78834966528,Financial Services,Financial Data & Stock Exchanges,3.02,1,1,0.91,2.3,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 2% from 52w high
+KEYS,85,40,20,10,15,206.01,61792346112,Technology,Scientific & Technical Instruments,3.37,3,1,1.03,4.0,True,vol 2X spike (3d) | vol 3X spike (1d) | vol trend up | multiple spike events
+KO,85,35,25,10,15,69.59,337400659968,Consumer Defensive,Beverages - Non-Alcoholic,2.41,2,0,1.02,3.9,True,vol 2X spike (2d) | vol trend up | multiple spike events | above MA200
+ALNY,85,40,20,10,15,397.25,39392882688,Healthcare,Biotechnology,10.31,1,1,1.15,19.8,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+CVNA,85,40,20,10,15,85.91,61884190720,Consumer Cyclical,Auto & Truck Dealerships,9.74,2,2,1.16,11.5,True,vol 2X spike (2d) | vol 3X spike (2d) | vol trend up | multiple spike events
+AGCO,85,35,25,10,15,104.51,8496416256,Industrials,Farm & Heavy Construction Machinery,2.08,2,0,1.01,13.1,True,vol 2X spike (2d) | vol trend up | multiple spike events | above MA200
+GLPI,85,35,25,10,15,44.32,13656957952,Real Estate,REIT - Specialty,2.41,3,0,1.18,7.8,True,vol 2X spike (3d) | vol trend up | multiple spike events | above MA200
+CSCO,85,35,25,10,15,76.58,381441179648,Technology,Communication Equipment,4.24,1,1,0.97,4.2,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 4% from 52w high
+CTSH,85,40,20,10,15,83.71,24444639232,Technology,Information Technology Services,3.86,1,1,1.01,5.9,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+ABBV,85,35,25,10,15,226.03,356494049280,Healthcare,Drug Manufacturers - General,3.37,1,1,0.98,5.5,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 5% from 52w high
+BKR,85,35,25,10,15,45.76,63383265280,Energy,Oil & Gas Equipment & Services,3.01,1,1,0.98,9.8,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 10% from 52w high
+A,85,35,25,10,15,137.06,32674480128,Healthcare,Diagnostics & Research,2.63,2,0,1.17,14.1,True,vol 2X spike (2d) | vol trend up | multiple spike events | above MA200
+WELL,85,40,20,10,15,187.34,151510417408,Real Estate,REIT - Healthcare Facilities,4.87,2,1,1.11,10.1,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+FOX,85,40,20,10,15,65.04,24077416448,Communication Services,Entertainment,3.25,2,1,1.09,0.5,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+MPWR,85,40,20,10,15,920.51,78649270272,Technology,Semiconductors,8.88,1,1,1.05,17.8,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+BURL,85,40,20,10,15,288.01,19132446720,Consumer Cyclical,Apparel Retail,4.34,2,1,1.14,6.8,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | above MA200
+MRK,85,40,20,10,15,105.28,275089031168,Healthcare,Drug Manufacturers - General,3.38,3,1,1.17,1.4,True,vol 2X spike (3d) | vol 3X spike (1d) | vol trend up | multiple spike events
+FDX,85,40,20,10,15,289.88,90331742208,Industrials,Integrated Freight & Logistics,3.13,2,1,1.0,2.0,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | above MA200
+JBL,85,40,20,10,15,231.5,37469257728,Technology,Electronic Components,3.15,1,1,1.07,2.3,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+GE,85,35,25,10,15,311.34,310471131136,Industrials,Aerospace & Defense,2.84,3,0,1.12,1.9,True,vol 2X spike (3d) | vol trend up | multiple spike events | above MA200
+JPM,85,35,25,10,15,320.33,809480355840,Financial Services,Banks - Diversified,2.87,3,0,1.07,2.2,True,vol 2X spike (3d) | vol trend up | multiple spike events | above MA200
+ETR,85,35,25,10,15,92.26,51095592960,Utilities,Utilities - Regulated Electric,2.27,2,0,1.01,4.7,True,vol 2X spike (2d) | vol trend up | multiple spike events | above MA200
+COKE,85,40,20,10,15,154.2,11602822144,Consumer Defensive,Beverages - Non-Alcoholic,3.75,1,1,1.04,8.7,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+PLD,85,35,25,10,15,127.98,134340575232,Real Estate,REIT - Industrial,2.94,2,0,1.03,1.3,True,vol 2X spike (2d) | vol trend up | multiple spike events | above MA200
+AL,85,35,25,10,15,64.04,7282301440,Industrials,Rental & Leasing Services,3.51,1,1,0.96,0.2,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 0% from 52w high
+FIX,85,40,20,10,15,946.44,68728160256,Industrials,Engineering & Construction,15.49,2,2,1.31,8.7,True,vol 2X spike (2d) | vol 3X spike (2d) | vol trend up | multiple spike events
+FLEX,85,40,20,10,15,61.67,52272201728,Technology,Electronic Components,5.88,7,2,1.25,14.6,True,vol 2X spike (7d) | vol 3X spike (2d) | vol trend up | multiple spike events
+ULTA,85,40,20,10,15,606.89,22812153856,Consumer Cyclical,Specialty Retail,4.78,3,1,1.21,1.5,True,vol 2X spike (3d) | vol 3X spike (1d) | vol trend up | above MA200
+JHG,85,35,25,10,15,47.61,7964168192,Financial Services,Asset Management,10.95,2,1,0.99,2.8,True,vol 2X spike (2d) | vol 3X spike (1d) | above MA200 | 3% from 52w high
+MNST,85,35,25,10,15,77.41,84384374784,Consumer Defensive,Beverages - Non-Alcoholic,3.2,1,1,0.94,1.1,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 1% from 52w high
+AIG,85,35,25,10,15,85.62,40486547456,Financial Services,Insurance - Diversified,2.97,3,0,1.03,1.3,True,vol 2X spike (3d) | vol trend up | multiple spike events | above MA200
+TEL,85,35,25,10,15,229.68,60188913664,Technology,Electronic Components,2.56,4,0,1.04,8.1,True,vol 2X spike (4d) | vol trend up | multiple spike events | above MA200
+VTR,85,40,20,10,15,77.87,42423173120,Real Estate,REIT - Healthcare Facilities,3.88,1,1,1.07,3.7,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+ARES,85,40,20,10,15,161.04,41737326592,Financial Services,Asset Management,18.4,2,2,1.32,16.3,True,vol 2X spike (2d) | vol 3X spike (2d) | vol trend up | above MA200
+MLI,85,40,20,10,15,116.04,15571659776,Industrials,Metal Fabrication,5.26,1,1,1.06,2.1,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+AVGO,85,40,20,10,15,349.12,2035907428352,Technology,Semiconductors,5.67,5,2,1.29,15.5,True,vol 2X spike (5d) | vol 3X spike (2d) | vol trend up | above MA200
+HCA,85,40,20,10,15,472.56,96542466048,Healthcare,Medical Care Facilities,3.28,2,1,0.98,8.9,True,vol 2X spike (2d) | vol 3X spike (1d) | multiple spike events | above MA200
+LRCX,85,40,20,10,15,173.57,367730393088,Technology,Semiconductor Equipment & Materials,3.45,2,1,0.98,3.3,True,vol 2X spike (2d) | vol 3X spike (1d) | multiple spike events | above MA200
+DASH,85,40,20,10,15,228.13,71427366912,Consumer Cyclical,Internet Retail,3.3,4,1,1.09,20.1,True,vol 2X spike (4d) | vol 3X spike (1d) | vol trend up | multiple spike events
+IDXX,85,40,20,10,15,682.32,44183154688,Healthcare,Diagnostics & Research,3.35,3,1,1.08,11.4,True,vol 2X spike (3d) | vol 3X spike (1d) | vol trend up | multiple spike events
+TROW,85,35,25,10,15,102.12,22568701952,Financial Services,Asset Management,2.25,2,0,1.07,10.2,True,vol 2X spike (2d) | vol trend up | multiple spike events | above MA200
+CW,85,35,25,10,15,558.39,26937497600,Industrials,Aerospace & Defense,3.26,1,1,0.94,8.7,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 9% from 52w high
+TOL,85,35,25,10,15,136.1,13059147776,Consumer Cyclical,Residential Construction,2.67,3,0,1.07,8.6,True,vol 2X spike (3d) | vol trend up | multiple spike events | above MA200
+EIX,85,35,25,10,15,58.76,26531540992,Utilities,Utilities - Regulated Electric,2.73,2,0,1.04,21.1,True,vol 2X spike (2d) | vol trend up | multiple spike events | above MA200
+NTRS,85,35,25,10,15,137.36,29683431424,Financial Services,Asset Management,3.06,1,1,0.96,2.2,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 2% from 52w high
+KRMN,85,40,20,10,15,74.62,8062899712,Industrials,Aerospace & Defense,4.76,1,1,1.11,16.0,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+CCL,85,40,20,10,15,30.68,36539981824,Consumer Cyclical,Travel Services,3.9,1,1,1.01,6.3,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+ROST,85,40,20,10,15,181.07,73037094912,Consumer Cyclical,Apparel Retail,3.0,3,1,1.18,2.4,True,vol 2X spike (3d) | vol 3X spike (1d) | vol trend up | multiple spike events
+LECO,85,35,25,10,15,241.8,14853332992,Industrials,Tools & Accessories,4.04,1,1,0.98,3.4,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 3% from 52w high
+SEB,85,40,20,10,15,4466.95,4348523520,Industrials,Conglomerates,3.02,13,1,1.49,6.9,True,vol 2X spike (13d) | vol 3X spike (1d) | vol trend up | multiple spike events
+AKAM,85,40,20,10,15,87.97,21565661184,Technology,Software - Infrastructure,7.9,2,1,1.12,15.2,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+GILD,85,35,25,10,15,122.48,163055386624,Healthcare,Drug Manufacturers - General,3.46,1,1,0.99,3.7,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 4% from 52w high
+OMC,85,40,25,10,10,79.93,21962577920,Communication Services,Advertising Agencies,3.04,5,1,1.23,6.3,True,vol 2X spike (5d) | vol 3X spike (1d) | vol trend up | multiple spike events
+ECL,85,35,25,10,15,263.77,71547043840,Basic Materials,Specialty Chemicals,2.32,2,0,1.02,7.1,True,vol 2X spike (2d) | vol trend up | multiple spike events | above MA200
+THC,85,35,25,10,15,201.3,16398761984,Healthcare,Medical Care Facilities,3.3,1,1,0.96,9.7,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 10% from 52w high
+JAZZ,85,40,20,10,15,170.82,14166701056,Healthcare,Biotechnology,7.15,4,2,1.31,6.7,True,vol 2X spike (4d) | vol 3X spike (2d) | vol trend up | multiple spike events
+COO,85,40,20,10,15,82.47,11706863616,Healthcare,Medical Instruments & Supplies,3.59,1,1,1.16,17.7,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+SNDK,85,40,20,10,15,240.22,231366557696,Technology,Computer Hardware,4.53,3,1,1.07,15.6,True,vol 2X spike (3d) | vol 3X spike (1d) | vol trend up | multiple spike events
+AMG,85,40,20,10,15,290.34,7997578752,Financial Services,Asset Management,3.83,5,2,1.2,3.1,True,vol 2X spike (5d) | vol 3X spike (2d) | vol trend up | multiple spike events
+GFS,85,40,20,10,15,36.12,40648630272,Technology,Semiconductors,14.38,1,1,1.18,24.3,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+SHC,85,35,25,10,15,17.75,4499935232,Healthcare,Diagnostics & Research,2.72,3,0,1.01,0.4,True,vol 2X spike (3d) | vol trend up | multiple spike events | above MA200
+SYF,85,40,20,10,15,83.63,24602118144,Financial Services,Credit Services,3.19,2,1,0.97,2.5,True,vol 2X spike (2d) | vol 3X spike (1d) | multiple spike events | above MA200
+WWD,85,40,20,10,15,302.85,22041487360,Industrials,Aerospace & Defense,3.07,2,1,1.13,4.6,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+ECG,85,40,20,10,15,87.63,8332032512,Industrials,Engineering & Construction,3.54,2,1,1.08,15.0,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+AFL,85,35,25,10,15,110.21,57566191616,Financial Services,Insurance - Life,2.94,2,0,1.14,3.9,True,vol 2X spike (2d) | vol trend up | multiple spike events | above MA200
+HIG,85,35,25,10,15,138.25,36190752768,Financial Services,Insurance - Diversified,2.74,2,0,1.02,1.2,True,vol 2X spike (2d) | vol trend up | multiple spike events | above MA200
+CIEN,85,40,20,10,15,238.36,77501890560,Technology,Communication Equipment,4.71,2,1,1.11,3.9,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+NXPI,85,40,20,10,15,218.84,74415849472,Technology,Semiconductors,4.0,2,1,1.07,12.3,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+WMT,85,35,25,10,15,111.48,1039656222720,Consumer Defensive,Discount Stores,2.8,4,0,1.19,4.7,True,vol 2X spike (4d) | vol trend up | multiple spike events | above MA200
+PEP,85,35,25,10,15,142.88,211356401664,Consumer Defensive,Beverages - Non-Alcoholic,2.44,2,0,1.04,7.2,True,vol 2X spike (2d) | vol trend up | multiple spike events | above MA200
+CRUS,85,35,25,10,15,120.4,8756438016,Technology,Semiconductors,3.24,1,1,0.91,12.1,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 12% from 52w high
+FIVE,85,40,20,10,15,188.59,12337957888,Consumer Cyclical,Specialty Retail,3.22,2,1,1.08,2.0,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | above MA200
+TIGO,85,40,20,10,15,52.95,13475357696,Communication Services,Telecom Services,3.9,2,2,1.12,2.1,True,vol 2X spike (2d) | vol 3X spike (2d) | vol trend up | multiple spike events
+WST,85,35,25,10,15,276.41,23025463296,Healthcare,Medical Instruments & Supplies,3.16,1,1,0.96,20.4,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 20% from 52w high
+MA,85,35,25,10,15,575.56,437798141952,Financial Services,Credit Services,2.71,2,0,1.03,3.9,True,vol 2X spike (2d) | vol trend up | multiple spike events | above MA200
+CWEN,85,40,20,10,15,32.99,9162092544,Utilities,Utilities - Renewable,3.09,2,2,0.91,8.4,True,vol 2X spike (2d) | vol 3X spike (2d) | multiple spike events | above MA200
+WM,85,35,25,10,15,221.24,86487367680,Industrials,Waste Management,2.48,2,0,1.01,7.4,True,vol 2X spike (2d) | vol trend up | multiple spike events | above MA200
+DG,85,40,20,10,15,134.6,24949440512,Consumer Defensive,Discount Stores,4.14,2,2,1.19,2.9,True,vol 2X spike (2d) | vol 3X spike (2d) | vol trend up | above MA200
+BIIB,85,40,20,10,15,176.4,28560400384,Healthcare,Drug Manufacturers - General,7.9,2,1,1.15,4.7,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+FHB,85,35,25,10,15,25.33,3325883136,Financial Services,Banks - Regional,2.65,3,0,1.05,5.7,True,vol 2X spike (3d) | vol trend up | multiple spike events | above MA200
+GEV,85,40,20,10,15,658.76,279509106688,Industrials,Specialty Industrial Machinery,3.68,2,1,1.03,9.8,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+FOXA,85,40,20,10,15,73.34,26774427648,Communication Services,Entertainment,3.03,2,1,1.03,1.3,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+AXP,85,40,20,10,15,371.39,215635623936,Financial Services,Credit Services,3.09,1,1,1.01,3.6,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+DKS,80,40,15,10,15,197.69,20198457344,Consumer Cyclical,Specialty Retail,4.42,1,1,1.3,20.0,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | 20% from 52w high
+BRX,80,30,25,10,15,25.79,9156004864,Real Estate,REIT - Retail,2.83,1,0,1.07,7.8,True,vol 2X spike (1d) | vol trend up | above MA200 | 8% from 52w high
+LLYVK,80,40,20,10,10,83.33,8809423872,Communication Services,Entertainment,5.04,4,3,1.24,18.8,True,vol 2X spike (4d) | vol 3X spike (3d) | vol trend up | multiple spike events
+VOYA,80,30,25,10,15,74.49,7397464064,Financial Services,Financial Conglomerates,2.32,1,0,1.06,3.2,True,vol 2X spike (1d) | vol trend up | above MA200 | 3% from 52w high
+GD,80,30,25,10,15,336.53,93712171008,Industrials,Aerospace & Defense,2.45,1,0,1.02,5.8,True,vol 2X spike (1d) | vol trend up | above MA200 | 6% from 52w high
+WDAY,80,40,15,10,15,216.93,31917303808,Technology,Software - Application,4.01,1,1,1.22,23.5,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | 24% from 52w high
+VLO,80,30,25,10,15,163.86,71578615808,Energy,Oil & Gas Refining & Marketing,2.41,1,0,1.15,10.6,True,vol 2X spike (1d) | vol trend up | above MA200 | 11% from 52w high
+ARMK,80,40,15,10,15,37.16,11848647680,Industrials,Specialty Business Services,4.04,2,1,1.05,15.7,False,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | 16% from 52w high
+RPRX,80,30,25,10,15,38.79,29246517248,Healthcare,Biotechnology,2.45,1,0,1.11,4.9,True,vol 2X spike (1d) | vol trend up | above MA200 | 5% from 52w high
+FANG,80,30,25,10,15,150.35,53083820032,Energy,Oil & Gas E&P,2.2,1,0,1.0,14.0,True,vol 2X spike (1d) | vol trend up | above MA200 | 14% from 52w high
+INSM,80,40,20,10,10,174.09,21967859712,Healthcare,Biotechnology,7.19,3,3,1.27,18.2,True,vol 2X spike (3d) | vol 3X spike (3d) | vol trend up | multiple spike events
+OGE,80,40,15,10,15,42.23,9771824128,Utilities,Utilities - Regulated Electric,4.96,2,1,1.15,9.1,False,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+RLI,80,40,15,10,15,64.4,4509575168,Financial Services,Insurance - Property & Casualty,3.77,1,1,1.13,19.8,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | 20% from 52w high
+DCI,80,30,25,10,15,90.05,9960025088,Industrials,Specialty Industrial Machinery,2.89,1,0,1.17,4.7,True,vol 2X spike (1d) | vol trend up | above MA200 | 5% from 52w high
+CPT,80,40,25,10,5,109.52,10282630144,Real Estate,REIT - Residential,6.9,3,1,1.07,9.1,True,vol 2X spike (3d) | vol 3X spike (1d) | vol trend up | multiple spike events
+WDC,80,35,20,10,15,175.98,165447434240,Technology,Computer Hardware,4.0,1,1,0.87,6.7,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 7% from 52w high
+WTFC,80,35,20,10,15,140.58,10227778560,Financial Services,Banks - Regional,4.72,1,1,0.99,2.5,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 3% from 52w high
+RCL,80,35,20,10,15,280.21,73817980928,Consumer Cyclical,Travel Services,2.58,4,0,1.05,22.6,True,vol 2X spike (4d) | vol trend up | multiple spike events | above MA200
+TMUS,80,40,15,10,15,202.82,209547296768,Communication Services,Telecom Services,3.57,1,1,1.01,25.4,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | 25% from 52w high
+SNX,80,30,25,10,15,151.64,19275352064,Technology,Electronics & Computer Distribution,2.86,1,0,1.09,8.8,True,vol 2X spike (1d) | vol trend up | above MA200 | 9% from 52w high
+KR,80,40,15,10,15,62.37,41540218880,Consumer Defensive,Grocery Stores,3.31,1,1,1.05,15.4,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | 15% from 52w high
+HEI,80,30,25,10,15,328.14,40811921408,Industrials,Aerospace & Defense,2.92,1,0,1.2,3.5,True,vol 2X spike (1d) | vol trend up | above MA200 | 3% from 52w high
+GEN,80,40,15,10,15,27.31,13736454144,Technology,Software - Infrastructure,5.17,2,1,1.07,14.0,False,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | 14% from 52w high
+WPC,80,30,25,10,15,63.48,16504967168,Real Estate,REIT - Diversified,2.84,1,0,1.05,6.5,True,vol 2X spike (1d) | vol trend up | above MA200 | 6% from 52w high
+OHI,80,30,25,10,15,43.53,14713670656,Real Estate,REIT - Healthcare Facilities,2.26,1,0,1.01,3.3,True,vol 2X spike (1d) | vol trend up | above MA200 | 3% from 52w high
+REG,80,40,15,10,15,68.93,14504284160,Real Estate,REIT - Retail,3.35,2,1,1.05,7.3,False,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+ASH,80,40,20,10,10,58.76,2518785536,Basic Materials,Specialty Chemicals,3.15,3,1,1.08,16.9,True,vol 2X spike (3d) | vol 3X spike (1d) | vol trend up | multiple spike events
+INGM,80,30,25,10,15,21.78,6300785664,Technology,Information Technology Services,2.54,1,0,1.0,10.5,True,vol 2X spike (1d) | vol trend up | above MA200 | 11% from 52w high
+XEL,80,30,25,10,15,73.65,49560760320,Utilities,Utilities - Regulated Electric,2.67,2,0,1.09,9.9,True,vol 2X spike (2d) | vol trend up | above MA200 | 10% from 52w high
+FE,80,30,25,10,15,44.08,25641854976,Utilities,Utilities - Regulated Electric,2.69,1,0,1.0,5.8,True,vol 2X spike (1d) | vol trend up | above MA200 | 6% from 52w high
+MAT,80,35,20,10,15,19.99,4471856640,Consumer Cyclical,Leisure,4.37,1,1,0.96,9.4,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 9% from 52w high
+MSCI,80,30,25,10,15,579.96,42576187392,Financial Services,Financial Data & Stock Exchanges,2.65,1,0,1.03,7.1,True,vol 2X spike (1d) | vol trend up | above MA200 | 7% from 52w high
+XPO,80,35,20,10,15,137.69,24010342400,Industrials,Trucking,2.84,3,0,1.06,11.2,True,vol 2X spike (3d) | vol trend up | multiple spike events | above MA200
+TRV,80,30,25,10,15,291.32,63376625664,Financial Services,Insurance - Property & Casualty,2.18,1,0,1.01,1.1,True,vol 2X spike (1d) | vol trend up | above MA200 | 1% from 52w high
+THO,80,30,25,10,15,103.04,4060405760,Consumer Cyclical,Recreational Vehicles,2.84,1,0,1.14,11.0,True,vol 2X spike (1d) | vol trend up | above MA200 | 11% from 52w high
+NXST,80,30,25,10,15,203.52,6192996352,Communication Services,Broadcasting,2.57,1,0,1.02,7.3,True,vol 2X spike (1d) | vol trend up | above MA200 | 7% from 52w high
+URI,80,35,20,10,15,815.41,58699821056,Industrials,Rental & Leasing Services,2.28,2,0,1.15,19.8,True,vol 2X spike (2d) | vol trend up | multiple spike events | above MA200
+LLYVA,80,40,20,10,10,81.25,8610694144,Communication Services,Entertainment,7.53,5,2,1.26,18.4,True,vol 2X spike (5d) | vol 3X spike (2d) | vol trend up | multiple spike events
+MCHP,80,35,20,10,15,64.3,53621112832,Technology,Semiconductors,2.83,2,0,1.05,14.9,True,vol 2X spike (2d) | vol trend up | multiple spike events | above MA200
+FTAI,80,35,20,10,15,197.35,27727153152,Industrials,Aerospace & Defense,3.04,1,1,0.81,1.1,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 1% from 52w high
+HXL,80,35,20,10,15,74.65,7189719040,Industrials,Aerospace & Defense,2.78,3,0,1.03,5.4,True,vol 2X spike (3d) | vol trend up | multiple spike events | above MA200
+HII,80,35,20,10,15,340.91,12462705664,Industrials,Aerospace & Defense,3.15,1,1,0.95,5.1,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 5% from 52w high
+RPM,80,40,15,10,15,104.02,12911308800,Basic Materials,Specialty Chemicals,5.04,1,1,1.1,18.2,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | 18% from 52w high
+PSX,80,30,25,10,15,128.5,68784406528,Energy,Oil & Gas Refining & Marketing,2.06,2,0,1.03,10.6,True,vol 2X spike (2d) | vol trend up | above MA200 | 11% from 52w high
+MO,80,40,15,10,15,56.82,113752989696,Consumer Defensive,Tobacco,4.13,1,1,1.0,12.9,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | 13% from 52w high
+APD,80,40,15,10,15,245.48,65782104064,Basic Materials,Specialty Chemicals,3.12,6,1,1.14,25.7,False,vol 2X spike (6d) | vol 3X spike (1d) | vol trend up | multiple spike events
+PATH,80,35,20,10,15,16.67,5653116928,Technology,Software - Infrastructure,4.1,1,1,0.87,16.0,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 16% from 52w high
+ADP,80,40,15,10,15,257.4,85141397504,Technology,Software - Application,3.79,1,1,1.11,20.0,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | 20% from 52w high
+MCD,80,30,25,10,15,306.32,195921985536,Consumer Cyclical,Restaurants,2.3,1,0,1.04,4.3,True,vol 2X spike (1d) | vol trend up | above MA200 | 4% from 52w high
+AEE,80,30,25,10,15,100.06,30174566400,Utilities,Utilities - Regulated Electric,2.68,2,0,1.05,4.9,True,vol 2X spike (2d) | vol trend up | above MA200 | 5% from 52w high
+EWBC,80,35,20,10,15,112.55,16847014912,Financial Services,Banks - Regional,3.85,1,1,0.86,2.5,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 3% from 52w high
+AGO,80,40,25,10,5,90.27,3366867200,Financial Services,Insurance - Specialty,4.39,2,1,1.09,5.3,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | above MA200
+COR,80,35,20,10,15,339.46,50795999232,Healthcare,Medical Distribution,2.32,2,0,1.06,9.9,True,vol 2X spike (2d) | vol trend up | multiple spike events | above MA200
+PSA,80,40,15,10,15,258.5,54601748480,Real Estate,REIT - Industrial,3.84,1,1,1.11,15.6,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | 16% from 52w high
+SRE,80,40,25,10,5,88.47,59832250368,Utilities,Utilities - Diversified,3.48,1,1,1.06,6.2,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+DINO,80,35,20,10,15,45.8,13057350656,Energy,Oil & Gas Refining & Marketing,2.22,2,0,1.16,17.5,True,vol 2X spike (2d) | vol trend up | multiple spike events | above MA200
+BR,80,40,15,10,15,224.01,17290915840,Technology,Information Technology Services,3.61,1,1,1.03,16.5,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | 16% from 52w high
+CVX,80,30,25,10,15,150.83,361713958912,Energy,Oil & Gas Integrated,2.79,1,0,1.1,6.7,True,vol 2X spike (1d) | vol trend up | above MA200 | 7% from 52w high
+LKQ,80,40,15,10,15,30.51,7360906752,Consumer Cyclical,Auto Parts,15.79,1,1,1.27,28.9,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | 29% from 52w high
+O,80,30,25,10,15,55.79,57739935744,Real Estate,REIT - Retail,2.45,1,0,1.06,5.5,True,vol 2X spike (1d) | vol trend up | above MA200 | 5% from 52w high
+NTAP,80,30,25,10,15,107.34,23371120640,Technology,Software - Infrastructure,2.45,1,0,1.07,14.0,True,vol 2X spike (1d) | vol trend up | above MA200 | 14% from 52w high
+TJX,80,30,25,10,15,154.91,169587671040,Consumer Cyclical,Apparel Retail,2.6,4,0,1.11,1.6,True,vol 2X spike (4d) | vol trend up | above MA200 | 2% from 52w high
+ADI,80,35,20,10,15,273.96,203346788352,Technology,Semiconductors,2.69,4,0,1.08,3.3,True,vol 2X spike (4d) | vol trend up | multiple spike events | above MA200
+TSCO,80,40,15,10,15,50.14,16074380288,Consumer Cyclical,Specialty Retail,3.25,1,1,1.0,20.7,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | 21% from 52w high
+MLM,80,30,25,10,15,630.65,35449896960,Basic Materials,Building Materials,2.33,1,0,1.06,4.9,True,vol 2X spike (1d) | vol trend up | above MA200 | 5% from 52w high
+DOX,80,40,15,10,15,80.03,6857651200,Technology,Software - Infrastructure,3.8,1,1,1.05,13.8,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | 14% from 52w high
+DLB,80,40,15,10,15,65.05,5500880384,Industrials,Specialty Business Services,3.28,2,1,1.13,25.7,False,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+WAT,80,35,20,10,15,383.99,34861510656,Healthcare,Diagnostics & Research,3.01,1,1,0.9,9.3,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 9% from 52w high
+PRI,80,40,15,10,15,259.3,8561568768,Financial Services,Insurance - Life,5.54,1,1,1.13,11.4,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | 11% from 52w high
+MDLZ,80,40,15,10,15,53.84,79008645120,Consumer Defensive,Confectioners,3.27,2,1,1.11,22.3,False,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | 22% from 52w high
+AWK,80,40,15,10,15,130.25,24419829760,Utilities,Utilities - Regulated Water,3.38,3,1,1.1,14.1,False,vol 2X spike (3d) | vol 3X spike (1d) | vol trend up | multiple spike events
+SNOW,80,40,20,10,10,222.05,52701962240,Technology,Software - Application,4.68,3,1,1.12,20.9,True,vol 2X spike (3d) | vol 3X spike (1d) | vol trend up | above MA200
+XYL,80,30,25,10,15,137.13,27032881152,Industrials,Specialty Industrial Machinery,2.58,1,0,1.06,10.6,True,vol 2X spike (1d) | vol trend up | above MA200 | 11% from 52w high
+DIS,80,30,25,10,15,114.79,187577958400,Communication Services,Entertainment,2.21,1,0,1.08,7.3,True,vol 2X spike (1d) | vol trend up | above MA200 | 7% from 52w high
+PEG,80,30,25,10,15,80.26,38435528704,Utilities,Utilities - Regulated Electric,2.31,1,0,1.01,9.9,True,vol 2X spike (1d) | vol trend up | above MA200 | 10% from 52w high
+ED,80,40,15,10,15,99.11,39178391552,Utilities,Utilities - Regulated Electric,3.61,3,1,1.13,10.8,False,vol 2X spike (3d) | vol 3X spike (1d) | vol trend up | multiple spike events
+MDB,80,40,20,10,10,421.23,24068261888,Technology,Software - Infrastructure,4.14,2,1,1.11,4.4,True,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | above MA200
+L,80,30,25,10,15,106.13,21502846976,Financial Services,Insurance - Property & Casualty,2.07,1,0,1.11,2.6,True,vol 2X spike (1d) | vol trend up | above MA200 | 3% from 52w high
+SCHW,80,30,25,10,15,99.85,155263369216,Financial Services,Capital Markets,2.58,1,0,1.03,1.7,True,vol 2X spike (1d) | vol trend up | above MA200 | 2% from 52w high
+ALL,80,30,25,10,15,208.05,54869270528,Financial Services,Insurance - Property & Casualty,2.98,1,0,1.09,2.7,True,vol 2X spike (1d) | vol trend up | above MA200 | 3% from 52w high
+BAC,80,30,25,10,15,54.97,364126076928,Financial Services,Banks - Diversified,2.43,2,0,1.01,2.2,True,vol 2X spike (2d) | vol trend up | above MA200 | 2% from 52w high
+ROK,80,35,20,10,15,392.32,50506137600,Industrials,Specialty Industrial Machinery,2.55,2,0,1.05,5.3,True,vol 2X spike (2d) | vol trend up | multiple spike events | above MA200
+MCK,80,30,25,10,15,826.64,88330805248,Healthcare,Medical Distribution,2.02,1,0,1.06,7.5,True,vol 2X spike (1d) | vol trend up | above MA200 | 8% from 52w high
+STX,80,35,20,10,15,279.59,175490580480,Technology,Computer Hardware,5.73,1,1,0.84,9.1,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 9% from 52w high
+ZG,80,40,15,10,15,69.34,9595947008,Communication Services,Internet Content & Information,4.03,2,1,1.1,23.1,False,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | 23% from 52w high
+AME,80,30,25,10,15,206.7,53266776064,Industrials,Specialty Industrial Machinery,2.88,1,0,1.03,1.5,True,vol 2X spike (1d) | vol trend up | above MA200 | 1% from 52w high
+EPAM,80,35,20,10,15,206.31,5184217088,Technology,Information Technology Services,2.33,2,0,1.02,23.3,True,vol 2X spike (2d) | vol trend up | multiple spike events | above MA200
+NWSA,80,40,15,10,15,26.28,14786685952,Communication Services,Entertainment,3.6,1,1,1.01,16.5,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | 17% from 52w high
+PCG,80,30,25,10,15,15.98,35389751296,Utilities,Utilities - Regulated Electric,2.23,1,0,1.03,20.9,True,vol 2X spike (1d) | vol trend up | above MA200 | 21% from 52w high
+CASY,80,30,25,10,15,560.69,31858657280,Consumer Cyclical,Specialty Retail,2.27,1,0,1.05,2.5,True,vol 2X spike (1d) | vol trend up | above MA200 | 2% from 52w high
+COST,80,40,15,10,15,863.22,447552225280,Consumer Defensive,Discount Stores,3.95,1,1,1.09,19.4,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | 19% from 52w high
+JNJ,80,30,25,10,15,205.82,532765245440,Healthcare,Drug Manufacturers - General,2.91,1,0,1.07,3.8,True,vol 2X spike (1d) | vol trend up | above MA200 | 4% from 52w high
+DRI,80,40,15,10,15,182.18,22475202560,Consumer Cyclical,Restaurants,3.44,2,2,1.17,17.7,False,vol 2X spike (2d) | vol 3X spike (2d) | vol trend up | 18% from 52w high
+PAYX,80,40,15,10,15,112.22,33654261760,Technology,Software - Application,3.64,2,1,1.1,28.5,False,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | 28% from 52w high
+ALSN,80,35,20,10,15,98.66,10298990592,Consumer Cyclical,Auto Parts,2.97,2,0,1.05,17.9,True,vol 2X spike (2d) | vol trend up | multiple spike events | above MA200
+LOW,80,30,25,10,15,240.94,128366419968,Consumer Cyclical,Home Improvement Retail,2.72,3,0,1.14,11.1,True,vol 2X spike (3d) | vol trend up | above MA200 | 11% from 52w high
+ON,80,35,20,10,15,54.24,40444407808,Technology,Semiconductors,5.24,1,1,0.99,19.1,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 19% from 52w high
+CNP,80,30,25,10,15,38.4,27291951104,Utilities,Utilities - Regulated Electric,2.18,1,0,1.0,4.1,True,vol 2X spike (1d) | vol trend up | above MA200 | 4% from 52w high
+LAZ,80,30,25,10,15,48.99,4732883968,Financial Services,Capital Markets,2.26,2,0,1.06,14.0,True,vol 2X spike (2d) | vol trend up | above MA200 | 14% from 52w high
+ACI,80,40,15,10,15,16.93,7922448384,Consumer Defensive,Grocery Stores,4.69,1,1,1.0,24.0,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | 24% from 52w high
+ILMN,80,35,20,10,15,132.75,21466443776,Healthcare,Diagnostics & Research,3.18,1,1,0.94,13.3,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 13% from 52w high
+RL,75,30,20,10,15,357.68,21736644608,Consumer Cyclical,Apparel Manufacturing,2.51,1,0,1.1,5.4,True,vol 2X spike (1d) | vol trend up | above MA200 | 5% from 52w high
+WSM,75,35,25,10,5,180.11,21440942080,Consumer Cyclical,Specialty Retail,2.92,3,0,1.17,16.5,True,vol 2X spike (3d) | vol trend up | multiple spike events | above MA200
+VIK,75,30,20,10,15,72.12,36876701696,Consumer Cyclical,Travel Services,2.05,1,0,1.1,3.3,True,vol 2X spike (1d) | vol trend up | above MA200 | 3% from 52w high
+MKTX,75,35,15,10,15,181.71,5243135488,Financial Services,Capital Markets,3.59,1,1,0.99,20.7,False,vol 2X spike (1d) | vol 3X spike (1d) | 21% from 52w high | base pattern
+PFG,75,35,25,10,5,88.11,21709244416,Financial Services,Asset Management,2.91,2,0,1.01,3.5,True,vol 2X spike (2d) | vol trend up | multiple spike events | above MA200
+BMY,75,30,20,10,15,53.03,114682724352,Healthcare,Drug Manufacturers - General,2.6,1,0,1.01,11.1,True,vol 2X spike (1d) | vol trend up | above MA200 | 11% from 52w high
+EHC,75,35,15,10,15,107.27,10525022208,Healthcare,Medical Care Facilities,2.46,2,0,1.04,15.9,False,vol 2X spike (2d) | vol trend up | multiple spike events | 16% from 52w high
+ZTS,75,40,10,10,15,125.33,34724667392,Healthcare,Drug Manufacturers - Specialty & Generic,4.74,2,1,1.21,28.0,False,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | 28% from 52w high
+UHS,75,30,20,10,15,224.84,10288758784,Healthcare,Medical Care Facilities,2.08,1,0,1.08,8.6,True,vol 2X spike (1d) | vol trend up | above MA200 | 9% from 52w high
+NET,75,35,20,10,10,199.62,69307260928,Technology,Software - Infrastructure,3.52,1,1,0.96,23.2,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 23% from 52w high
+IPGP,75,40,10,10,15,72.83,4434933248,Technology,Semiconductor Equipment & Materials,3.12,1,1,1.08,21.0,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | 21% from 52w high
+BA,75,30,20,10,15,218.5,187111440384,Industrials,Aerospace & Defense,2.8,1,0,1.03,10.0,True,vol 2X spike (1d) | vol trend up | above MA200 | 10% from 52w high
+HIW,75,40,10,10,15,25.49,2855091968,Real Estate,REIT - Office,3.62,3,2,1.14,19.1,False,vol 2X spike (3d) | vol 3X spike (2d) | vol trend up | multiple spike events
+NKE,75,40,10,10,15,60.79,65366351872,Consumer Cyclical,Footwear & Accessories,6.61,4,1,1.16,24.0,False,vol 2X spike (4d) | vol 3X spike (1d) | vol trend up | 24% from 52w high
+EQIX,75,35,15,10,15,765.54,105733079040,Real Estate,REIT - Specialty,2.66,2,0,1.08,18.4,False,vol 2X spike (2d) | vol trend up | multiple spike events | 18% from 52w high
+CRS,75,30,20,10,15,318.27,21257990144,Industrials,Metal Fabrication,2.2,1,0,1.01,6.9,True,vol 2X spike (1d) | vol trend up | above MA200 | 7% from 52w high
+GRMN,75,40,10,10,15,204.31,46302846976,Technology,Scientific & Technical Instruments,3.5,2,1,1.07,21.3,False,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+ACGL,75,35,25,10,5,96.66,32772745216,Financial Services,Insurance - Diversified,3.85,1,1,0.95,1.0,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 1% from 52w high
+FAST,75,40,10,10,15,40.43,50708705280,Industrials,Industrial Distribution,3.25,1,1,1.01,18.9,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | 19% from 52w high
+VNOM,75,30,25,10,10,38.53,16797363200,Energy,Oil & Gas Midstream,2.88,1,0,1.06,20.7,True,vol 2X spike (1d) | vol trend up | above MA200 | 21% from 52w high
+PFGC,75,35,15,10,15,90.22,14628207616,Consumer Defensive,Food Distribution,2.52,3,0,1.17,17.3,False,vol 2X spike (3d) | vol trend up | multiple spike events | 17% from 52w high
+IRM,75,40,10,10,15,82.69,38333079552,Real Estate,REIT - Specialty,3.45,4,2,1.22,23.0,False,vol 2X spike (4d) | vol 3X spike (2d) | vol trend up | multiple spike events
+BALL,75,25,25,10,15,53.08,15580745728,Consumer Cyclical,Packaging & Containers,2.41,2,0,0.93,11.0,True,vol 2X spike (2d) | multiple spike events | above MA200 | 11% from 52w high
+CRM,75,25,25,10,15,265.26,148738539520,Technology,Software - Application,2.4,2,0,0.99,27.1,True,vol 2X spike (2d) | multiple spike events | above MA200 | 27% from 52w high
+EFX,75,35,15,10,15,220.18,21211181056,Industrials,Consulting Services,2.78,2,0,1.04,20.9,False,vol 2X spike (2d) | vol trend up | multiple spike events | 21% from 52w high
+SO,75,35,15,10,15,86.89,103486242816,Utilities,Utilities - Regulated Electric,2.07,2,0,1.01,12.4,False,vol 2X spike (2d) | vol trend up | multiple spike events | 12% from 52w high
+MSI,75,40,10,10,15,382.93,63740641280,Technology,Communication Equipment,3.66,2,1,1.22,21.6,False,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+VTRS,75,35,20,10,10,12.43,19995369472,Healthcare,Drug Manufacturers - Specialty & Generic,3.23,1,1,0.98,0.3,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 0% from 52w high
+FNF,75,35,15,10,15,54.64,13613988864,Financial Services,Insurance - Specialty,2.62,3,0,1.07,11.8,False,vol 2X spike (3d) | vol trend up | multiple spike events | 12% from 52w high
+ETN,75,40,10,10,15,318.98,155906342912,Industrials,Specialty Industrial Machinery,3.04,2,1,1.11,19.2,False,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | 19% from 52w high
+EXE,75,30,20,10,15,111.41,22951616512,Energy,Oil & Gas E&P,2.41,1,0,1.01,11.5,True,vol 2X spike (1d) | vol trend up | above MA200 | 12% from 52w high
+UGI,75,30,20,10,15,37.35,6929204736,Utilities,Utilities - Regulated Gas,2.86,2,0,1.15,3.8,True,vol 2X spike (2d) | vol trend up | above MA200 | 4% from 52w high
+XPEV,75,35,20,10,10,21.28,14928826368,Consumer Cyclical,Auto Manufacturers,3.34,1,1,0.88,24.6,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 25% from 52w high
+GOOG,75,30,20,10,15,314.33,4810436771840,Communication Services,Internet Content & Information,2.37,2,0,1.12,4.2,True,vol 2X spike (2d) | vol trend up | above MA200 | 4% from 52w high
+J,75,40,10,10,15,133.59,13984318464,Industrials,Engineering & Construction,3.71,4,1,1.06,20.3,False,vol 2X spike (4d) | vol 3X spike (1d) | vol trend up | multiple spike events
+PCAR,75,40,20,10,5,110.67,60159778816,Industrials,Farm & Heavy Construction Machinery,3.01,1,1,1.07,1.9,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+AEP,75,25,25,10,15,114.25,70820700160,Utilities,Utilities - Regulated Electric,2.13,2,0,0.97,7.1,True,vol 2X spike (2d) | multiple spike events | above MA200 | 7% from 52w high
+AXTA,75,40,20,10,5,32.81,6234366464,Basic Materials,Specialty Chemicals,4.85,3,1,1.06,14.5,True,vol 2X spike (3d) | vol 3X spike (1d) | vol trend up | above MA200
+SOLV,75,40,20,10,5,80.16,12707560448,Healthcare,Medical Instruments & Supplies,3.06,1,1,1.06,9.1,True,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | above MA200
+ORLY,75,35,15,10,15,91.47,77369933824,Consumer Cyclical,Auto Parts,3.05,1,1,1.0,15.9,False,vol 2X spike (1d) | vol 3X spike (1d) | 16% from 52w high | base pattern
+HALO,75,25,25,10,15,67.7,7596572672,Healthcare,Biotechnology,2.7,3,0,0.99,14.8,True,vol 2X spike (3d) | multiple spike events | above MA200 | 15% from 52w high
+C,75,30,20,10,15,116.05,214135193600,Financial Services,Banks - Diversified,2.86,1,0,1.02,4.6,True,vol 2X spike (1d) | vol trend up | above MA200 | 5% from 52w high
+PM,75,25,25,10,15,160.52,266497982464,Consumer Defensive,Tobacco,2.85,2,0,0.91,11.0,True,vol 2X spike (2d) | multiple spike events | above MA200 | 11% from 52w high
+GTM,75,40,10,10,15,10.03,1947779968,Technology,Software - Application,3.19,2,1,1.09,20.6,False,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+GAP,75,30,20,10,15,25.56,8538000384,Consumer Cyclical,Apparel Retail,2.38,1,0,1.03,10.2,True,vol 2X spike (1d) | vol trend up | above MA200 | 10% from 52w high
+ENTG,75,30,20,10,15,86.56,22709452800,Technology,Semiconductor Equipment & Materials,2.27,1,0,1.07,21.2,True,vol 2X spike (1d) | vol trend up | above MA200 | 21% from 52w high
+Z,75,35,15,10,15,69.36,9479259136,Communication Services,Internet Content & Information,3.92,1,1,0.92,26.1,False,vol 2X spike (1d) | vol 3X spike (1d) | 26% from 52w high | base pattern
+GOOGL,75,30,20,10,15,313.63,4855869472768,Communication Services,Internet Content & Information,2.44,3,0,1.13,4.5,True,vol 2X spike (3d) | vol trend up | above MA200 | 4% from 52w high
+SLM,75,40,10,10,15,27.02,4237684480,Financial Services,Credit Services,6.56,3,1,1.02,21.6,False,vol 2X spike (3d) | vol 3X spike (1d) | vol trend up | multiple spike events
+AMTM,75,40,20,10,5,29.3,5983729664,Industrials,Specialty Business Services,5.44,5,2,1.35,8.1,True,vol 2X spike (5d) | vol 3X spike (2d) | vol trend up | multiple spike events
+NVST,75,25,25,10,15,21.91,3944524800,Healthcare,Medical Instruments & Supplies,2.22,2,0,0.99,3.4,True,vol 2X spike (2d) | multiple spike events | above MA200 | 3% from 52w high
+APT,75,35,15,10,15,4.35,65797044,Industrials,Building Products & Equipment,2.98,2,0,1.18,29.8,False,vol 2X spike (2d) | vol trend up | multiple spike events | 30% from 52w high
+VEEV,75,40,10,10,15,224.64,27146471424,Healthcare,Health Information Services,3.47,3,1,1.3,27.7,False,vol 2X spike (3d) | vol 3X spike (1d) | vol trend up | multiple spike events
+NCNO,75,35,15,10,15,26.04,2035658240,Technology,Software - Application,2.67,3,0,1.12,26.7,False,vol 2X spike (3d) | vol trend up | multiple spike events | 27% from 52w high
+ADBE,75,35,15,10,15,352.51,102278766592,Technology,Software - Application,2.38,2,0,1.08,24.3,False,vol 2X spike (2d) | vol trend up | multiple spike events | 24% from 52w high
+INTU,75,35,15,10,15,666.59,110282801152,Technology,Software - Application,2.41,2,0,1.09,17.5,False,vol 2X spike (2d) | vol trend up | multiple spike events | 18% from 52w high
+MPC,75,40,10,10,15,163.0,71486521344,Energy,Oil & Gas Refining & Marketing,3.3,1,1,1.08,18.6,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | 19% from 52w high
+AVB,75,35,15,10,15,181.23,25607749632,Real Estate,REIT - Residential,2.2,2,0,1.07,17.5,False,vol 2X spike (2d) | vol trend up | multiple spike events | 18% from 52w high
+ESI,75,30,20,10,15,25.21,10694355968,Basic Materials,Specialty Chemicals,2.56,2,0,1.04,9.4,True,vol 2X spike (2d) | vol trend up | above MA200 | 9% from 52w high
+NYT,75,30,20,10,15,69.38,12853518336,Communication Services,Publishing,2.23,1,0,1.01,2.1,True,vol 2X spike (1d) | vol trend up | above MA200 | 2% from 52w high
+PNR,75,25,25,10,15,105.19,12414537728,Industrials,Specialty Industrial Machinery,2.58,2,0,0.98,7.0,True,vol 2X spike (2d) | multiple spike events | above MA200 | 7% from 52w high
+TAP,75,40,15,10,10,46.32,7954053120,Consumer Defensive,Beverages - Brewers,6.41,1,1,1.14,25.5,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | 25% from 52w high
+LEA,75,30,20,10,15,115.6,6997784576,Consumer Cyclical,Auto Parts,2.55,1,0,1.04,2.4,True,vol 2X spike (1d) | vol trend up | above MA200 | 2% from 52w high
+OLLI,75,40,10,10,15,109.49,4986964992,Consumer Defensive,Discount Stores,3.08,3,1,1.11,22.8,False,vol 2X spike (3d) | vol 3X spike (1d) | vol trend up | multiple spike events
+MTG,75,35,25,10,5,29.27,5657364992,Financial Services,Insurance - Specialty,3.14,1,1,0.98,1.2,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 1% from 52w high
+GEHC,75,30,20,10,15,83.26,28871981056,Healthcare,Medical Devices,2.44,3,0,1.03,12.0,True,vol 2X spike (3d) | vol trend up | above MA200 | 12% from 52w high
+PRU,75,30,20,10,15,112.17,35013844992,Financial Services,Insurance - Life,2.01,1,0,1.03,3.9,True,vol 2X spike (1d) | vol trend up | above MA200 | 4% from 52w high
+PANW,75,40,10,10,15,186.85,168590688256,Technology,Software - Infrastructure,3.41,3,1,1.14,16.4,False,vol 2X spike (3d) | vol 3X spike (1d) | vol trend up | multiple spike events
+PG,75,35,15,10,15,141.97,340953464832,Consumer Defensive,Household & Personal Products,2.29,2,0,1.14,18.4,False,vol 2X spike (2d) | vol trend up | multiple spike events | 18% from 52w high
+LFUS,75,30,25,10,10,256.8,11557787648,Technology,Electronic Components,2.33,1,0,1.04,6.2,True,vol 2X spike (1d) | vol trend up | above MA200 | 6% from 52w high
+DBX,75,35,15,10,15,27.66,6896653824,Technology,Software - Infrastructure,2.64,2,0,1.06,17.0,False,vol 2X spike (2d) | vol trend up | multiple spike events | 17% from 52w high
+MU,75,30,20,10,15,292.51,842203070464,Technology,Semiconductors,2.53,2,0,1.06,2.1,True,vol 2X spike (2d) | vol trend up | above MA200 | 2% from 52w high
+FFIV,75,40,10,10,15,259.37,19974107136,Technology,Software - Infrastructure,3.34,4,3,1.09,25.0,False,vol 2X spike (4d) | vol 3X spike (3d) | vol trend up | multiple spike events
+CTAS,75,35,15,10,15,189.91,66802544640,Industrials,Specialty Business Services,3.34,1,1,0.97,16.6,False,vol 2X spike (1d) | vol 3X spike (1d) | 17% from 52w high | base pattern
+ABT,75,35,15,10,15,124.37,146869682176,Healthcare,Medical Devices,2.46,2,0,1.04,9.7,False,vol 2X spike (2d) | vol trend up | multiple spike events | 10% from 52w high
+MHK,75,40,10,10,15,109.68,6328764928,Consumer Cyclical,"Furnishings, Fixtures & Appliances",14.1,1,1,1.21,23.4,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | 23% from 52w high
+CBSH,75,35,15,10,15,52.54,7564376576,Financial Services,Banks - Regional,3.33,1,1,0.98,18.0,False,vol 2X spike (1d) | vol 3X spike (1d) | 18% from 52w high | base pattern
+CINF,75,25,25,10,15,163.98,24981907456,Financial Services,Insurance - Property & Casualty,2.1,2,0,0.97,2.4,True,vol 2X spike (2d) | multiple spike events | above MA200 | 2% from 52w high
+APTV,75,30,20,10,15,76.9,12261293056,Consumer Cyclical,Auto Parts,2.7,1,0,1.04,13.4,True,vol 2X spike (1d) | vol trend up | above MA200 | 13% from 52w high
+VICI,75,35,15,10,15,27.89,31054340096,Real Estate,REIT - Diversified,2.66,6,0,1.22,14.1,False,vol 2X spike (6d) | vol trend up | multiple spike events | 14% from 52w high
+NWS,75,35,15,10,15,29.81,17134386176,Communication Services,Entertainment,4.04,1,1,1.0,15.6,False,vol 2X spike (1d) | vol 3X spike (1d) | 16% from 52w high | base pattern
+HUT,75,35,20,10,10,46.28,11086016512,Financial Services,Capital Markets,3.08,1,1,0.89,19.2,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 19% from 52w high
+VMC,75,25,25,10,15,288.33,36814057472,Basic Materials,Building Materials,2.24,3,0,0.96,7.2,True,vol 2X spike (3d) | multiple spike events | above MA200 | 7% from 52w high
+JLL,75,30,20,10,15,339.13,15303848960,Real Estate,Real Estate Services,2.15,1,0,1.01,2.5,True,vol 2X spike (1d) | vol trend up | above MA200 | 2% from 52w high
+CBRE,70,20,25,10,15,163.31,42847850496,Real Estate,Real Estate Services,2.97,1,0,0.96,4.5,True,vol 2X spike (1d) | above MA200 | 4% from 52w high | base pattern
+XP,70,35,10,10,15,16.54,9904706560,Financial Services,Capital Markets,2.65,2,0,1.05,19.1,False,vol 2X spike (2d) | vol trend up | multiple spike events | 19% from 52w high
+TGT,70,30,25,10,5,96.45,56885575680,Consumer Defensive,Discount Stores,2.42,1,0,1.08,29.9,True,vol 2X spike (1d) | vol trend up | above MA200 | 30% from 52w high
+FCN,70,20,25,10,15,172.67,4940608512,Industrials,Consulting Services,2.78,1,0,0.81,15.6,True,vol 2X spike (1d) | above MA200 | 16% from 52w high | base pattern
+SATS,70,40,20,10,0,109.2,36849041408,Communication Services,Telecom Services,5.22,3,1,1.3,2.0,True,vol 2X spike (3d) | vol 3X spike (1d) | vol trend up | multiple spike events
+AZO,70,35,10,10,15,3398.85,57924251648,Consumer Cyclical,Auto Parts,2.74,2,0,1.09,22.5,False,vol 2X spike (2d) | vol trend up | multiple spike events | 23% from 52w high
+LMT,70,20,25,10,15,485.44,116782776320,Industrials,Aerospace & Defense,2.1,1,0,1.0,4.7,True,vol 2X spike (1d) | above MA200 | 5% from 52w high | base pattern
+SSB,70,20,25,10,15,93.94,9403479040,Financial Services,Banks - Regional,2.22,1,0,0.97,11.1,True,vol 2X spike (1d) | above MA200 | 11% from 52w high | base pattern
+VVV,70,35,10,10,15,29.45,4542835200,Consumer Cyclical,Auto & Truck Dealerships,2.62,6,0,1.24,28.7,False,vol 2X spike (6d) | vol trend up | multiple spike events | 29% from 52w high
+EMR,70,20,25,10,15,134.77,79147728896,Industrials,Specialty Industrial Machinery,2.34,1,0,0.95,9.2,True,vol 2X spike (1d) | above MA200 | 9% from 52w high | base pattern
+NRG,70,20,25,10,15,159.44,29139341312,Utilities,Utilities - Independent Power Producers,2.27,1,0,0.9,10.9,True,vol 2X spike (1d) | above MA200 | 11% from 52w high | base pattern
+LNG,70,35,10,10,15,192.93,50455973888,Energy,Oil & Gas Midstream,2.33,2,0,1.05,24.2,False,vol 2X spike (2d) | vol trend up | multiple spike events | 24% from 52w high
+DVA,70,40,5,10,15,113.82,12750350336,Healthcare,Medical Care Facilities,5.85,2,1,1.03,36.6,False,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+TDG,70,30,15,10,15,1316.45,67963777024,Industrials,Aerospace & Defense,2.28,2,0,1.01,13.4,False,vol 2X spike (2d) | vol trend up | 13% from 52w high | base pattern
+NTRA,70,30,20,10,10,229.98,27733295104,Healthcare,Diagnostics & Research,2.75,2,0,1.04,6.9,True,vol 2X spike (2d) | vol trend up | above MA200 | 7% from 52w high
+ZBH,70,30,15,10,15,90.54,15927766016,Healthcare,Medical Devices,2.78,1,0,1.02,20.1,False,vol 2X spike (1d) | vol trend up | 20% from 52w high | base pattern
+AAPL,70,20,25,10,15,272.82,4308095467520,Technology,Consumer Electronics,2.98,1,0,0.95,5.4,True,vol 2X spike (1d) | above MA200 | 5% from 52w high | base pattern
+GL,70,20,25,10,15,140.85,11730570240,Financial Services,Insurance - Life,2.07,1,0,0.91,4.1,True,vol 2X spike (1d) | above MA200 | 4% from 52w high | base pattern
+VNT,70,25,20,10,15,37.83,4236672000,Technology,Scientific & Technical Instruments,2.28,2,0,0.96,13.7,True,vol 2X spike (2d) | multiple spike events | above MA200 | 14% from 52w high
+HUBB,70,20,25,10,15,445.4,26028802048,Industrials,Electrical Equipment & Parts,2.31,1,0,0.89,7.5,True,vol 2X spike (1d) | above MA200 | 7% from 52w high | base pattern
+CFR,70,20,25,10,15,127.38,8719370240,Financial Services,Banks - Regional,2.25,1,0,0.99,9.7,True,vol 2X spike (1d) | above MA200 | 10% from 52w high | base pattern
+BLD,70,20,25,10,15,425.11,12045688832,Industrials,Engineering & Construction,2.66,1,0,0.87,7.9,True,vol 2X spike (1d) | above MA200 | 8% from 52w high | base pattern
+INVH,70,30,15,10,15,27.62,17066825728,Real Estate,REIT - Residential,2.07,1,0,1.03,19.5,False,vol 2X spike (1d) | vol trend up | 20% from 52w high | base pattern
+GDDY,70,40,5,10,15,126.08,12078070784,Technology,Software - Infrastructure,3.08,1,1,1.01,41.6,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | base pattern
+META,70,35,10,10,15,665.38,1547498946560,Communication Services,Internet Content & Information,3.12,1,1,0.92,16.2,False,vol 2X spike (1d) | vol 3X spike (1d) | 16% from 52w high | SPY > MA50
+FERG,70,20,25,10,15,223.83,46804955136,Industrials,Industrial Distribution,2.22,1,0,0.97,12.2,True,vol 2X spike (1d) | above MA200 | 12% from 52w high | base pattern
+DELL,70,25,20,10,15,126.97,169348153344,Technology,Computer Hardware,2.31,3,0,0.98,23.9,True,vol 2X spike (3d) | multiple spike events | above MA200 | 24% from 52w high
+RS,70,20,25,10,15,290.34,18851708928,Basic Materials,Steel,2.54,1,0,0.96,15.4,True,vol 2X spike (1d) | above MA200 | 15% from 52w high | base pattern
+MTB,70,20,25,10,15,202.14,31066853376,Financial Services,Banks - Regional,2.79,1,0,0.84,2.3,True,vol 2X spike (1d) | above MA200 | 2% from 52w high | base pattern
+RKLB,70,30,20,10,10,70.45,61040865280,Industrials,Aerospace & Defense,2.27,2,0,1.02,11.7,True,vol 2X spike (2d) | vol trend up | above MA200 | 12% from 52w high
+WYNN,70,20,25,10,15,120.07,10629836800,Consumer Cyclical,Resorts & Casinos,2.14,1,0,0.92,10.7,True,vol 2X spike (1d) | above MA200 | 11% from 52w high | base pattern
+FRT,70,20,25,10,15,99.6,10054720512,Real Estate,REIT - Retail,2.38,1,0,0.97,5.8,True,vol 2X spike (1d) | above MA200 | 6% from 52w high | base pattern
+FDS,70,40,5,10,15,289.9,8146364416,Financial Services,Financial Data & Stock Exchanges,4.92,3,1,1.02,40.2,False,vol 2X spike (3d) | vol 3X spike (1d) | vol trend up | multiple spike events
+DTM,70,20,25,10,15,120.05,14567616512,Energy,Oil & Gas Midstream,2.15,1,0,0.99,0.9,True,vol 2X spike (1d) | above MA200 | 1% from 52w high | base pattern
+REXR,70,30,25,10,5,38.78,8391589376,Real Estate,REIT - Industrial,2.16,1,0,1.09,10.5,True,vol 2X spike (1d) | vol trend up | above MA200 | 10% from 52w high
+BPOP,70,20,25,10,15,125.24,9634209792,Financial Services,Banks - Regional,2.49,1,0,0.99,2.0,True,vol 2X spike (1d) | above MA200 | 2% from 52w high | base pattern
+SGI,70,20,25,10,15,90.13,14578708480,Consumer Cyclical,"Furnishings, Fixtures & Appliances",2.29,1,0,0.93,5.3,True,vol 2X spike (1d) | above MA200 | 5% from 52w high | base pattern
+BAM,70,30,15,10,15,52.16,81516273664,Financial Services,Asset Management,2.08,1,0,1.01,16.5,False,vol 2X spike (1d) | vol trend up | 16% from 52w high | base pattern
+ADM,70,20,25,10,15,57.73,37428744192,Consumer Defensive,Farm Products,2.29,1,0,0.86,9.8,True,vol 2X spike (1d) | above MA200 | 10% from 52w high | base pattern
+PNW,70,20,25,10,15,87.61,12027826176,Utilities,Utilities - Regulated Electric,2.03,1,0,0.94,4.7,True,vol 2X spike (1d) | above MA200 | 5% from 52w high | base pattern
+AMAT,70,35,20,10,5,259.65,345569492992,Technology,Semiconductor Equipment & Materials,3.29,1,1,0.95,5.8,True,vol 2X spike (1d) | vol 3X spike (1d) | above MA200 | 6% from 52w high
+BJ,70,30,15,10,15,90.09,11871565824,Consumer Defensive,Discount Stores,2.22,2,0,1.1,25.6,False,vol 2X spike (2d) | vol trend up | 26% from 52w high | base pattern
+ROL,70,20,25,10,15,60.25,25917188096,Consumer Cyclical,Personal Services,2.56,1,0,0.97,2.3,True,vol 2X spike (1d) | above MA200 | 2% from 52w high | base pattern
+DLR,70,35,10,10,15,155.33,69862203392,Real Estate,REIT - Specialty,2.97,2,0,1.11,14.1,False,vol 2X spike (2d) | vol trend up | multiple spike events | 14% from 52w high
+CME,70,20,25,10,15,269.39,101913567232,Financial Services,Financial Data & Stock Exchanges,2.32,1,0,1.0,3.8,True,vol 2X spike (1d) | above MA200 | 4% from 52w high | base pattern
+SPG,70,20,25,10,15,184.7,76935553024,Real Estate,REIT - Retail,2.95,1,0,1.0,1.2,True,vol 2X spike (1d) | above MA200 | 1% from 52w high | base pattern
+REGN,70,25,20,10,15,773.01,74948378624,Healthcare,Biotechnology,2.23,2,0,1.0,2.4,True,vol 2X spike (2d) | multiple spike events | above MA200 | 2% from 52w high
+LIN,70,35,10,10,15,426.93,228011196416,Basic Materials,Specialty Chemicals,2.5,2,0,1.11,11.3,False,vol 2X spike (2d) | vol trend up | multiple spike events | 11% from 52w high
+BK,70,20,25,10,15,115.89,89572458496,Financial Services,Banks - Diversified,2.54,1,0,0.99,2.1,True,vol 2X spike (1d) | above MA200 | 2% from 52w high | base pattern
+CDW,70,40,5,10,15,137.7,13387283456,Technology,Information Technology Services,8.67,1,1,1.05,37.0,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | base pattern
+PNC,70,20,25,10,15,207.86,87079297024,Financial Services,Banks - Regional,2.29,1,0,0.92,1.6,True,vol 2X spike (1d) | above MA200 | 2% from 52w high | base pattern
+ATI,70,25,20,10,15,116.17,21615552512,Industrials,Metal Fabrication,2.13,2,0,0.96,1.1,True,vol 2X spike (2d) | multiple spike events | above MA200 | 1% from 52w high
+NVT,70,25,20,10,15,102.66,27484389376,Industrials,Electrical Equipment & Parts,2.44,3,0,1.0,12.3,True,vol 2X spike (3d) | multiple spike events | above MA200 | 12% from 52w high
+DTE,70,30,15,10,15,128.77,29248782336,Utilities,Utilities - Regulated Electric,2.47,3,0,1.07,8.9,False,vol 2X spike (3d) | vol trend up | 9% from 52w high | base pattern
+INGR,70,40,15,10,5,109.56,6765570048,Consumer Defensive,Packaged Foods,3.95,1,1,1.07,20.6,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | 21% from 52w high
+CB,70,20,25,10,15,313.22,123975606272,Financial Services,Insurance - Property & Casualty,2.32,1,0,0.98,0.3,True,vol 2X spike (1d) | above MA200 | 0% from 52w high | base pattern
+MSA,70,30,15,10,15,162.15,6560378880,Industrials,Security & Protection Services,2.01,1,0,1.03,10.5,False,vol 2X spike (1d) | vol trend up | 11% from 52w high | base pattern
+GIS,70,30,15,10,15,45.26,18508064768,Consumer Defensive,Packaged Foods,2.54,2,0,1.08,28.2,False,vol 2X spike (2d) | vol trend up | 28% from 52w high | base pattern
+PKG,70,20,25,10,15,207.04,20036435968,Consumer Cyclical,Packaging & Containers,2.33,2,0,0.99,12.0,True,vol 2X spike (2d) | above MA200 | 12% from 52w high | base pattern
+CUBE,70,30,15,10,15,35.26,9209032704,Real Estate,REIT - Industrial,2.65,1,0,1.06,15.7,False,vol 2X spike (1d) | vol trend up | 16% from 52w high | base pattern
+BF-B,70,40,5,10,15,26.09,12696915968,Consumer Defensive,Beverages - Wineries & Distilleries,3.11,2,2,1.17,31.7,False,vol 2X spike (2d) | vol 3X spike (2d) | vol trend up | multiple spike events
+APH,70,20,25,10,15,135.93,157506928640,Technology,Electronic Components,2.14,1,0,0.96,5.5,True,vol 2X spike (1d) | above MA200 | 5% from 52w high | base pattern
+NNN,70,30,15,10,15,38.72,8439409152,Real Estate,REIT - Retail,2.43,1,0,1.06,7.3,False,vol 2X spike (1d) | vol trend up | 7% from 52w high | base pattern
+RTX,70,20,25,10,15,183.4,237137477632,Industrials,Aerospace & Defense,2.55,1,0,0.96,2.1,True,vol 2X spike (1d) | above MA200 | 2% from 52w high | base pattern
+CPNG,70,40,10,10,10,24.13,30480189440,Consumer Cyclical,Internet Retail,3.09,4,1,1.31,29.2,False,vol 2X spike (4d) | vol 3X spike (1d) | vol trend up | multiple spike events
+DE,70,40,15,10,5,466.95,155268481024,Industrials,Farm & Heavy Construction Machinery,3.9,2,1,1.15,11.4,False,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+HAYW,70,20,25,10,15,15.75,3163320320,Industrials,Electrical Equipment & Parts,2.07,1,0,0.84,11.2,True,vol 2X spike (1d) | above MA200 | 11% from 52w high | base pattern
+BIO,70,20,25,10,15,304.51,6806009856,Healthcare,Medical Devices,2.01,1,0,0.85,18.5,True,vol 2X spike (1d) | above MA200 | 19% from 52w high | base pattern
+WEX,70,20,25,10,15,151.29,4910395904,Technology,Software - Infrastructure,2.1,1,0,0.93,19.8,True,vol 2X spike (1d) | above MA200 | 20% from 52w high | base pattern
+PPG,70,30,15,10,15,103.09,24432068608,Basic Materials,Specialty Chemicals,2.02,1,0,1.02,14.7,False,vol 2X spike (1d) | vol trend up | 15% from 52w high | base pattern
+BDX,70,20,25,10,15,152.83,41174003712,Healthcare,Medical Instruments & Supplies,2.52,1,0,0.92,20.7,True,vol 2X spike (1d) | above MA200 | 21% from 52w high | base pattern
+TMO,70,20,25,10,15,582.87,172803981312,Healthcare,Diagnostics & Research,2.06,1,0,0.91,4.2,True,vol 2X spike (1d) | above MA200 | 4% from 52w high | base pattern
+IR,70,20,25,10,15,80.63,29643765760,Industrials,Specialty Industrial Machinery,2.12,1,0,0.9,15.8,True,vol 2X spike (1d) | above MA200 | 16% from 52w high | base pattern
+HLNE,70,35,10,10,15,135.1,4963984896,Financial Services,Asset Management,3.04,1,1,0.98,23.3,False,vol 2X spike (1d) | vol 3X spike (1d) | 23% from 52w high | SPY > MA50
+GWRE,70,35,10,10,15,202.52,11770904576,Technology,Software - Application,2.62,5,0,1.22,25.7,False,vol 2X spike (5d) | vol trend up | multiple spike events | 26% from 52w high
+FAF,70,20,25,10,15,61.55,7238976000,Financial Services,Insurance - Specialty,2.17,1,0,0.84,8.1,True,vol 2X spike (1d) | above MA200 | 8% from 52w high | base pattern
+MAS,70,30,15,10,15,63.93,14472427520,Industrials,Building Products & Equipment,2.3,1,0,1.05,20.4,False,vol 2X spike (1d) | vol trend up | 20% from 52w high | base pattern
+ODFL,70,35,20,10,5,159.09,41246351360,Industrials,Trucking,2.33,3,0,1.06,23.4,True,vol 2X spike (3d) | vol trend up | multiple spike events | above MA200
+IEX,70,20,25,10,15,178.63,16055346176,Industrials,Specialty Industrial Machinery,2.4,1,0,0.97,19.7,True,vol 2X spike (1d) | above MA200 | 20% from 52w high | base pattern
+MMM,70,20,25,10,15,160.45,74735370240,Industrials,Conglomerates,2.5,1,0,0.89,7.7,True,vol 2X spike (1d) | above MA200 | 8% from 52w high | base pattern
+OKTA,70,40,5,10,15,87.43,14711567360,Technology,Software - Infrastructure,3.16,3,2,1.2,31.5,False,vol 2X spike (3d) | vol 3X spike (2d) | vol trend up | multiple spike events
+RSG,70,30,15,10,15,213.45,61482872832,Industrials,Waste Management,2.87,1,0,1.09,16.6,False,vol 2X spike (1d) | vol trend up | 17% from 52w high | base pattern
+HLT,70,20,25,10,15,290.29,72114446336,Consumer Cyclical,Lodging,2.2,1,0,0.95,1.5,True,vol 2X spike (1d) | above MA200 | 2% from 52w high | base pattern
+RYN,70,30,15,10,15,21.46,6194574848,Real Estate,REIT - Specialty,2.39,1,0,1.02,15.7,False,vol 2X spike (1d) | vol trend up | 16% from 52w high | base pattern
+MTN,70,40,15,10,5,130.97,4469097472,Consumer Cyclical,Resorts & Casinos,3.18,2,1,1.23,26.2,False,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+FTNT,70,40,5,10,15,80.31,83510878208,Technology,Software - Infrastructure,3.59,1,1,1.04,30.1,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | base pattern
+CMI,70,25,20,10,15,511.89,93770473472,Industrials,Specialty Industrial Machinery,2.41,2,0,0.99,2.4,True,vol 2X spike (2d) | multiple spike events | above MA200 | 2% from 52w high
+BOKF,70,20,25,10,15,119.08,8048876032,Financial Services,Banks - Regional,2.5,1,0,0.93,2.1,True,vol 2X spike (1d) | above MA200 | 2% from 52w high | base pattern
+OSK,70,20,25,10,15,126.17,8643707904,Industrials,Farm & Heavy Construction Machinery,2.38,1,0,0.84,11.9,True,vol 2X spike (1d) | above MA200 | 12% from 52w high | base pattern
+LNT,70,20,25,10,15,64.41,18533920768,Utilities,Utilities - Regulated Electric,2.01,1,0,0.89,6.0,True,vol 2X spike (1d) | above MA200 | 6% from 52w high | base pattern
+SSD,70,30,15,10,15,164.31,7759099392,Basic Materials,Lumber & Wood Production,2.68,1,0,1.02,16.5,False,vol 2X spike (1d) | vol trend up | 17% from 52w high | base pattern
+TRMB,70,20,25,10,15,79.56,14173179904,Technology,Scientific & Technical Instruments,2.37,1,0,0.99,9.1,True,vol 2X spike (1d) | above MA200 | 9% from 52w high | base pattern
+IBM,70,20,25,10,15,298.14,215948050432,Technology,Information Technology Services,2.29,1,0,0.77,7.0,True,vol 2X spike (1d) | above MA200 | 7% from 52w high | base pattern
+SAIL,70,30,20,10,10,20.81,6937132032,Technology,Software - Infrastructure,2.55,2,0,1.06,21.0,True,vol 2X spike (2d) | vol trend up | above MA200 | 21% from 52w high
+WTRG,70,20,25,10,15,38.1,10627728384,Utilities,Utilities - Regulated Water,2.56,1,0,0.98,8.5,True,vol 2X spike (1d) | above MA200 | 8% from 52w high | base pattern
+POST,70,30,15,10,15,99.35,4625169920,Consumer Defensive,Packaged Foods,2.86,3,0,1.23,17.1,False,vol 2X spike (3d) | vol trend up | 17% from 52w high | base pattern
+EXPD,70,25,20,10,15,150.12,20493664256,Industrials,Integrated Freight & Logistics,2.32,2,0,0.97,3.2,True,vol 2X spike (2d) | multiple spike events | above MA200 | 3% from 52w high
+LAMR,70,20,25,10,15,125.32,16025962496,Real Estate,REIT - Specialty,2.01,1,0,0.98,4.4,True,vol 2X spike (1d) | above MA200 | 4% from 52w high | base pattern
+HD,70,40,15,10,5,344.05,316188983296,Consumer Cyclical,Home Improvement Retail,3.27,2,1,1.25,18.3,False,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+OTIS,70,30,15,10,15,87.61,28709636096,Industrials,Specialty Industrial Machinery,2.7,1,0,1.09,16.5,False,vol 2X spike (1d) | vol trend up | 16% from 52w high | base pattern
+SNA,70,20,25,10,15,347.46,19373916160,Industrials,Tools & Accessories,2.64,1,0,0.92,1.8,True,vol 2X spike (1d) | above MA200 | 2% from 52w high | base pattern
+UBER,70,35,10,10,15,82.12,153585942528,Technology,Software - Application,2.86,2,0,1.11,19.5,False,vol 2X spike (2d) | vol trend up | multiple spike events | 19% from 52w high
+ASTS,70,30,20,10,10,74.68,29123674112,Technology,Communication Equipment,2.01,1,0,1.01,27.3,True,vol 2X spike (1d) | vol trend up | above MA200 | 27% from 52w high
+SMG,70,30,15,10,15,57.16,3553752832,Basic Materials,Agricultural Inputs,2.12,1,0,1.03,23.7,False,vol 2X spike (1d) | vol trend up | 24% from 52w high | base pattern
+TDC,70,25,20,10,15,30.89,2972619008,Technology,Software - Infrastructure,2.72,2,0,0.92,6.5,True,vol 2X spike (2d) | multiple spike events | above MA200 | 6% from 52w high
+AWI,70,20,25,10,15,191.92,6903728128,Industrials,Building Products & Equipment,2.01,1,0,0.99,6.5,True,vol 2X spike (1d) | above MA200 | 7% from 52w high | base pattern
+RBRK,70,40,10,10,10,77.87,12830185472,Technology,Software - Infrastructure,4.63,3,2,1.19,24.4,False,vol 2X spike (3d) | vol 3X spike (2d) | vol trend up | multiple spike events
+SEIC,70,20,25,10,15,83.16,10966490112,Financial Services,Asset Management,2.32,1,0,0.95,10.9,True,vol 2X spike (1d) | above MA200 | 11% from 52w high | base pattern
+ERIE,70,40,5,10,15,284.71,11289381888,Financial Services,Insurance Brokers,4.67,1,1,1.05,36.3,False,vol 2X spike (1d) | vol 3X spike (1d) | vol trend up | base pattern
+NBIX,70,20,25,10,15,140.95,15308735488,Healthcare,Drug Manufacturers - Specialty & Generic,2.1,1,0,0.99,12.0,True,vol 2X spike (1d) | above MA200 | 12% from 52w high | base pattern
+CTVA,70,20,25,10,15,67.22,54261362688,Basic Materials,Agricultural Inputs,2.06,1,0,0.91,12.5,True,vol 2X spike (1d) | above MA200 | 13% from 52w high | base pattern
+TYL,70,40,5,10,15,458.13,13686712320,Technology,Software - Application,4.03,2,1,1.03,30.7,False,vol 2X spike (2d) | vol 3X spike (1d) | vol trend up | multiple spike events
+WBD,70,40,20,10,0,28.94,67968479232,Communication Services,Entertainment,3.64,3,2,1.28,3.5,True,vol 2X spike (3d) | vol 3X spike (2d) | vol trend up | multiple spike events
+CVS,70,20,25,10,15,78.51,115535216640,Healthcare,Healthcare Plans,2.05,1,0,0.96,6.2,True,vol 2X spike (1d) | above MA200 | 6% from 52w high | base pattern
+DUK,70,30,15,10,15,116.69,96802463744,Utilities,Utilities - Regulated Electric,2.27,1,0,1.04,8.7,False,vol 2X spike (1d) | vol trend up | 9% from 52w high | base pattern
+COP,70,30,25,10,5,93.37,138727145472,Energy,Oil & Gas E&P,2.18,1,0,1.03,9.1,True,vol 2X spike (1d) | vol trend up | above MA200 | 9% from 52w high
+STE,70,20,25,10,15,254.82,20360597504,Healthcare,Medical Devices,2.76,1,0,0.93,4.9,True,vol 2X spike (1d) | above MA200 | 5% from 52w high | base pattern
+CMCSA,70,30,15,10,15,27.44,90734608384,Communication Services,Telecom Services,2.98,3,0,1.07,19.7,False,vol 2X spike (3d) | vol trend up | 20% from 52w high | base pattern
+EVRG,70,20,25,10,15,72.59,18851354624,Utilities,Utilities - Regulated Electric,2.12,1,0,0.92,6.9,True,vol 2X spike (1d) | above MA200 | 7% from 52w high | base pattern
+EXPE,70,25,20,10,15,284.38,27602677760,Consumer Cyclical,Travel Services,2.65,2,0,0.97,2.5,True,vol 2X spike (2d) | multiple spike events | above MA200 | 3% from 52w high
+WAB,70,20,25,10,15,216.43,45084966912,Industrials,Railroads,2.86,1,0,0.94,2.6,True,vol 2X spike (1d) | above MA200 | 3% from 52w high | base pattern

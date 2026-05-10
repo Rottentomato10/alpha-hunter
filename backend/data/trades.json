@@ -1,0 +1,15 @@
+{
+  "trades": [
+    {
+      "id": "4e2568f6",
+      "ticker": "MP",
+      "entry_price": 50.44,
+      "shares": 100,
+      "entry_date": "2026-05-10",
+      "note": "סיגנל ראשון - חצייה מעל MA200",
+      "exit_price": null,
+      "exit_date": null,
+      "status": "open"
+    }
+  ]
+}

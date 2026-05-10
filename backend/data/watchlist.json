@@ -1,0 +1,28 @@
+{
+  "watchlist": [
+    {
+      "ticker": "MP",
+      "added_date": "2026-05-10",
+      "reason": "just crossed MA200, vol unconfirmed",
+      "rev_growth": 119,
+      "short_interest": 17,
+      "status": "monitor"
+    },
+    {
+      "ticker": "ALGM",
+      "added_date": "2026-05-10",
+      "reason": "4.9% below MA200, approaching fast",
+      "rev_growth": 26,
+      "short_interest": 13,
+      "status": "watch"
+    },
+    {
+      "ticker": "OSCR",
+      "added_date": "2026-05-10",
+      "reason": "9.8% below MA200, massive rev growth 53%",
+      "rev_growth": 53,
+      "short_interest": 11,
+      "status": "watch"
+    }
+  ]
+}

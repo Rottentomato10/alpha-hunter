@@ -1,0 +1,88 @@
+{
+  "signal_description": "Bull Fear (SPY > MA50, VIX > 20) + Midcap ($500M-$20B) + Vol 3X+ + Green + Above MA200 + Near 52w High",
+  "total_signals": 649,
+  "return_distribution": [
+    {
+      "bucket": "< -50%",
+      "count": 22,
+      "pct": 3.4
+    },
+    {
+      "bucket": "-50% to -20%",
+      "count": 102,
+      "pct": 15.7
+    },
+    {
+      "bucket": "-20% to 0%",
+      "count": 127,
+      "pct": 19.6
+    },
+    {
+      "bucket": "0% to +50%",
+      "count": 265,
+      "pct": 40.8
+    },
+    {
+      "bucket": "+50% to +100%",
+      "count": 69,
+      "pct": 10.6
+    },
+    {
+      "bucket": "+100% to +300%",
+      "count": 43,
+      "pct": 6.6
+    },
+    {
+      "bucket": "+300%+",
+      "count": 21,
+      "pct": 3.2
+    }
+  ],
+  "central_stats": {
+    "average_return_pct": 54.25,
+    "median_return_pct": 11.54,
+    "std_deviation_pct": 304.16,
+    "p10": -31.48,
+    "p25": -12.18,
+    "p75": 42.32,
+    "p90": 98.56
+  },
+  "extremes": {
+    "max_gain_pct": 5888.02,
+    "max_gain_signal": "GME 2020-06-08",
+    "max_loss_pct": -86.82,
+    "max_loss_signal": "SMMT 2021-05-18"
+  },
+  "loss_analysis": {
+    "negative_count": 251,
+    "negative_pct": 38.7,
+    "loss_over_30_count": 71,
+    "loss_over_30_pct": 10.9,
+    "loss_over_50_count": 22,
+    "loss_over_50_pct": 3.4,
+    "avg_max_intraperiod_drawdown_pct": -18.94,
+    "worst_intraperiod_drawdown_pct": -95.86,
+    "signals_with_30pct_drawdown": 140,
+    "signals_with_30pct_drawdown_pct": 21.6
+  },
+  "kelly_criterion": {
+    "win_rate_positive_pct": 61.3,
+    "avg_win_pct": 103.35,
+    "avg_loss_pct": 23.61,
+    "win_loss_ratio": 4.38,
+    "kelly_full_pct": 52.49,
+    "kelly_half_pct": 26.25,
+    "kelly_quarter_pct": 13.12,
+    "kelly_aggressive_100pct_wins": 5.37,
+    "recommendation": "Risk 13.12% of capital per signal (quarter Kelly)"
+  },
+  "risk_adjusted": {
+    "sharpe_ratio": 0.162,
+    "sortino_ratio": 2.607,
+    "risk_free_rate_pct": 5.0
+  },
+  "streaks": {
+    "max_win_streak": 31,
+    "max_loss_streak": 9
+  }
+}
