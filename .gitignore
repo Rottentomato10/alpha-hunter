@@ -3,10 +3,9 @@ __pycache__/
 *.pyc
 *.parquet
 backend/cache/prices/
-backend/data/cache/
-backend/data/db.sqlite
+backend/data/cache/histories/
+backend/data/cache/market/
 backend/data/*.log
-backend/data/daily_logs/
 backend/data/ai_analysis/
 node_modules/
 .vite/

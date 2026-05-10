@@ -6,6 +6,7 @@ Serves winners_v2, analysis_v2, breakouts, patterns, and live scanner.
 import sqlite3
 import json
 import logging
+import os
 import sys
 import time
 from pathlib import Path
@@ -23,6 +24,24 @@ REPORT_PATH = DATA_DIR / "pattern_report.json"
 
 app = FastAPI(title="ALPHA HUNTER v2 API", version="2.0.0")
 app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_credentials=True, allow_methods=["*"], allow_headers=["*"])
+
+# Ensure data directories exist
+DATA_DIR.mkdir(parents=True, exist_ok=True)
+(DATA_DIR / "daily_logs").mkdir(exist_ok=True)
+(DATA_DIR / "ai_analysis").mkdir(exist_ok=True)
+
+# Create DB if it doesn't exist
+if not DB_PATH.exists():
+    import sqlite3 as _sq
+    _c = _sq.connect(str(DB_PATH))
+    _c.executescript("""
+        CREATE TABLE IF NOT EXISTS tickers (symbol TEXT PRIMARY KEY, name TEXT, exchange TEXT, sector TEXT, industry TEXT);
+        CREATE TABLE IF NOT EXISTS runners (id INTEGER PRIMARY KEY AUTOINCREMENT, symbol TEXT, run_start_date TEXT,
+            run_start_price REAL, peak_price REAL, peak_date TEXT, peak_return_pct REAL,
+            price_30d_after_peak REAL, price_90d_after_peak REAL, sector TEXT, industry TEXT, market_cap_at_start REAL);
+        CREATE TABLE IF NOT EXISTS fingerprints (symbol TEXT, run_start_date TEXT);
+    """)
+    _c.close()
 
 logging.basicConfig(level=logging.INFO)
 log = logging.getLogger("api")

@@ -1,0 +1,45 @@
+{
+  "date": "2026-05-10",
+  "timestamp": "2026-05-10T10:56:35.574180",
+  "watchlist_alerts": [
+    {
+      "ticker": "MP",
+      "prev_status": "monitor",
+      "new_status": "above_ma200",
+      "changed": true,
+      "current_price": 50.44,
+      "ma200": 49.53,
+      "dist_ma200_pct": 1.8,
+      "vol_ratio_today": 0.5,
+      "rev_growth": 119,
+      "short_interest": 17
+    },
+    {
+      "ticker": "ALGM",
+      "prev_status": "watch",
+      "new_status": "approaching",
+      "changed": true,
+      "current_price": 26.83,
+      "ma200": 28.2,
+      "dist_ma200_pct": -4.9,
+      "vol_ratio_today": 0.55,
+      "rev_growth": 26,
+      "short_interest": 13
+    },
+    {
+      "ticker": "OSCR",
+      "prev_status": "watch",
+      "new_status": "watch",
+      "changed": false,
+      "current_price": 14.51,
+      "ma200": 16.08,
+      "dist_ma200_pct": -9.8,
+      "vol_ratio_today": 0.34,
+      "rev_growth": 53,
+      "short_interest": 11
+    }
+  ],
+  "new_signals": [],
+  "signals_count": 0,
+  "status_changes": 2
+}
