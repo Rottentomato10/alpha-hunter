@@ -15,7 +15,8 @@ const tabs = [
   { id: 'log', label: 'לוג יומי', icon: '📋' },
 ]
 
-const API = '/api'
+// In dev: proxy rewrites /api → localhost:8000. In prod: same origin, no /api prefix.
+const API = import.meta.env.DEV ? '/api' : ''
 
 export default function App() {
   const [activeTab, setActiveTab] = useState('dashboard')

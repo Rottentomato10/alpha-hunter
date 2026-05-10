@@ -12,6 +12,8 @@ from pathlib import Path
 
 from fastapi import FastAPI, Query, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
 import yfinance as yf
 
 BASE_DIR = Path(__file__).resolve().parent
@@ -767,6 +769,20 @@ def trades_summary():
     }
 
 
+# Serve frontend static files in production
+FRONTEND_DIR = BASE_DIR.parent / "frontend" / "dist"
+if FRONTEND_DIR.exists():
+    app.mount("/assets", StaticFiles(directory=str(FRONTEND_DIR / "assets")), name="assets")
+
+    @app.get("/{path:path}")
+    def serve_frontend(path: str):
+        file_path = FRONTEND_DIR / path
+        if file_path.exists() and file_path.is_file():
+            return FileResponse(str(file_path))
+        return FileResponse(str(FRONTEND_DIR / "index.html"))
+
+
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    port = int(os.environ.get("PORT", 8000))
+    uvicorn.run(app, host="0.0.0.0", port=port)

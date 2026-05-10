@@ -9,5 +9,4 @@ backend/data/*.log
 backend/data/daily_logs/
 backend/data/ai_analysis/
 node_modules/
-frontend/dist/
 .vite/
