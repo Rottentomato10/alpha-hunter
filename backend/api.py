@@ -707,6 +707,27 @@ def get_all_ai_analysis():
     return results
 
 
+@app.get("/options-analysis")
+def options_analysis():
+    """Get options analysis for watchlist stocks."""
+    path = DATA_DIR / "options_analysis.json"
+    if path.exists():
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
+    return {"error": "Run options_analyzer.py first"}
+
+
+@app.post("/options-analysis/refresh")
+def refresh_options():
+    """Run fresh options analysis."""
+    try:
+        from options_analyzer import run
+        report = run()
+        return {"status": "ok", "winner": report.get("winner")}
+    except Exception as e:
+        raise HTTPException(500, str(e))
+
+
 @app.post("/ai-analysis/{ticker}")
 def run_ai_analysis(ticker: str):
     """Run fresh AI analysis for a ticker."""

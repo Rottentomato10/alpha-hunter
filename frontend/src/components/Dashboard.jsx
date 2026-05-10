@@ -6,6 +6,7 @@ export default function Dashboard({ api }) {
   const [logs, setLogs] = useState([])
   const [aiData, setAiData] = useState({})
   const [sizing, setSizing] = useState(null)
+  const [options, setOptions] = useState(null)
   const [expandedAi, setExpandedAi] = useState(null)
 
   useEffect(() => {
@@ -13,6 +14,7 @@ export default function Dashboard({ api }) {
     axios.get(`${api}/daily-logs`).then(r => setLogs(r.data.slice(0, 5))).catch(() => {})
     axios.get(`${api}/ai-analysis-all`).then(r => setAiData(r.data)).catch(() => {})
     axios.get(`${api}/position-sizing`).then(r => setSizing(r.data)).catch(() => {})
+    axios.get(`${api}/options-analysis`).then(r => { if (!r.data.error) setOptions(r.data) }).catch(() => {})
   }, [])
 
   if (!data) return <div className="text-gray-500 text-center py-12">טוען...</div>
@@ -269,6 +271,104 @@ export default function Dashboard({ api }) {
           </div>
         </div>
       </div>
+
+      {/* Options Analysis — Full Width Below */}
+      {options && options.recommendation && !options.recommendation.error && (
+        <div className="lg:col-span-5 mt-2">
+          <div className="bg-[#12121a] rounded-xl p-5 border border-[#1e1e2e]">
+            <h3 className="text-sm font-bold text-white mb-4 flex items-center gap-2">
+              <span>📊</span> ניתוח אופציות — LEAPS
+            </h3>
+
+            {/* Scores comparison */}
+            <div className="grid grid-cols-3 gap-3 mb-4">
+              {(options.scores || []).map(s => (
+                <div key={s.ticker} className={`rounded-lg p-3 border ${s.ticker === options.winner ? 'border-purple-500/50 bg-purple-500/5' : 'border-[#1e1e2e] bg-[#0a0a0f]'}`}>
+                  <div className="flex items-center justify-between mb-2">
+                    <span className="font-bold text-white text-sm" dir="ltr">{s.ticker}</span>
+                    {s.ticker === options.winner && <span className="text-[10px] bg-purple-400/20 text-purple-400 px-1.5 py-0.5 rounded">🏆 מומלץ</span>}
+                  </div>
+                  <div className="text-xl font-black text-purple-400 mb-2">{s.total_score}<span className="text-xs text-gray-500">/100</span></div>
+                  <div className="space-y-1 text-[10px]">
+                    <div className="flex justify-between"><span className="text-gray-500">IV</span><span className="text-gray-300">{s.iv_score}/30</span></div>
+                    <div className="flex justify-between"><span className="text-gray-500">קטליסט</span><span className="text-gray-300">{s.catalyst_score}/25</span></div>
+                    <div className="flex justify-between"><span className="text-gray-500">תזמון</span><span className="text-gray-300">{s.timing_score}/25</span></div>
+                    <div className="flex justify-between"><span className="text-gray-500">שורט</span><span className="text-gray-300">{s.short_score}/20</span></div>
+                  </div>
+                </div>
+              ))}
+            </div>
+
+            {/* Winner recommendation */}
+            {(() => {
+              const rec = options.recommendation
+              const atm = rec.atm
+              const scenarios = rec.scenarios || []
+              const portfolio = rec.portfolio_options || {}
+              return (
+                <div className="space-y-4">
+                  <div className="bg-[#0a0a0f] rounded-lg p-4 border border-[#1e1e2e]">
+                    <div className="text-xs text-purple-400 font-bold mb-1">המלצה: {rec.ticker} LEAPS — {rec.expiration}</div>
+                    <div className="text-xs text-gray-400 mb-2">{rec.why_this_stock}</div>
+                    <div className="grid grid-cols-2 md:grid-cols-4 gap-2 text-[11px]">
+                      <div className="bg-[#12121a] rounded p-2">
+                        <div className="text-gray-500">סטרייק ATM</div>
+                        <div className="text-white font-bold" dir="ltr">${atm.strike}</div>
+                      </div>
+                      <div className="bg-[#12121a] rounded p-2">
+                        <div className="text-gray-500">פרמיה/חוזה</div>
+                        <div className="text-white font-bold" dir="ltr">${atm.cost_per_contract}</div>
+                      </div>
+                      <div className="bg-[#12121a] rounded p-2">
+                        <div className="text-gray-500">Break-even</div>
+                        <div className="text-white font-bold" dir="ltr">${atm.breakeven}</div>
+                      </div>
+                      <div className="bg-[#12121a] rounded p-2">
+                        <div className="text-gray-500">Delta</div>
+                        <div className="text-white font-bold" dir="ltr">{atm.delta}</div>
+                      </div>
+                    </div>
+                  </div>
+
+                  {/* Scenarios */}
+                  <div className="bg-[#0a0a0f] rounded-lg p-4 border border-[#1e1e2e]">
+                    <div className="text-xs text-gray-500 mb-2">תרחישים (ATM Call):</div>
+                    <div className="grid grid-cols-5 gap-1 text-[10px]">
+                      {scenarios.map((s, i) => (
+                        <div key={i} className={`rounded p-2 text-center ${s.atm_return_pct > 0 ? 'bg-emerald-400/5' : 'bg-red-400/5'}`}>
+                          <div className="text-gray-500">מניה {s.stock_move_pct >= 0 ? '+' : ''}{s.stock_move_pct}%</div>
+                          <div className={`font-bold ${s.atm_return_pct > 0 ? 'text-emerald-400' : 'text-red-400'}`}>
+                            {s.atm_return_pct >= 0 ? '+' : ''}{s.atm_return_pct}%
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+
+                  {/* Portfolio options */}
+                  <div className="bg-[#0a0a0f] rounded-lg p-4 border border-[#1e1e2e]">
+                    <div className="text-xs text-gray-500 mb-2">חלוקת תיק ($10,000):</div>
+                    <div className="grid grid-cols-3 gap-2 text-[10px]">
+                      {['option_a', 'option_b', 'option_c'].map(key => {
+                        const opt = portfolio[key]
+                        if (!opt) return null
+                        return (
+                          <div key={key} className="bg-[#12121a] rounded p-2.5 border border-[#1e1e2e]">
+                            <div className="text-gray-300 font-bold mb-1">{opt.name?.split('(')[0]}</div>
+                            <div className="text-gray-500 mb-1">{opt.stock_pct}% מניה + {opt.leaps_pct}% LEAPS</div>
+                            <div className="text-red-400">הפסד מקס: -{opt.max_loss_pct}%</div>
+                            <div className="text-emerald-400 font-bold">Best: +{opt.best_case_pct?.toLocaleString()}%</div>
+                          </div>
+                        )
+                      })}
+                    </div>
+                  </div>
+                </div>
+              )
+            })()}
+          </div>
+        </div>
+      )}
     </div>
   )
 }
